@@ -1,0 +1,91 @@
+{
+    "data": {
+        "tournament": {
+            "key": "a-rz--cricket--icc--tour-menglannx4qzo-mwindiesxv8aqd-T20--2025-6DdP",
+            "name": "West Indies tour of England, 2025",
+            "short_name": "ENG vs WI 2025",
+            "alternate_name": null,
+            "alternate_short_name": null,
+            "countries": [
+                {
+                    "short_code": "GB",
+                    "code": "GBR",
+                    "name": "United Kingdom",
+                    "official_name": "United Kingdom of Great Britain and Northern Ireland",
+                    "is_region": false
+                }
+            ],
+            "start_date": 1749231000,
+            "gender": "male",
+            "point_system": "no_points",
+            "competition": {
+                "key": "c__competition__west_indies_vs_england__8c4ea",
+                "code": "ENG & WI T20",
+                "name": "T20 of England & West Indies"
+            },
+            "association_key": "c__board__icc__c2ab7ee61",
+            "metric_group": "MG100",
+            "sport": "cricket",
+            "is_date_confirmed": true,
+            "is_venue_confirmed": true,
+            "last_scheduled_match_date": 1749591000,
+            "formats": [
+                "t20"
+            ],
+            "tour_key": "a-rz--cricket--icc--menglannx4qzomwindiesxv8aqd-pVqj"
+        },  
+        "teams": {
+            "eng": {
+                "key": "eng",
+                "code": "ENG",
+                "name": "England",
+                "alternate_name": "England",
+                "alternate_code": "ENG",
+                "gender_name": "England Men"
+            },
+            "wi": {
+                "key": "wi",
+                "code": "WI",
+                "name": "West Indies",
+                "alternate_name": "West Indies",
+                "alternate_code": "WI",
+                "gender_name": "West Indies Men"
+            }
+        },
+        "rounds": [
+            {
+                "key": "r1",
+                "name": "T2O",
+                "have_points": false,
+                "groups": [
+                    {
+                        "key": "r1-g1",
+                        "name": "T20",
+                        "team_keys": [
+                            "eng",
+                            "wi"
+                        ],
+                        "match_keys": [
+                            "a-rz--cricket--c41880303775789522949",
+                            "a-rz--cricket--zL1880303776703881222",
+                            "a-rz--cricket--WT1880303777739874311"
+                        ]
+                    }
+                ],
+                "format": "t20"
+            }
+        ]
+    },
+    "cache": {
+        "key": "api:rz:v5_cricket_tournament_detail:a-rz--cricket--icc--tour-menglannx4qzo-mwindiesxv8aqd-T20--2025-6DdP",
+        "expires": 1751236203.116867,
+        "etag": "ET:Dm13048323601177121467:0",
+        "max_age": 300
+    },
+    "schema": {
+        "major_version": "5.0",
+        "minor_version": "2"
+    },
+    "error": null,
+    "http_status_code": 200
+}

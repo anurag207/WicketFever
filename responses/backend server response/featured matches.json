@@ -1,0 +1,1112 @@
+{
+    "data": {
+        "matches": [
+            {
+                "key": "a-rz--cricket--XL1907078020640944151",
+                "name": "West Indies Women vs South Africa Women",
+                "short_name": "WI-W vs SA-W",
+                "sub_title": "2nd Match",
+                "status": "completed",
+                "start_at": 1750600800,
+                "tournament": {
+                    "key": "a-rz--cricket--icc--tour-fwindies8rkcxn-fsafricablwkep-T20--2025-ydTd",
+                    "name": "South Africa Women tour of West Indies, T20, 2025",
+                    "short_name": "WI-W vs SA-W",
+                    "alternate_name": "South Africa Women tour of West Indies, T20, 2025",
+                    "alternate_short_name": "WI-W vs SA-W"
+                },
+                "metric_group": "MG100",
+                "sport": "cricket",
+                "winner": "a",
+                "teams": {
+                    "a": {
+                        "key": "wiw",
+                        "code": "WI-W",
+                        "name": "West Indies Women",
+                        "alternate_name": "West Indies Women",
+                        "alternate_code": "WI-W",
+                        "gender_name": "West Indies Women",
+                        "country_code": "WIN"
+                    },
+                    "b": {
+                        "key": "rsaw",
+                        "code": "SA-W",
+                        "name": "South Africa Women",
+                        "alternate_name": "South Africa Women",
+                        "alternate_code": "SA-W",
+                        "gender_name": "South Africa Women",
+                        "country_code": "ZAF"
+                    }
+                },
+                "venue": {
+                    "key": "c__stadium__three_ws_oval__6ecb2",
+                    "name": "3Ws Oval",
+                    "city": "Saint Michael",
+                    "country": {
+                        "short_code": "BB",
+                        "code": "BRB",
+                        "name": "Barbados",
+                        "official_name": "Barbados",
+                        "is_region": false
+                    },
+                    "geolocation": "13.1356165,-59.6307766"
+                },
+                "expected_start_at": null,
+                "association": {
+                    "key": "c__board__icc__c2ab7ee61",
+                    "code": "ICC",
+                    "name": "International Cricket Council",
+                    "country": null,
+                    "parent": null
+                },
+                "messages": [],
+                "gender": "female",
+                "tour_key": "a-rz--cricket--icc--fwindies8rkcxnfsafricablwkep-9eAk",
+                "format": "t20",
+                "estimated_end_date": 1750615200,
+                "completed_date_approximate": 1750612382.267
+            },
+            {
+                "key": "a-rz--cricket--3x1907078019688837142",
+                "name": "West Indies Women vs South Africa Women",
+                "short_name": "WI-W vs SA-W",
+                "sub_title": "1st Match",
+                "status": "completed",
+                "start_at": 1750442400,
+                "tournament": {
+                    "key": "a-rz--cricket--icc--tour-fwindies8rkcxn-fsafricablwkep-T20--2025-ydTd",
+                    "name": "South Africa Women tour of West Indies, T20, 2025",
+                    "short_name": "WI-W vs SA-W",
+                    "alternate_name": "South Africa Women tour of West Indies, T20, 2025",
+                    "alternate_short_name": "WI-W vs SA-W"
+                },
+                "metric_group": "MG100",
+                "sport": "cricket",
+                "winner": "b",
+                "teams": {
+                    "a": {
+                        "key": "wiw",
+                        "code": "WI-W",
+                        "name": "West Indies Women",
+                        "alternate_name": "West Indies Women",
+                        "alternate_code": "WI-W",
+                        "gender_name": "West Indies Women",
+                        "country_code": "WIN"
+                    },
+                    "b": {
+                        "key": "rsaw",
+                        "code": "SA-W",
+                        "name": "South Africa Women",
+                        "alternate_name": "South Africa Women",
+                        "alternate_code": "SA-W",
+                        "gender_name": "South Africa Women",
+                        "country_code": "ZAF"
+                    }
+                },
+                "venue": {
+                    "key": "c__stadium__three_ws_oval__6ecb2",
+                    "name": "3Ws Oval",
+                    "city": "Saint Michael",
+                    "country": {
+                        "short_code": "BB",
+                        "code": "BRB",
+                        "name": "Barbados",
+                        "official_name": "Barbados",
+                        "is_region": false
+                    },
+                    "geolocation": "13.1356165,-59.6307766"
+                },
+                "expected_start_at": null,
+                "association": {
+                    "key": "c__board__icc__c2ab7ee61",
+                    "code": "ICC",
+                    "name": "International Cricket Council",
+                    "country": null,
+                    "parent": null
+                },
+                "messages": [],
+                "gender": "female",
+                "tour_key": "a-rz--cricket--icc--fwindies8rkcxnfsafricablwkep-9eAk",
+                "format": "t20",
+                "estimated_end_date": 1750456800,
+                "completed_date_approximate": 1750454388.444
+            },
+            {
+                "key": "a-rz--cricket--je1907077476576796695",
+                "name": "West Indies Women vs South Africa Women",
+                "short_name": "WI-W vs SA-W",
+                "sub_title": "3rd Match",
+                "status": "completed",
+                "start_at": 1750168800,
+                "tournament": {
+                    "key": "a-rz--cricket--icc--tour-fwindies8rkcxn-fsafricablwkep-Oneday--2025-6A3G",
+                    "name": "South Africa Women tour of West Indies, Oneday, 2025",
+                    "short_name": "WI-W vs SA-W",
+                    "alternate_name": "South Africa Women tour of West Indies, Oneday, 2025",
+                    "alternate_short_name": "WI-W vs SA-W"
+                },
+                "metric_group": "MG100",
+                "sport": "cricket",
+                "winner": "b",
+                "teams": {
+                    "a": {
+                        "key": "wiw",
+                        "code": "WI-W",
+                        "name": "West Indies Women",
+                        "alternate_name": "West Indies Women",
+                        "alternate_code": "WI-W",
+                        "gender_name": "West Indies Women",
+                        "country_code": "WIN"
+                    },
+                    "b": {
+                        "key": "rsaw",
+                        "code": "SA-W",
+                        "name": "South Africa Women",
+                        "alternate_name": "South Africa Women",
+                        "alternate_code": "SA-W",
+                        "gender_name": "South Africa Women",
+                        "country_code": "ZAF"
+                    }
+                },
+                "venue": {
+                    "key": "c__stadium__three_ws_oval__6ecb2",
+                    "name": "3Ws Oval",
+                    "city": "Saint Michael",
+                    "country": {
+                        "short_code": "BB",
+                        "code": "BRB",
+                        "name": "Barbados",
+                        "official_name": "Barbados",
+                        "is_region": false
+                    },
+                    "geolocation": "13.1356165,-59.6307766"
+                },
+                "expected_start_at": 1750170600,
+                "association": {
+                    "key": "c__board__icc__c2ab7ee61",
+                    "code": "ICC",
+                    "name": "International Cricket Council",
+                    "country": null,
+                    "parent": null
+                },
+                "messages": [],
+                "gender": "female",
+                "tour_key": "a-rz--cricket--icc--fwindies8rkcxnfsafricablwkep-9eAk",
+                "format": "oneday",
+                "estimated_end_date": 1750203000,
+                "completed_date_approximate": 1750196272.631
+            },
+            {
+                "key": "a-rz--cricket--ud1920092593560100913",
+                "name": "Sri Lanka vs Bangladesh",
+                "short_name": "SL vs BAN",
+                "sub_title": "1st Match",
+                "status": "completed",
+                "start_at": 1750134600,
+                "tournament": {
+                    "key": "a-rz--cricket--icc--tour-mslankaik60q4-mbanglaefrnrq-Test--2025-0KYm",
+                    "name": "Bangladesh tour of Sri Lanka, 2025",
+                    "short_name": "BAN vs SL 2025",
+                    "alternate_name": "Bangladesh tour of Sri Lanka, 2025",
+                    "alternate_short_name": "BAN vs SL 2025"
+                },
+                "metric_group": "MG100",
+                "sport": "cricket",
+                "winner": null,
+                "teams": {
+                    "a": {
+                        "key": "sl",
+                        "code": "SL",
+                        "name": "Sri Lanka",
+                        "alternate_name": "Sri Lanka",
+                        "alternate_code": "SL",
+                        "gender_name": "Sri Lanka Men",
+                        "country_code": "LKA"
+                    },
+                    "b": {
+                        "key": "ban",
+                        "code": "BAN",
+                        "name": "Bangladesh",
+                        "alternate_name": "Bangladesh",
+                        "alternate_code": "BAN",
+                        "gender_name": "Bangladesh Men",
+                        "country_code": "BGD"
+                    }
+                },
+                "venue": {
+                    "key": "c__stadium__galle_international_stadium__15a3b",
+                    "name": "Galle International Cricket Stadium ",
+                    "city": "Galle",
+                    "country": {
+                        "short_code": "LK",
+                        "code": "LKA",
+                        "name": "Sri Lanka",
+                        "official_name": "Democratic Socialist Republic of Sri Lanka",
+                        "is_region": false
+                    },
+                    "geolocation": "6.0315438,80.2160415"
+                },
+                "expected_start_at": null,
+                "association": {
+                    "key": "c__board__icc__c2ab7ee61",
+                    "code": "ICC",
+                    "name": "International Cricket Council",
+                    "country": null,
+                    "parent": null
+                },
+                "messages": [],
+                "gender": "male",
+                "tour_key": "a-rz--cricket--icc--mslankaik60q4mbanglaefrnrq-n7Dz",
+                "format": "test",
+                "estimated_end_date": 1750512600,
+                "completed_date_approximate": null
+            },
+            {
+                "key": "a-rz--cricket--8i1890759914545127435",
+                "name": "Ireland vs West Indies",
+                "short_name": "IRE vs WI",
+                "sub_title": "3rd Match",
+                "status": "completed",
+                "start_at": 1749996000,
+                "tournament": {
+                    "key": "a-rz--cricket--icc--tour-mirelanapphny-mwindiesxv8aqd-T20--2025-rKeu",
+                    "name": "West Indies tour of Ireland, 2025",
+                    "short_name": "IRE vs WI ",
+                    "alternate_name": "West Indies tour of Ireland, 2025",
+                    "alternate_short_name": "IRE vs WI "
+                },
+                "metric_group": "MG100",
+                "sport": "cricket",
+                "winner": "b",
+                "teams": {
+                    "a": {
+                        "key": "ire",
+                        "code": "IRE",
+                        "name": "Ireland",
+                        "alternate_name": "Ireland",
+                        "alternate_code": "IRE",
+                        "gender_name": "Ireland Men",
+                        "country_code": "IRL"
+                    },
+                    "b": {
+                        "key": "wi",
+                        "code": "WI",
+                        "name": "West Indies",
+                        "alternate_name": "West Indies",
+                        "alternate_code": "WI",
+                        "gender_name": "West Indies Men",
+                        "country_code": "WIN"
+                    }
+                },
+                "venue": {
+                    "key": "c__stadium__bready_cricket_club__2a164",
+                    "name": "Bready Cricket Club",
+                    "city": "Magheramason",
+                    "country": {
+                        "short_code": "GB",
+                        "code": "GBR",
+                        "name": "United Kingdom",
+                        "official_name": "United Kingdom of Great Britain and Northern Ireland",
+                        "is_region": false
+                    },
+                    "geolocation": "54.9382624,-7.3801316"
+                },
+                "expected_start_at": null,
+                "association": {
+                    "key": "c__board__icc__c2ab7ee61",
+                    "code": "ICC",
+                    "name": "International Cricket Council",
+                    "country": null,
+                    "parent": null
+                },
+                "messages": [],
+                "gender": "male",
+                "tour_key": "a-rz--cricket--icc--mirelanapphnymwindiesxv8aqd-94ad",
+                "format": "t20",
+                "estimated_end_date": 1750010400,
+                "completed_date_approximate": 1750008835.003
+            },
+            {
+                "key": "a-rz--cricket--7H1907082295035183112",
+                "name": "England vs India",
+                "short_name": "ENG vs IND",
+                "sub_title": "1st Match",
+                "status": "started",
+                "start_at": 1750413600,
+                "tournament": {
+                    "key": "a-rz--cricket--icc--tour-menglannx4qzo-mindialf3lb7-Test--2025-4Od1",
+                    "name": "India tour of England, Test, 2025",
+                    "short_name": "ENG vs IND",
+                    "alternate_name": "India tour of England, Test, 2025",
+                    "alternate_short_name": "ENG vs IND"
+                },
+                "metric_group": "MG100",
+                "sport": "cricket",
+                "winner": null,
+                "teams": {
+                    "a": {
+                        "key": "eng",
+                        "code": "ENG",
+                        "name": "England",
+                        "alternate_name": "England",
+                        "alternate_code": "ENG",
+                        "gender_name": "England Men",
+                        "country_code": "GBR"
+                    },
+                    "b": {
+                        "key": "ind",
+                        "code": "IND",
+                        "name": "India",
+                        "alternate_name": "India",
+                        "alternate_code": "IND",
+                        "gender_name": "India Men",
+                        "country_code": "IND"
+                    }
+                },
+                "venue": {
+                    "key": "a-rz--headinv6wlv9",
+                    "name": "Headingley Cricket Ground, Leeds",
+                    "city": "United Kingdom",
+                    "country": {
+                        "short_code": "GB",
+                        "code": "GBR",
+                        "name": "United Kingdom",
+                        "official_name": "United Kingdom of Great Britain and Northern Ireland",
+                        "is_region": false
+                    },
+                    "geolocation": "53.8215574,-1.5757947"
+                },
+                "expected_start_at": null,
+                "association": {
+                    "key": "c__board__icc__c2ab7ee61",
+                    "code": "ICC",
+                    "name": "International Cricket Council",
+                    "country": null,
+                    "parent": null
+                },
+                "messages": [],
+                "gender": "male",
+                "tour_key": "a-rz--cricket--icc--menglannx4qzomindialf3lb7-v7nq",
+                "format": "test",
+                "estimated_end_date": 1750791600,
+                "completed_date_approximate": null
+            },
+            {
+                "key": "a-rz--cricket--fe1907078021647577112",
+                "name": "West Indies Women vs South Africa Women",
+                "short_name": "WI-W vs SA-W",
+                "sub_title": "3rd Match",
+                "status": "not_started",
+                "start_at": 1750701600,
+                "tournament": {
+                    "key": "a-rz--cricket--icc--tour-fwindies8rkcxn-fsafricablwkep-T20--2025-ydTd",
+                    "name": "South Africa Women tour of West Indies, T20, 2025",
+                    "short_name": "WI-W vs SA-W",
+                    "alternate_name": "South Africa Women tour of West Indies, T20, 2025",
+                    "alternate_short_name": "WI-W vs SA-W"
+                },
+                "metric_group": "MG100",
+                "sport": "cricket",
+                "winner": null,
+                "teams": {
+                    "a": {
+                        "key": "wiw",
+                        "code": "WI-W",
+                        "name": "West Indies Women",
+                        "alternate_name": "West Indies Women",
+                        "alternate_code": "WI-W",
+                        "gender_name": "West Indies Women",
+                        "country_code": "WIN"
+                    },
+                    "b": {
+                        "key": "rsaw",
+                        "code": "SA-W",
+                        "name": "South Africa Women",
+                        "alternate_name": "South Africa Women",
+                        "alternate_code": "SA-W",
+                        "gender_name": "South Africa Women",
+                        "country_code": "ZAF"
+                    }
+                },
+                "venue": {
+                    "key": "c__stadium__three_ws_oval__6ecb2",
+                    "name": "3Ws Oval",
+                    "city": "Saint Michael",
+                    "country": {
+                        "short_code": "BB",
+                        "code": "BRB",
+                        "name": "Barbados",
+                        "official_name": "Barbados",
+                        "is_region": false
+                    },
+                    "geolocation": "13.1356165,-59.6307766"
+                },
+                "expected_start_at": null,
+                "association": {
+                    "key": "c__board__icc__c2ab7ee61",
+                    "code": "ICC",
+                    "name": "International Cricket Council",
+                    "country": null,
+                    "parent": null
+                },
+                "messages": [],
+                "gender": "female",
+                "tour_key": "a-rz--cricket--icc--fwindies8rkcxnfsafricablwkep-9eAk",
+                "format": "t20",
+                "estimated_end_date": 1750716000,
+                "completed_date_approximate": null
+            },
+            {
+                "key": "a-rz--cricket--w01920092594638037042",
+                "name": "Sri Lanka vs Bangladesh",
+                "short_name": "SL vs BAN",
+                "sub_title": "2nd Match",
+                "status": "not_started",
+                "start_at": 1750825800,
+                "tournament": {
+                    "key": "a-rz--cricket--icc--tour-mslankaik60q4-mbanglaefrnrq-Test--2025-0KYm",
+                    "name": "Bangladesh tour of Sri Lanka, 2025",
+                    "short_name": "BAN vs SL 2025",
+                    "alternate_name": "Bangladesh tour of Sri Lanka, 2025",
+                    "alternate_short_name": "BAN vs SL 2025"
+                },
+                "metric_group": "MG100",
+                "sport": "cricket",
+                "winner": null,
+                "teams": {
+                    "a": {
+                        "key": "sl",
+                        "code": "SL",
+                        "name": "Sri Lanka",
+                        "alternate_name": "Sri Lanka",
+                        "alternate_code": "SL",
+                        "gender_name": "Sri Lanka Men",
+                        "country_code": "LKA"
+                    },
+                    "b": {
+                        "key": "ban",
+                        "code": "BAN",
+                        "name": "Bangladesh",
+                        "alternate_name": "Bangladesh",
+                        "alternate_code": "BAN",
+                        "gender_name": "Bangladesh Men",
+                        "country_code": "BGD"
+                    }
+                },
+                "venue": {
+                    "key": "c__stadium__sinhalese_sports_club__2be06",
+                    "name": "SSC Cricket Ground (Sinhalese Sports Club)",
+                    "city": "Colombo",
+                    "country": {
+                        "short_code": "LK",
+                        "code": "LKA",
+                        "name": "Sri Lanka",
+                        "official_name": "Democratic Socialist Republic of Sri Lanka",
+                        "is_region": false
+                    },
+                    "geolocation": "6.9059784,79.8693361"
+                },
+                "expected_start_at": null,
+                "association": {
+                    "key": "c__board__icc__c2ab7ee61",
+                    "code": "ICC",
+                    "name": "International Cricket Council",
+                    "country": null,
+                    "parent": null
+                },
+                "messages": [],
+                "gender": "male",
+                "tour_key": "a-rz--cricket--icc--mslankaik60q4mbanglaefrnrq-n7Dz",
+                "format": "test",
+                "estimated_end_date": 1751203800,
+                "completed_date_approximate": null
+            },
+            {
+                "key": "a-rz--cricket--Ct1907085883316768770",
+                "name": "West Indies vs Australia",
+                "short_name": "WI vs AUS",
+                "sub_title": "1st Match",
+                "status": "not_started",
+                "start_at": 1750860000,
+                "tournament": {
+                    "key": "a-rz--cricket--icc--tour-mwindiesxv8aqd-maustrawnqdov-Test--2025-gNaT",
+                    "name": "Australia tour of West Indies, Test, 2025",
+                    "short_name": "WI vs AUS",
+                    "alternate_name": "Australia tour of West Indies, Test, 2025",
+                    "alternate_short_name": "WI vs AUS"
+                },
+                "metric_group": "MG100",
+                "sport": "cricket",
+                "winner": null,
+                "teams": {
+                    "a": {
+                        "key": "wi",
+                        "code": "WI",
+                        "name": "West Indies",
+                        "alternate_name": "West Indies",
+                        "alternate_code": "WI",
+                        "gender_name": "West Indies Men",
+                        "country_code": "WIN"
+                    },
+                    "b": {
+                        "key": "aus",
+                        "code": "AUS",
+                        "name": "Australia",
+                        "alternate_name": "Australia",
+                        "alternate_code": "AUS",
+                        "gender_name": "Australia Men",
+                        "country_code": "AUS"
+                    }
+                },
+                "venue": {
+                    "key": "c__stadium__kensington_oval__0983d",
+                    "name": "Kensington Oval",
+                    "city": "Bridgetown",
+                    "country": {
+                        "short_code": "BB",
+                        "code": "BRB",
+                        "name": "Barbados",
+                        "official_name": "Barbados",
+                        "is_region": false
+                    },
+                    "geolocation": "13.1049948,-59.6225241"
+                },
+                "expected_start_at": null,
+                "association": {
+                    "key": "c__board__icc__c2ab7ee61",
+                    "code": "ICC",
+                    "name": "International Cricket Council",
+                    "country": null,
+                    "parent": null
+                },
+                "messages": [],
+                "gender": "male",
+                "tour_key": "a-rz--cricket--icc--mwindiesxv8aqdmaustrawnqdov-1IEi",
+                "format": "test",
+                "estimated_end_date": 1751238000,
+                "completed_date_approximate": null
+            },
+            {
+                "key": "a-rz--cricket--6l1907093049750732835",
+                "name": "Zimbabwe vs South Africa",
+                "short_name": "ZIM vs SA",
+                "sub_title": "1st Match",
+                "status": "not_started",
+                "start_at": 1751097600,
+                "tournament": {
+                    "key": "a-rz--cricket--icc--tour-mzimbab1swzwa-msafricac4ivno-Test--2025-BBQv",
+                    "name": "South Africa tour of Zimbabwe, Test, 2025",
+                    "short_name": "ZIM vs SA",
+                    "alternate_name": "South Africa tour of Zimbabwe, Test, 2025",
+                    "alternate_short_name": "ZIM vs SA"
+                },
+                "metric_group": "MG100",
+                "sport": "cricket",
+                "winner": null,
+                "teams": {
+                    "a": {
+                        "key": "zim",
+                        "code": "ZIM",
+                        "name": "Zimbabwe",
+                        "alternate_name": "Zimbabwe",
+                        "alternate_code": "ZIM",
+                        "gender_name": "Zimbabwe Men",
+                        "country_code": "ZWE"
+                    },
+                    "b": {
+                        "key": "rsa",
+                        "code": "SA",
+                        "name": "South Africa",
+                        "alternate_name": "South Africa",
+                        "alternate_code": "SA",
+                        "gender_name": "South Africa Men",
+                        "country_code": "ZAF"
+                    }
+                },
+                "venue": {
+                    "key": "c__stadium__queens_sports_club__b18ee",
+                    "name": "Queens Sports Club",
+                    "city": "Bulawayo",
+                    "country": {
+                        "short_code": "ZW",
+                        "code": "ZWE",
+                        "name": "Zimbabwe",
+                        "official_name": "Republic of Zimbabwe",
+                        "is_region": false
+                    },
+                    "geolocation": "-20.1448833,28.5889165"
+                },
+                "expected_start_at": null,
+                "association": {
+                    "key": "c__board__icc__c2ab7ee61",
+                    "code": "ICC",
+                    "name": "International Cricket Council",
+                    "country": null,
+                    "parent": null
+                },
+                "messages": [],
+                "gender": "male",
+                "tour_key": "a-rz--cricket--icc--mzimbab1swzwamsafricac4ivno-TDY2",
+                "format": "test",
+                "estimated_end_date": 1751475600,
+                "completed_date_approximate": null
+            },
+            {
+                "key": "a-rz--cricket--WT1925513430664613934",
+                "name": "Lyca Kovai Kings vs IDream Tiruppur Tamizhans",
+                "short_name": "LKK vs IDTT",
+                "sub_title": "22nd Match",
+                "status": "not_started",
+                "start_at": 1750772700,
+                "tournament": {
+                    "key": "a-rz--cricket--bcci--tnplt20--2025-4fFz",
+                    "name": "Tamil Nadu Premier League, 2025",
+                    "short_name": "TNPLT20",
+                    "alternate_name": "Tamil Nadu Premier League, 2025",
+                    "alternate_short_name": "TNPLT20"
+                },
+                "metric_group": "MG100",
+                "sport": "cricket",
+                "winner": null,
+                "teams": {
+                    "a": {
+                        "key": "lkk",
+                        "code": "LKK",
+                        "name": "Lyca Kovai Kings",
+                        "alternate_name": "Lyca Kovai Kings",
+                        "alternate_code": "LKK",
+                        "gender_name": "Lyca Kovai Kings Men",
+                        "country_code": "IND"
+                    },
+                    "b": {
+                        "key": "idtt",
+                        "code": "IDTT",
+                        "name": "IDream Tiruppur Tamizhans",
+                        "alternate_name": "IDream Tiruppur Tamizhans",
+                        "alternate_code": "IDTT",
+                        "gender_name": "IDream Tiruppur Tamizhans Men",
+                        "country_code": "IND"
+                    }
+                },
+                "venue": {
+                    "key": "c__stadium__indian_cement_company_ground__7f10f",
+                    "name": "Indian Cement Company Ground",
+                    "city": "Tirunelveli",
+                    "country": {
+                        "short_code": "IN",
+                        "code": "IND",
+                        "name": "India",
+                        "official_name": "Republic of India",
+                        "is_region": false
+                    },
+                    "geolocation": "8.788892°N 77.725990°E"
+                },
+                "expected_start_at": null,
+                "association": {
+                    "key": "c__board__bcci__b13f0",
+                    "code": "BCCI",
+                    "name": "Board of Control for Cricket in India",
+                    "country": {
+                        "short_code": "IN",
+                        "code": "IND",
+                        "name": "India",
+                        "official_name": "Republic of India",
+                        "is_region": false
+                    },
+                    "parent": null
+                },
+                "messages": [],
+                "gender": "male",
+                "tour_key": null,
+                "format": "t20",
+                "estimated_end_date": 1750787100,
+                "completed_date_approximate": null
+            },
+            {
+                "key": "a-rz--cricket--fQ1925513434745671727",
+                "name": "Trichy Grand Cholas vs Siechem Madurai Panthers",
+                "short_name": "TGC vs MPS",
+                "sub_title": "23rd Match",
+                "status": "not_started",
+                "start_at": 1750859100,
+                "tournament": {
+                    "key": "a-rz--cricket--bcci--tnplt20--2025-4fFz",
+                    "name": "Tamil Nadu Premier League, 2025",
+                    "short_name": "TNPLT20",
+                    "alternate_name": "Tamil Nadu Premier League, 2025",
+                    "alternate_short_name": "TNPLT20"
+                },
+                "metric_group": "MG100",
+                "sport": "cricket",
+                "winner": null,
+                "teams": {
+                    "a": {
+                        "key": "rtw",
+                        "code": "TGC",
+                        "name": "Trichy Grand Cholas",
+                        "alternate_name": "Ba11sy Trichy",
+                        "alternate_code": "TGC",
+                        "gender_name": "Trichy Grand Cholas Men",
+                        "country_code": "IND"
+                    },
+                    "b": {
+                        "key": "mps",
+                        "code": "MPS",
+                        "name": "Siechem Madurai Panthers",
+                        "alternate_name": "Siechem Madurai Panthers",
+                        "alternate_code": "MPS",
+                        "gender_name": "Siechem Madurai Panthers Men",
+                        "country_code": "IND"
+                    }
+                },
+                "venue": {
+                    "key": "c__stadium__indian_cement_company_ground__7f10f",
+                    "name": "Indian Cement Company Ground",
+                    "city": "Tirunelveli",
+                    "country": {
+                        "short_code": "IN",
+                        "code": "IND",
+                        "name": "India",
+                        "official_name": "Republic of India",
+                        "is_region": false
+                    },
+                    "geolocation": "8.788892°N 77.725990°E"
+                },
+                "expected_start_at": null,
+                "association": {
+                    "key": "c__board__bcci__b13f0",
+                    "code": "BCCI",
+                    "name": "Board of Control for Cricket in India",
+                    "country": {
+                        "short_code": "IN",
+                        "code": "IND",
+                        "name": "India",
+                        "official_name": "Republic of India",
+                        "is_region": false
+                    },
+                    "parent": null
+                },
+                "messages": [],
+                "gender": "male",
+                "tour_key": null,
+                "format": "t20",
+                "estimated_end_date": 1750873500,
+                "completed_date_approximate": null
+            },
+            {
+                "key": "a-rz--cricket--4c1925513429527957549",
+                "name": "Chepauk Super Gillies vs Trichy Grand Cholas",
+                "short_name": "CSG vs TGC",
+                "sub_title": "21st Match",
+                "status": "not_started",
+                "start_at": 1750686300,
+                "tournament": {
+                    "key": "a-rz--cricket--bcci--tnplt20--2025-4fFz",
+                    "name": "Tamil Nadu Premier League, 2025",
+                    "short_name": "TNPLT20",
+                    "alternate_name": "Tamil Nadu Premier League, 2025",
+                    "alternate_short_name": "TNPLT20"
+                },
+                "metric_group": "MG100",
+                "sport": "cricket",
+                "winner": null,
+                "teams": {
+                    "a": {
+                        "key": "csg",
+                        "code": "CSG",
+                        "name": "Chepauk Super Gillies",
+                        "alternate_name": "Chepauk Super Gillies",
+                        "alternate_code": "CSG",
+                        "gender_name": "Chepauk Super Gillies Men",
+                        "country_code": "IND"
+                    },
+                    "b": {
+                        "key": "rtw",
+                        "code": "TGC",
+                        "name": "Trichy Grand Cholas",
+                        "alternate_name": "Ba11sy Trichy",
+                        "alternate_code": "TGC",
+                        "gender_name": "Trichy Grand Cholas Men",
+                        "country_code": "IND"
+                    }
+                },
+                "venue": {
+                    "key": "c__stadium__indian_cement_company_ground__7f10f",
+                    "name": "Indian Cement Company Ground",
+                    "city": "Tirunelveli",
+                    "country": {
+                        "short_code": "IN",
+                        "code": "IND",
+                        "name": "India",
+                        "official_name": "Republic of India",
+                        "is_region": false
+                    },
+                    "geolocation": "8.788892°N 77.725990°E"
+                },
+                "expected_start_at": null,
+                "association": {
+                    "key": "c__board__bcci__b13f0",
+                    "code": "BCCI",
+                    "name": "Board of Control for Cricket in India",
+                    "country": {
+                        "short_code": "IN",
+                        "code": "IND",
+                        "name": "India",
+                        "official_name": "Republic of India",
+                        "is_region": false
+                    },
+                    "parent": null
+                },
+                "messages": [],
+                "gender": "male",
+                "tour_key": null,
+                "format": "t20",
+                "estimated_end_date": 1750700700,
+                "completed_date_approximate": null
+            },
+            {
+                "key": "a-rz--cricket--rt1925513435802636336",
+                "name": "Nellai Royal Kings vs Dindigul Dragons",
+                "short_name": "NRK vs DID",
+                "sub_title": "24th Match",
+                "status": "not_started",
+                "start_at": 1750945500,
+                "tournament": {
+                    "key": "a-rz--cricket--bcci--tnplt20--2025-4fFz",
+                    "name": "Tamil Nadu Premier League, 2025",
+                    "short_name": "TNPLT20",
+                    "alternate_name": "Tamil Nadu Premier League, 2025",
+                    "alternate_short_name": "TNPLT20"
+                },
+                "metric_group": "MG100",
+                "sport": "cricket",
+                "winner": null,
+                "teams": {
+                    "a": {
+                        "key": "nrk",
+                        "code": "NRK",
+                        "name": "Nellai Royal Kings",
+                        "alternate_name": "Nellai Royal Kings",
+                        "alternate_code": "NRK",
+                        "gender_name": "Nellai Royal Kings Men",
+                        "country_code": "IND"
+                    },
+                    "b": {
+                        "key": "did",
+                        "code": "DID",
+                        "name": "Dindigul Dragons",
+                        "alternate_name": "Dindigul Dragons",
+                        "alternate_code": "DID",
+                        "gender_name": "Dindigul Dragons Men",
+                        "country_code": "IND"
+                    }
+                },
+                "venue": {
+                    "key": "c__stadium__indian_cement_company_ground__7f10f",
+                    "name": "Indian Cement Company Ground",
+                    "city": "Tirunelveli",
+                    "country": {
+                        "short_code": "IN",
+                        "code": "IND",
+                        "name": "India",
+                        "official_name": "Republic of India",
+                        "is_region": false
+                    },
+                    "geolocation": "8.788892°N 77.725990°E"
+                },
+                "expected_start_at": null,
+                "association": {
+                    "key": "c__board__bcci__b13f0",
+                    "code": "BCCI",
+                    "name": "Board of Control for Cricket in India",
+                    "country": {
+                        "short_code": "IN",
+                        "code": "IND",
+                        "name": "India",
+                        "official_name": "Republic of India",
+                        "is_region": false
+                    },
+                    "parent": null
+                },
+                "messages": [],
+                "gender": "male",
+                "tour_key": null,
+                "format": "t20",
+                "estimated_end_date": 1750959900,
+                "completed_date_approximate": null
+            },
+            {
+                "key": "a-rz--cricket--p91910680603137818655",
+                "name": "MI New York vs San Francisco Unicorns",
+                "short_name": "MINY vs SFU",
+                "sub_title": "14th Match",
+                "status": "not_started",
+                "start_at": 1750723200,
+                "tournament": {
+                    "key": "a-rz--cricket--usaca--major-league-cricket-3191a--2025-8xEX",
+                    "name": "Major League Cricket, 2025",
+                    "short_name": "MLC",
+                    "alternate_name": "Major League Cricket, 2025",
+                    "alternate_short_name": "MLC"
+                },
+                "metric_group": "MG100",
+                "sport": "cricket",
+                "winner": null,
+                "teams": {
+                    "a": {
+                        "key": "c__team__miny__9ad8d",
+                        "code": "MINY",
+                        "name": "MI New York",
+                        "alternate_name": "MI New York",
+                        "alternate_code": "MINY",
+                        "gender_name": "MI New York Men",
+                        "country_code": "USA"
+                    },
+                    "b": {
+                        "key": "c__team__sfu__36e53",
+                        "code": "SFU",
+                        "name": "San Francisco Unicorns",
+                        "alternate_name": "San Francisco Unicorns",
+                        "alternate_code": "SFU",
+                        "gender_name": "San Francisco Unicorns Men",
+                        "country_code": "USA"
+                    }
+                },
+                "venue": {
+                    "key": "c__stadium__grand_prairie_stadium__c87fd",
+                    "name": "Grand Prairie Stadium",
+                    "city": "Grand Prairie",
+                    "country": {
+                        "short_code": "US",
+                        "code": "USA",
+                        "name": "United States",
+                        "official_name": "United States of America",
+                        "is_region": false
+                    },
+                    "geolocation": "32.7680347,-96.98712139999999"
+                },
+                "expected_start_at": null,
+                "association": {
+                    "key": "c__board__united_states_of_america_cricket_board__aec98",
+                    "code": "USACA",
+                    "name": "United States of America Cricket Board",
+                    "country": {
+                        "short_code": "US",
+                        "code": "USA",
+                        "name": "United States",
+                        "official_name": "United States of America",
+                        "is_region": false
+                    },
+                    "parent": null
+                },
+                "messages": [],
+                "gender": "male",
+                "tour_key": null,
+                "format": "t20",
+                "estimated_end_date": 1750737600,
+                "completed_date_approximate": null
+            },
+            {
+                "key": "a-rz--cricket--GZ1910680604228337696",
+                "name": "Texas Super Kings vs Los Angeles Knight Riders",
+                "short_name": "TSKS vs LAKR",
+                "sub_title": "15th Match",
+                "status": "not_started",
+                "start_at": 1750809600,
+                "tournament": {
+                    "key": "a-rz--cricket--usaca--major-league-cricket-3191a--2025-8xEX",
+                    "name": "Major League Cricket, 2025",
+                    "short_name": "MLC",
+                    "alternate_name": "Major League Cricket, 2025",
+                    "alternate_short_name": "MLC"
+                },
+                "metric_group": "MG100",
+                "sport": "cricket",
+                "winner": null,
+                "teams": {
+                    "a": {
+                        "key": "c__team__tsks__20332",
+                        "code": "TSKS",
+                        "name": "Texas Super Kings",
+                        "alternate_name": "Texas Super Kings",
+                        "alternate_code": "TSKS",
+                        "gender_name": "Texas Super Kings Men",
+                        "country_code": "USA"
+                    },
+                    "b": {
+                        "key": "c__team__lakr__4e3f5",
+                        "code": "LAKR",
+                        "name": "Los Angeles Knight Riders",
+                        "alternate_name": "Los Angeles Knight Riders",
+                        "alternate_code": "LAKR",
+                        "gender_name": "Los Angeles Knight Riders Men",
+                        "country_code": "USA"
+                    }
+                },
+                "venue": {
+                    "key": "c__stadium__grand_prairie_stadium__c87fd",
+                    "name": "Grand Prairie Stadium",
+                    "city": "Grand Prairie",
+                    "country": {
+                        "short_code": "US",
+                        "code": "USA",
+                        "name": "United States",
+                        "official_name": "United States of America",
+                        "is_region": false
+                    },
+                    "geolocation": "32.7680347,-96.98712139999999"
+                },
+                "expected_start_at": null,
+                "association": {
+                    "key": "c__board__united_states_of_america_cricket_board__aec98",
+                    "code": "USACA",
+                    "name": "United States of America Cricket Board",
+                    "country": {
+                        "short_code": "US",
+                        "code": "USA",
+                        "name": "United States",
+                        "official_name": "United States of America",
+                        "is_region": false
+                    },
+                    "parent": null
+                },
+                "messages": [],
+                "gender": "male",
+                "tour_key": null,
+                "format": "t20",
+                "estimated_end_date": 1750824000,
+                "completed_date_approximate": null
+            }
+        ],
+        "intelligent_order": [
+            "a-rz--cricket--7H1907082295035183112",
+            "a-rz--cricket--4c1925513429527957549",
+            "a-rz--cricket--fe1907078021647577112",
+            "a-rz--cricket--p91910680603137818655",
+            "a-rz--cricket--WT1925513430664613934",
+            "a-rz--cricket--GZ1910680604228337696",
+            "a-rz--cricket--w01920092594638037042",
+            "a-rz--cricket--fQ1925513434745671727",
+            "a-rz--cricket--Ct1907085883316768770",
+            "a-rz--cricket--rt1925513435802636336",
+            "a-rz--cricket--6l1907093049750732835",
+            "a-rz--cricket--XL1907078020640944151",
+            "a-rz--cricket--3x1907078019688837142",
+            "a-rz--cricket--je1907077476576796695",
+            "a-rz--cricket--ud1920092593560100913",
+            "a-rz--cricket--8i1890759914545127435"
+        ]
+    },
+    "cache": {
+        "key": "api:rz:v5_cricket_featured-matches:#featured",
+        "expires": 1750753219.462745,
+        "etag": "ET:Qz13048321575395397648:0",
+        "max_age": 300
+    },
+    "schema": {
+        "major_version": "5.0",
+        "minor_version": "2"
+    },
+    "error": null,
+    "http_status_code": 200
+}

@@ -1,0 +1,391 @@
+{
+    "data": {
+        "match_key": "a-rz--cricket--3x1907078019688837142",
+        "match_status": "completed",
+        "innings": [
+            {
+                "team": "South Africa Women",
+                "batting": [
+                    {
+                        "name": "Laura Wolvaardt",
+                        "dismissal": "c Chinelle Henry b Jahzara Claxton",
+                        "runs": 9,
+                        "balls": 8,
+                        "fours": 1,
+                        "sixes": 0,
+                        "strike_rate": "112.50"
+                    },
+                    {
+                        "name": "Tazmin Brits",
+                        "dismissal": "not out",
+                        "runs": 98,
+                        "balls": 63,
+                        "fours": 9,
+                        "sixes": 4,
+                        "strike_rate": "155.56"
+                    },
+                    {
+                        "name": "Marizanne Kapp",
+                        "dismissal": "c Hayley Matthews b Jahzara Claxton",
+                        "runs": 2,
+                        "balls": 6,
+                        "fours": 0,
+                        "sixes": 0,
+                        "strike_rate": "33.33"
+                    },
+                    {
+                        "name": "Nadine de Klerk",
+                        "dismissal": "c b Jahzara Claxton",
+                        "runs": 21,
+                        "balls": 17,
+                        "fours": 3,
+                        "sixes": 0,
+                        "strike_rate": "123.53"
+                    },
+                    {
+                        "name": "Miane Smit",
+                        "dismissal": "c Qiana Joseph b Afy Fletcher",
+                        "runs": 9,
+                        "balls": 10,
+                        "fours": 0,
+                        "sixes": 0,
+                        "strike_rate": "90.00"
+                    },
+                    {
+                        "name": "Chloe Tryon",
+                        "dismissal": "runout [T] Jannillea Glasgow [H] Shemaine Campbelle",
+                        "runs": 16,
+                        "balls": 9,
+                        "fours": 1,
+                        "sixes": 1,
+                        "strike_rate": "177.78"
+                    },
+                    {
+                        "name": "Annerie Dercksen",
+                        "dismissal": "bowled b Aaliyah Alleyne",
+                        "runs": 5,
+                        "balls": 3,
+                        "fours": 1,
+                        "sixes": 0,
+                        "strike_rate": "166.67"
+                    },
+                    {
+                        "name": "Karabo Meso",
+                        "dismissal": "not out",
+                        "runs": 5,
+                        "balls": 4,
+                        "fours": 0,
+                        "sixes": 0,
+                        "strike_rate": "125.00"
+                    }
+                ],
+                "bowling": [
+                    {
+                        "name": "Annerie Dercksen",
+                        "overs": "1.0",
+                        "maidens": 0,
+                        "runs": 8,
+                        "wickets": 0,
+                        "economy": "8.00"
+                    },
+                    {
+                        "name": "Masabata Klaas",
+                        "overs": "3.0",
+                        "maidens": 0,
+                        "runs": 25,
+                        "wickets": 0,
+                        "economy": "8.33"
+                    },
+                    {
+                        "name": "Hayley Matthews",
+                        "overs": "4.0",
+                        "maidens": 0,
+                        "runs": 26,
+                        "wickets": 0,
+                        "economy": "6.50"
+                    },
+                    {
+                        "name": "Jannillea Glasgow",
+                        "overs": "1.0",
+                        "maidens": 0,
+                        "runs": 12,
+                        "wickets": 0,
+                        "economy": "12.00"
+                    },
+                    {
+                        "name": "Aaliyah Alleyne",
+                        "overs": "3.0",
+                        "maidens": 0,
+                        "runs": 28,
+                        "wickets": 1,
+                        "economy": "9.33"
+                    },
+                    {
+                        "name": "Jahzara Claxton",
+                        "overs": "4.0",
+                        "maidens": 0,
+                        "runs": 39,
+                        "wickets": 3,
+                        "economy": "9.75"
+                    },
+                    {
+                        "name": "Afy Fletcher",
+                        "overs": "4.0",
+                        "maidens": 0,
+                        "runs": 40,
+                        "wickets": 1,
+                        "economy": "10.00"
+                    },
+                    {
+                        "name": "Karishma Ramharack",
+                        "overs": "4.0",
+                        "maidens": 0,
+                        "runs": 30,
+                        "wickets": 0,
+                        "economy": "7.50"
+                    },
+                    {
+                        "name": "Marizanne Kapp",
+                        "overs": "3.0",
+                        "maidens": 0,
+                        "runs": 27,
+                        "wickets": 2,
+                        "economy": "9.00"
+                    },
+                    {
+                        "name": "Nadine de Klerk",
+                        "overs": "2.0",
+                        "maidens": 0,
+                        "runs": 12,
+                        "wickets": 1,
+                        "economy": "6.00"
+                    },
+                    {
+                        "name": "Chloe Tryon",
+                        "overs": "4.0",
+                        "maidens": 0,
+                        "runs": 23,
+                        "wickets": 0,
+                        "economy": "5.75"
+                    },
+                    {
+                        "name": "Nonkululeko Mlaba",
+                        "overs": "4.0",
+                        "maidens": 0,
+                        "runs": 18,
+                        "wickets": 1,
+                        "economy": "4.50"
+                    },
+                    {
+                        "name": "Ayabonga Khaka",
+                        "overs": "3.0",
+                        "maidens": 0,
+                        "runs": 19,
+                        "wickets": 1,
+                        "economy": "6.33"
+                    }
+                ],
+                "total": "183",
+                "overs": "20.0",
+                "run_rate": "9.15",
+                "extras": 18,
+                "bye": 7,
+                "leg_bye": 1,
+                "wide": 10,
+                "no_ball": 0
+            },
+            {
+                "team": "West Indies Women",
+                "batting": [
+                    {
+                        "name": "Qiana Joseph",
+                        "dismissal": "c Chloe Tryon b Marizanne Kapp",
+                        "runs": 5,
+                        "balls": 7,
+                        "fours": 1,
+                        "sixes": 0,
+                        "strike_rate": "71.43"
+                    },
+                    {
+                        "name": "Hayley Matthews",
+                        "dismissal": "c Nadine de Klerk b Marizanne Kapp",
+                        "runs": 19,
+                        "balls": 16,
+                        "fours": 2,
+                        "sixes": 0,
+                        "strike_rate": "118.75"
+                    },
+                    {
+                        "name": "Realeanna Grimmond",
+                        "dismissal": "runout Masabata Klaas",
+                        "runs": 4,
+                        "balls": 5,
+                        "fours": 1,
+                        "sixes": 0,
+                        "strike_rate": "80.00"
+                    },
+                    {
+                        "name": "Shemaine Campbelle",
+                        "dismissal": "c Karabo Meso b Ayabonga Khaka",
+                        "runs": 16,
+                        "balls": 12,
+                        "fours": 3,
+                        "sixes": 0,
+                        "strike_rate": "133.33"
+                    },
+                    {
+                        "name": "Chinelle Henry",
+                        "dismissal": "c Chloe Tryon b Nadine de Klerk",
+                        "runs": 26,
+                        "balls": 32,
+                        "fours": 1,
+                        "sixes": 1,
+                        "strike_rate": "81.25"
+                    },
+                    {
+                        "name": "Shabika Gajnabi",
+                        "dismissal": "bowled b Nonkululeko Mlaba",
+                        "runs": 0,
+                        "balls": 3,
+                        "fours": 0,
+                        "sixes": 0,
+                        "strike_rate": "0.00"
+                    },
+                    {
+                        "name": "Jannillea Glasgow",
+                        "dismissal": "not out",
+                        "runs": 53,
+                        "balls": 44,
+                        "fours": 5,
+                        "sixes": 0,
+                        "strike_rate": "120.45"
+                    },
+                    {
+                        "name": "Aaliyah Alleyne",
+                        "dismissal": "not out",
+                        "runs": 1,
+                        "balls": 2,
+                        "fours": 0,
+                        "sixes": 0,
+                        "strike_rate": "50.00"
+                    }
+                ],
+                "bowling": [
+                    {
+                        "name": "Annerie Dercksen",
+                        "overs": "1.0",
+                        "maidens": 0,
+                        "runs": 8,
+                        "wickets": 0,
+                        "economy": "8.00"
+                    },
+                    {
+                        "name": "Masabata Klaas",
+                        "overs": "3.0",
+                        "maidens": 0,
+                        "runs": 25,
+                        "wickets": 0,
+                        "economy": "8.33"
+                    },
+                    {
+                        "name": "Hayley Matthews",
+                        "overs": "4.0",
+                        "maidens": 0,
+                        "runs": 26,
+                        "wickets": 0,
+                        "economy": "6.50"
+                    },
+                    {
+                        "name": "Jannillea Glasgow",
+                        "overs": "1.0",
+                        "maidens": 0,
+                        "runs": 12,
+                        "wickets": 0,
+                        "economy": "12.00"
+                    },
+                    {
+                        "name": "Aaliyah Alleyne",
+                        "overs": "3.0",
+                        "maidens": 0,
+                        "runs": 28,
+                        "wickets": 1,
+                        "economy": "9.33"
+                    },
+                    {
+                        "name": "Jahzara Claxton",
+                        "overs": "4.0",
+                        "maidens": 0,
+                        "runs": 39,
+                        "wickets": 3,
+                        "economy": "9.75"
+                    },
+                    {
+                        "name": "Afy Fletcher",
+                        "overs": "4.0",
+                        "maidens": 0,
+                        "runs": 40,
+                        "wickets": 1,
+                        "economy": "10.00"
+                    },
+                    {
+                        "name": "Karishma Ramharack",
+                        "overs": "4.0",
+                        "maidens": 0,
+                        "runs": 30,
+                        "wickets": 0,
+                        "economy": "7.50"
+                    },
+                    {
+                        "name": "Marizanne Kapp",
+                        "overs": "3.0",
+                        "maidens": 0,
+                        "runs": 27,
+                        "wickets": 2,
+                        "economy": "9.00"
+                    },
+                    {
+                        "name": "Nadine de Klerk",
+                        "overs": "2.0",
+                        "maidens": 0,
+                        "runs": 12,
+                        "wickets": 1,
+                        "economy": "6.00"
+                    },
+                    {
+                        "name": "Chloe Tryon",
+                        "overs": "4.0",
+                        "maidens": 0,
+                        "runs": 23,
+                        "wickets": 0,
+                        "economy": "5.75"
+                    },
+                    {
+                        "name": "Nonkululeko Mlaba",
+                        "overs": "4.0",
+                        "maidens": 0,
+                        "runs": 18,
+                        "wickets": 1,
+                        "economy": "4.50"
+                    },
+                    {
+                        "name": "Ayabonga Khaka",
+                        "overs": "3.0",
+                        "maidens": 0,
+                        "runs": 19,
+                        "wickets": 1,
+                        "economy": "6.33"
+                    }
+                ],
+                "total": "133",
+                "overs": "20.0",
+                "run_rate": "6.65",
+                "extras": 9,
+                "bye": 1,
+                "leg_bye": 0,
+                "wide": 7,
+                "no_ball": 1
+            }
+        ],
+        "close_of_play": "South Africa Women beat West Indies Women by 50 runs"
+    }
+}

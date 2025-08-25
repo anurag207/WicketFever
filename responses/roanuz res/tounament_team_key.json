@@ -1,0 +1,482 @@
+{
+    "data": {
+        "team": {
+            "key": "wi",
+            "code": "WI",
+            "name": "West Indies",
+            "alternate_name": "West Indies",
+            "alternate_code": "WI",
+            "gender_name": "West Indies Men"
+        },
+        "tournament": {
+            "key": "a-rz--cricket--icc--tour-menglannx4qzo-mwindiesxv8aqd-T20--2025-6DdP",
+            "name": "West Indies tour of England, 2025",
+            "short_name": "ENG vs WI 2025",
+            "alternate_name": "West Indies tour of England, 2025",
+            "alternate_short_name": "ENG vs WI 2025"
+        },
+        "tournament_team": {
+            "players": {
+                "ba_king": {
+                    "key": "ba_king",
+                    "name": "Brandon King",
+                    "jersey_name": "King",
+                    "legal_name": "Brandon Alexander King",
+                    "gender": "male",
+                    "nationality": {
+                        "short_code": "JM",
+                        "code": "JAM",
+                        "name": "Jamaica",
+                        "official_name": "Jamaica",
+                        "is_region": false
+                    },
+                    "date_of_birth": 787536000,
+                    "seasonal_role": "batsman",
+                    "roles": [],
+                    "batting_style": "right_hand",
+                    "bowling_style": null,
+                    "skills": [
+                        "bat"
+                    ],
+                    "legal_name_v2": "Brandon Alexander King",
+                    "jersey_name_v2": "King"
+                },
+                "e_lewis": {
+                    "key": "e_lewis",
+                    "name": "Evin Lewis",
+                    "jersey_name": "Evin Lewis",
+                    "legal_name": "Evin Lewis",
+                    "gender": "male",
+                    "nationality": {
+                        "short_code": "TT",
+                        "code": "TTO",
+                        "name": "Trinidad and Tobago",
+                        "official_name": "Republic of Trinidad and Tobago",
+                        "is_region": false
+                    },
+                    "date_of_birth": 693792000,
+                    "seasonal_role": "batsman",
+                    "roles": [],
+                    "batting_style": "left_hand",
+                    "bowling_style": null,
+                    "skills": [
+                        "bat"
+                    ],
+                    "legal_name_v2": "Evin Lewis",
+                    "jersey_name_v2": "Evin Lewis"
+                },
+                "ro_powell": {
+                    "key": "ro_powell",
+                    "name": "Rovman Powell",
+                    "jersey_name": "Powell",
+                    "legal_name": "Rovman Powell",
+                    "gender": "male",
+                    "nationality": {
+                        "short_code": "JM",
+                        "code": "JAM",
+                        "name": "Jamaica",
+                        "official_name": "Jamaica",
+                        "is_region": false
+                    },
+                    "date_of_birth": 743385600,
+                    "seasonal_role": "batsman",
+                    "roles": [],
+                    "batting_style": "right_hand",
+                    "bowling_style": {
+                        "arm": "right_arm",
+                        "pace": "fast_medium",
+                        "bowling_type": null
+                    },
+                    "skills": [
+                        "bat"
+                    ],
+                    "legal_name_v2": "Rovman Powell",
+                    "jersey_name_v2": "Powell"
+                },
+                "s_rutherford": {
+                    "key": "s_rutherford",
+                    "name": "Sherfane Rutherford",
+                    "jersey_name": "Rutherford",
+                    "legal_name": "Sherfane Eviston Rutherford",
+                    "gender": "male",
+                    "nationality": {
+                        "short_code": "GY",
+                        "code": "GUY",
+                        "name": "Guyana",
+                        "official_name": "Republic of Guyana",
+                        "is_region": false
+                    },
+                    "date_of_birth": 903139200,
+                    "seasonal_role": "batsman",
+                    "roles": [],
+                    "batting_style": "left_hand",
+                    "bowling_style": {
+                        "arm": "right_arm",
+                        "pace": "fast_medium",
+                        "bowling_type": null
+                    },
+                    "skills": [
+                        "bat"
+                    ],
+                    "legal_name_v2": "Sherfane Eviston Rutherford",
+                    "jersey_name_v2": "Rutherford"
+                },
+                "s_hetmyer": {
+                    "key": "s_hetmyer",
+                    "name": "Shimron Hetmyer",
+                    "jersey_name": "Shimron Hetmyer",
+                    "legal_name": "Shimron Odilon Hetmyer",
+                    "gender": "male",
+                    "nationality": {
+                        "short_code": "GY",
+                        "code": "GUY",
+                        "name": "Guyana",
+                        "official_name": "Republic of Guyana",
+                        "is_region": false
+                    },
+                    "date_of_birth": 851558400,
+                    "seasonal_role": "batsman",
+                    "roles": [],
+                    "batting_style": "left_hand",
+                    "bowling_style": null,
+                    "skills": [
+                        "bat"
+                    ],
+                    "legal_name_v2": "Shimron Odilon Hetmyer",
+                    "jersey_name_v2": "Shimron Hetmyer"
+                },
+                "a_russell": {
+                    "key": "a_russell",
+                    "name": "Andre Russell",
+                    "jersey_name": "Russell",
+                    "legal_name": "Andre Dwayne Russell",
+                    "gender": "male",
+                    "nationality": {
+                        "short_code": "JM",
+                        "code": "JAM",
+                        "name": "Jamaica",
+                        "official_name": "Jamaica",
+                        "is_region": false
+                    },
+                    "date_of_birth": 578275200,
+                    "seasonal_role": "all_rounder",
+                    "roles": [],
+                    "batting_style": "right_hand",
+                    "bowling_style": {
+                        "arm": "right_arm",
+                        "pace": "fast",
+                        "bowling_type": null
+                    },
+                    "skills": [
+                        "bat",
+                        "bowl"
+                    ],
+                    "legal_name_v2": "Andre Dwayne Russell",
+                    "jersey_name_v2": "Russell"
+                },
+                "j_holder": {
+                    "key": "j_holder",
+                    "name": "Jason Holder",
+                    "jersey_name": "Holder",
+                    "legal_name": "Jason Omar Holder",
+                    "gender": "male",
+                    "nationality": {
+                        "short_code": "BB",
+                        "code": "BRB",
+                        "name": "Barbados",
+                        "official_name": "Barbados",
+                        "is_region": false
+                    },
+                    "date_of_birth": 689299200,
+                    "seasonal_role": "bowler",
+                    "roles": [],
+                    "batting_style": "right_hand",
+                    "bowling_style": {
+                        "arm": "right_arm",
+                        "pace": "medium_fast",
+                        "bowling_type": null
+                    },
+                    "skills": [
+                        "bowl"
+                    ],
+                    "legal_name_v2": "Jason Omar Holder",
+                    "jersey_name_v2": "Holder"
+                },
+                "r_shepherd": {
+                    "key": "r_shepherd",
+                    "name": "Romario Shepherd",
+                    "jersey_name": "Shepherd",
+                    "legal_name": "Romario Shepherd",
+                    "gender": "male",
+                    "nationality": {
+                        "short_code": "GY",
+                        "code": "GUY",
+                        "name": "Guyana",
+                        "official_name": "Republic of Guyana",
+                        "is_region": false
+                    },
+                    "date_of_birth": 785808000,
+                    "seasonal_role": "all_rounder",
+                    "roles": [],
+                    "batting_style": "right_hand",
+                    "bowling_style": {
+                        "arm": "right_arm",
+                        "pace": "fast_medium",
+                        "bowling_type": null
+                    },
+                    "skills": [
+                        "bat",
+                        "bowl"
+                    ],
+                    "legal_name_v2": "Romario Shepherd",
+                    "jersey_name_v2": "Shepherd"
+                },
+                "ro_chase": {
+                    "key": "ro_chase",
+                    "name": "Roston Chase",
+                    "jersey_name": "Chase",
+                    "legal_name": "Roston Lamar Chase",
+                    "gender": "male",
+                    "nationality": {
+                        "short_code": "TT",
+                        "code": "TTO",
+                        "name": "Trinidad and Tobago",
+                        "official_name": "Republic of Trinidad and Tobago",
+                        "is_region": false
+                    },
+                    "date_of_birth": 701222400,
+                    "seasonal_role": "all_rounder",
+                    "roles": [],
+                    "batting_style": "right_hand",
+                    "bowling_style": {
+                        "arm": "right_arm",
+                        "pace": "slow",
+                        "bowling_type": "orthodox"
+                    },
+                    "skills": [
+                        "bat",
+                        "bowl"
+                    ],
+                    "legal_name_v2": "Roston Lamar Chase",
+                    "jersey_name_v2": "Chase"
+                },
+                "j_charles": {
+                    "key": "j_charles",
+                    "name": "Johnson Charles",
+                    "jersey_name": "Charles",
+                    "legal_name": "Johnson Charles",
+                    "gender": "male",
+                    "nationality": {
+                        "short_code": "LC",
+                        "code": "LCA",
+                        "name": "Saint Lucia",
+                        "official_name": "Saint Lucia",
+                        "is_region": false
+                    },
+                    "date_of_birth": 600739200,
+                    "seasonal_role": "keeper",
+                    "roles": [],
+                    "batting_style": "right_hand",
+                    "bowling_style": {
+                        "arm": "right_arm",
+                        "pace": "medium",
+                        "bowling_type": null
+                    },
+                    "skills": [
+                        "bat",
+                        "keep"
+                    ],
+                    "legal_name_v2": "Johnson Charles",
+                    "jersey_name_v2": "Charles"
+                },
+                "s_hope": {
+                    "key": "s_hope",
+                    "name": "Shai Hope",
+                    "jersey_name": "Shai Hope",
+                    "legal_name": "Shai Diego Hope",
+                    "gender": "male",
+                    "nationality": {
+                        "short_code": "BB",
+                        "code": "BRB",
+                        "name": "Barbados",
+                        "official_name": "Barbados",
+                        "is_region": false
+                    },
+                    "date_of_birth": 752889600,
+                    "seasonal_role": "keeper",
+                    "roles": [],
+                    "batting_style": "right_hand",
+                    "bowling_style": null,
+                    "skills": [
+                        "bat",
+                        "keep"
+                    ],
+                    "legal_name_v2": "Shai Diego Hope",
+                    "jersey_name_v2": "Shai Hope"
+                },
+                "a_hosein": {
+                    "key": "a_hosein",
+                    "name": "Akeal Hosein",
+                    "jersey_name": "Hosein",
+                    "legal_name": "Akeal Jerome Hosein",
+                    "gender": "male",
+                    "nationality": {
+                        "short_code": "TT",
+                        "code": "TTO",
+                        "name": "Trinidad and Tobago",
+                        "official_name": "Republic of Trinidad and Tobago",
+                        "is_region": false
+                    },
+                    "date_of_birth": 735696000,
+                    "seasonal_role": "bowler",
+                    "roles": [],
+                    "batting_style": "left_hand",
+                    "bowling_style": {
+                        "arm": "left_arm",
+                        "pace": "slow",
+                        "bowling_type": "orthodox"
+                    },
+                    "skills": [
+                        "bowl"
+                    ],
+                    "legal_name_v2": "Akeal Jerome Hosein",
+                    "jersey_name_v2": "Hosein"
+                },
+                "al_joseph": {
+                    "key": "al_joseph",
+                    "name": "Alzarri Joseph",
+                    "jersey_name": "Alzarri Joseph",
+                    "legal_name": "Alzarri Shaheim Joseph",
+                    "gender": "male",
+                    "nationality": {
+                        "short_code": "AG",
+                        "code": "ATG",
+                        "name": "Antigua and Barbuda",
+                        "official_name": "Antigua and Barbuda",
+                        "is_region": false
+                    },
+                    "date_of_birth": 848448000,
+                    "seasonal_role": "bowler",
+                    "roles": [],
+                    "batting_style": "right_hand",
+                    "bowling_style": {
+                        "arm": "right_arm",
+                        "pace": "fast",
+                        "bowling_type": null
+                    },
+                    "skills": [
+                        "bowl"
+                    ],
+                    "legal_name_v2": "Alzarri Shaheim Joseph",
+                    "jersey_name_v2": "Alzarri Joseph"
+                },
+                "g_motie": {
+                    "key": "g_motie",
+                    "name": "Gudakesh Motie",
+                    "jersey_name": "Motie",
+                    "legal_name": "Gudakesh Motie Kanhai",
+                    "gender": "male",
+                    "nationality": {
+                        "short_code": "GY",
+                        "code": "GUY",
+                        "name": "Guyana",
+                        "official_name": "Republic of Guyana",
+                        "is_region": false
+                    },
+                    "date_of_birth": 796435200,
+                    "seasonal_role": "bowler",
+                    "roles": [],
+                    "batting_style": "left_hand",
+                    "bowling_style": {
+                        "arm": "left_arm",
+                        "pace": "slow",
+                        "bowling_type": "orthodox"
+                    },
+                    "skills": [
+                        "bowl"
+                    ],
+                    "legal_name_v2": "Gudakesh Motie Kanhai",
+                    "jersey_name_v2": "Motie"
+                },
+                "c__player__matthew_forde__195f0": {
+                    "key": "c__player__matthew_forde__195f0",
+                    "name": "Matthew Forde",
+                    "jersey_name": "Forde",
+                    "legal_name": "Matthew Walter Forde",
+                    "gender": "male",
+                    "nationality": null,
+                    "date_of_birth": 1020038400,
+                    "seasonal_role": "all_rounder",
+                    "roles": [],
+                    "batting_style": "right_hand",
+                    "bowling_style": {
+                        "arm": "right_arm",
+                        "pace": "medium",
+                        "bowling_type": null
+                    },
+                    "skills": [
+                        "bat",
+                        "bowl"
+                    ],
+                    "legal_name_v2": "Matthew Walter Forde",
+                    "jersey_name_v2": "Forde"
+                }
+            },
+            "player_keys": [
+                "s_rutherford",
+                "a_hosein",
+                "j_holder",
+                "g_motie",
+                "c__player__matthew_forde__195f0",
+                "ba_king",
+                "s_hetmyer",
+                "ro_powell",
+                "j_charles",
+                "al_joseph",
+                "r_shepherd",
+                "a_russell",
+                "e_lewis",
+                "ro_chase",
+                "s_hope"
+            ],
+            "captain_keys": [],
+            "keeper_keys": [],
+            "players_by_format": {
+                "t20": [
+                    "ba_king",
+                    "e_lewis",
+                    "ro_powell",
+                    "s_rutherford",
+                    "s_hetmyer",
+                    "a_russell",
+                    "j_holder",
+                    "r_shepherd",
+                    "ro_chase",
+                    "j_charles",
+                    "s_hope",
+                    "a_hosein",
+                    "al_joseph",
+                    "g_motie",
+                    "c__player__matthew_forde__195f0"
+                ],
+                "oneday": null,
+                "test": null,
+                "t10": null,
+                "hundred_ball": null,
+                "sixty_ball": null
+            }
+        }
+    },
+    "cache": {
+        "key": "api:rz:v5_cricket_tournament_team:a-rz--cricket--icc--tour-menglannx4qzo-mwindiesxv8aqd-T20--2025-6DdP--a-rz--cricket--mwindiesxv8aqd",
+        "expires": 1751315008.698107,
+        "etag": "ET:EN13048323931709248909:0",
+        "max_age": 300
+    },
+    "schema": {
+        "major_version": "5.0",
+        "minor_version": "2"
+    },
+    "error": null,
+    "http_status_code": 200
+}

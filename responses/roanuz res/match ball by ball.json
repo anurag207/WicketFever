@@ -1,0 +1,402 @@
+{
+    "data": {
+        "over": {
+            "index": {
+                "innings": "b_1",
+                "over_number": 20
+            },
+            "balls": [
+                {
+                    "key": "1058688",
+                    "ball_type": "normal",
+                    "batting_team": "b",
+                    "comment": "Matthew Potts to Romario Shepherd: <b>Wicket!</b>, Caught by Will Jacks. <b>Wicket!</b> No runs.",
+                    "innings": "b_1",
+                    "overs": [
+                        19,
+                        6
+                    ],
+                    "batsman": {
+                        "player_key": "r_shepherd",
+                        "ball_count": 1,
+                        "runs": 0,
+                        "is_dot_ball": true,
+                        "is_four": false,
+                        "is_six": false
+                    },
+                    "bowler": {
+                        "player_key": "m_pots",
+                        "ball_count": 1,
+                        "runs": 0,
+                        "extras": 0,
+                        "is_wicket": true
+                    },
+                    "team_score": {
+                        "ball_count": 1,
+                        "runs": 0,
+                        "extras": 0,
+                        "is_wicket": true
+                    },
+                    "fielders": [
+                        {
+                            "player_key": "will_jacks",
+                            "is_run_out": false,
+                            "is_stumps": false,
+                            "is_catch": true,
+                            "is_assists": false
+                        }
+                    ],
+                    "wicket": {
+                        "player_key": "r_shepherd",
+                        "wicket_type": "caught"
+                    },
+                    "non_striker_key": "j_holder",
+                    "entry_time": 1749243981.059,
+                    "ball_play_status": "played",
+                    "ball_tags": [],
+                    "updated_time": 1749243981.059,
+                    "repr": "w"
+                },
+                {
+                    "key": "1058625",
+                    "ball_type": "normal",
+                    "batting_team": "b",
+                    "comment": "Matthew Potts to Romario Shepherd: <b>FOUR</b>. 4 runs.",
+                    "innings": "b_1",
+                    "overs": [
+                        19,
+                        5
+                    ],
+                    "batsman": {
+                        "player_key": "r_shepherd",
+                        "ball_count": 1,
+                        "runs": 4,
+                        "is_dot_ball": false,
+                        "is_four": true,
+                        "is_six": false
+                    },
+                    "bowler": {
+                        "player_key": "m_pots",
+                        "ball_count": 1,
+                        "runs": 4,
+                        "extras": 0,
+                        "is_wicket": false
+                    },
+                    "team_score": {
+                        "ball_count": 1,
+                        "runs": 4,
+                        "extras": 0,
+                        "is_wicket": false
+                    },
+                    "fielders": [],
+                    "wicket": null,
+                    "non_striker_key": "j_holder",
+                    "entry_time": 1749243932.791,
+                    "ball_play_status": "played",
+                    "ball_tags": [],
+                    "updated_time": 1749243932.791,
+                    "repr": "b4"
+                },
+                {
+                    "key": "1058624",
+                    "ball_type": "wide",
+                    "batting_team": "b",
+                    "comment": "Matthew Potts to Romario Shepherd: wide, 1 run.",
+                    "innings": "b_1",
+                    "overs": [
+                        19,
+                        5
+                    ],
+                    "batsman": {
+                        "player_key": "r_shepherd",
+                        "ball_count": 0,
+                        "runs": 0,
+                        "is_dot_ball": false,
+                        "is_four": false,
+                        "is_six": false
+                    },
+                    "bowler": {
+                        "player_key": "m_pots",
+                        "ball_count": 0,
+                        "runs": 1,
+                        "extras": 1,
+                        "is_wicket": false
+                    },
+                    "team_score": {
+                        "ball_count": 0,
+                        "runs": 1,
+                        "extras": 1,
+                        "is_wicket": false
+                    },
+                    "fielders": [],
+                    "wicket": null,
+                    "non_striker_key": "j_holder",
+                    "entry_time": 1749243900.645,
+                    "ball_play_status": "played",
+                    "ball_tags": [],
+                    "updated_time": 1749243900.645,
+                    "repr": "e1,wd"
+                },
+                {
+                    "key": "1058560",
+                    "ball_type": "normal",
+                    "batting_team": "b",
+                    "comment": "Matthew Potts to Romario Shepherd: 2 runs.",
+                    "innings": "b_1",
+                    "overs": [
+                        19,
+                        4
+                    ],
+                    "batsman": {
+                        "player_key": "r_shepherd",
+                        "ball_count": 1,
+                        "runs": 2,
+                        "is_dot_ball": false,
+                        "is_four": false,
+                        "is_six": false
+                    },
+                    "bowler": {
+                        "player_key": "m_pots",
+                        "ball_count": 1,
+                        "runs": 2,
+                        "extras": 0,
+                        "is_wicket": false
+                    },
+                    "team_score": {
+                        "ball_count": 1,
+                        "runs": 2,
+                        "extras": 0,
+                        "is_wicket": false
+                    },
+                    "fielders": [],
+                    "wicket": null,
+                    "non_striker_key": "j_holder",
+                    "entry_time": 1749243869.771,
+                    "ball_play_status": "played",
+                    "ball_tags": [],
+                    "updated_time": 1749243869.771,
+                    "repr": "r2"
+                },
+                {
+                    "key": "1058497",
+                    "ball_type": "normal",
+                    "batting_team": "b",
+                    "comment": "Matthew Potts to Jason Holder: 1 run.",
+                    "innings": "b_1",
+                    "overs": [
+                        19,
+                        3
+                    ],
+                    "batsman": {
+                        "player_key": "j_holder",
+                        "ball_count": 1,
+                        "runs": 1,
+                        "is_dot_ball": false,
+                        "is_four": false,
+                        "is_six": false
+                    },
+                    "bowler": {
+                        "player_key": "m_pots",
+                        "ball_count": 1,
+                        "runs": 1,
+                        "extras": 0,
+                        "is_wicket": false
+                    },
+                    "team_score": {
+                        "ball_count": 1,
+                        "runs": 1,
+                        "extras": 0,
+                        "is_wicket": false
+                    },
+                    "fielders": [],
+                    "wicket": null,
+                    "non_striker_key": "r_shepherd",
+                    "entry_time": 1749243836.118,
+                    "ball_play_status": "played",
+                    "ball_tags": [],
+                    "updated_time": 1749243836.118,
+                    "repr": "r1"
+                },
+                {
+                    "key": "1058496",
+                    "ball_type": "wide",
+                    "batting_team": "b",
+                    "comment": "Matthew Potts to Jason Holder: wide, 1 run.",
+                    "innings": "b_1",
+                    "overs": [
+                        19,
+                        3
+                    ],
+                    "batsman": {
+                        "player_key": "j_holder",
+                        "ball_count": 0,
+                        "runs": 0,
+                        "is_dot_ball": false,
+                        "is_four": false,
+                        "is_six": false
+                    },
+                    "bowler": {
+                        "player_key": "m_pots",
+                        "ball_count": 0,
+                        "runs": 1,
+                        "extras": 1,
+                        "is_wicket": false
+                    },
+                    "team_score": {
+                        "ball_count": 0,
+                        "runs": 1,
+                        "extras": 1,
+                        "is_wicket": false
+                    },
+                    "fielders": [],
+                    "wicket": null,
+                    "non_striker_key": "r_shepherd",
+                    "entry_time": 1749243801.714,
+                    "ball_play_status": "played",
+                    "ball_tags": [],
+                    "updated_time": 1749243801.714,
+                    "repr": "e1,wd"
+                },
+                {
+                    "key": "1058433",
+                    "ball_type": "normal",
+                    "batting_team": "b",
+                    "comment": "Matthew Potts to Jason Holder: <b>FOUR</b>. 4 runs.",
+                    "innings": "b_1",
+                    "overs": [
+                        19,
+                        2
+                    ],
+                    "batsman": {
+                        "player_key": "j_holder",
+                        "ball_count": 1,
+                        "runs": 4,
+                        "is_dot_ball": false,
+                        "is_four": true,
+                        "is_six": false
+                    },
+                    "bowler": {
+                        "player_key": "m_pots",
+                        "ball_count": 1,
+                        "runs": 4,
+                        "extras": 0,
+                        "is_wicket": false
+                    },
+                    "team_score": {
+                        "ball_count": 1,
+                        "runs": 4,
+                        "extras": 0,
+                        "is_wicket": false
+                    },
+                    "fielders": [],
+                    "wicket": null,
+                    "non_striker_key": "r_shepherd",
+                    "entry_time": 1749243766.647,
+                    "ball_play_status": "played",
+                    "ball_tags": [],
+                    "updated_time": 1749243766.647,
+                    "repr": "b4"
+                },
+                {
+                    "key": "1058432",
+                    "ball_type": "wide",
+                    "batting_team": "b",
+                    "comment": "Matthew Potts to Jason Holder: wide, 1 run.",
+                    "innings": "b_1",
+                    "overs": [
+                        19,
+                        2
+                    ],
+                    "batsman": {
+                        "player_key": "j_holder",
+                        "ball_count": 0,
+                        "runs": 0,
+                        "is_dot_ball": false,
+                        "is_four": false,
+                        "is_six": false
+                    },
+                    "bowler": {
+                        "player_key": "m_pots",
+                        "ball_count": 0,
+                        "runs": 1,
+                        "extras": 1,
+                        "is_wicket": false
+                    },
+                    "team_score": {
+                        "ball_count": 0,
+                        "runs": 1,
+                        "extras": 1,
+                        "is_wicket": false
+                    },
+                    "fielders": [],
+                    "wicket": null,
+                    "non_striker_key": "r_shepherd",
+                    "entry_time": 1749243736.323,
+                    "ball_play_status": "played",
+                    "ball_tags": [],
+                    "updated_time": 1749243736.323,
+                    "repr": "e1,wd"
+                },
+                {
+                    "key": "1058368",
+                    "ball_type": "normal",
+                    "batting_team": "b",
+                    "comment": "Matthew Potts to Romario Shepherd: 1 run.",
+                    "innings": "b_1",
+                    "overs": [
+                        19,
+                        1
+                    ],
+                    "batsman": {
+                        "player_key": "r_shepherd",
+                        "ball_count": 1,
+                        "runs": 1,
+                        "is_dot_ball": false,
+                        "is_four": false,
+                        "is_six": false
+                    },
+                    "bowler": {
+                        "player_key": "m_pots",
+                        "ball_count": 1,
+                        "runs": 1,
+                        "extras": 0,
+                        "is_wicket": false
+                    },
+                    "team_score": {
+                        "ball_count": 1,
+                        "runs": 1,
+                        "extras": 0,
+                        "is_wicket": false
+                    },
+                    "fielders": [],
+                    "wicket": null,
+                    "non_striker_key": "j_holder",
+                    "entry_time": 1749243716.417,
+                    "ball_play_status": "played",
+                    "ball_tags": [],
+                    "updated_time": 1749243716.417,
+                    "repr": "r1"
+                }
+            ]
+        },
+        "previous_over_index": {
+            "innings": "b_1",
+            "over_number": 19
+        },
+        "next_over_index": null,
+        "previous_over_key": "b_1_19",
+        "next_over_key": null
+    },
+    "cache": {
+        "key": "api:rz:v5_cricket_match_ball-by-ball:a-rz--cricket--c41880303775789522949",
+        "expires": 1750966252.697975,
+        "etag": "ET:S613048322468920562189:0",
+        "max_age": 300
+    },
+    "schema": {
+        "major_version": "5.0",
+        "minor_version": "2"
+    },
+    "error": null,
+    "http_status_code": 200
+}

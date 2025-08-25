@@ -1,0 +1,1770 @@
+{
+    "data": {
+        "countries": [
+            {
+                "short_code": "AW",
+                "code": "ABW",
+                "name": "Aruba",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "AF",
+                "code": "AFG",
+                "name": "Afghanistan",
+                "official_name": "Islamic Republic of Afghanistan",
+                "is_region": false
+            },
+            {
+                "short_code": "AO",
+                "code": "AGO",
+                "name": "Angola",
+                "official_name": "Republic of Angola",
+                "is_region": false
+            },
+            {
+                "short_code": "AI",
+                "code": "AIA",
+                "name": "Anguilla",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "AX",
+                "code": "ALA",
+                "name": "Åland Islands",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "AL",
+                "code": "ALB",
+                "name": "Albania",
+                "official_name": "Republic of Albania",
+                "is_region": false
+            },
+            {
+                "short_code": "AD",
+                "code": "AND",
+                "name": "Andorra",
+                "official_name": "Principality of Andorra",
+                "is_region": false
+            },
+            {
+                "short_code": "AE",
+                "code": "ARE",
+                "name": "United Arab Emirates",
+                "official_name": "United Arab Emirates",
+                "is_region": false
+            },
+            {
+                "short_code": "AR",
+                "code": "ARG",
+                "name": "Argentina",
+                "official_name": "Argentine Republic",
+                "is_region": false
+            },
+            {
+                "short_code": "AM",
+                "code": "ARM",
+                "name": "Armenia",
+                "official_name": "Republic of Armenia",
+                "is_region": false
+            },
+            {
+                "short_code": "AS",
+                "code": "ASM",
+                "name": "American Samoa",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "AQ",
+                "code": "ATA",
+                "name": "Antarctica",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "TF",
+                "code": "ATF",
+                "name": "French Southern Territories",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "AG",
+                "code": "ATG",
+                "name": "Antigua and Barbuda",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "AU",
+                "code": "AUS",
+                "name": "Australia",
+                "official_name": "the Commonwealth of Australia",
+                "is_region": false
+            },
+            {
+                "short_code": "AT",
+                "code": "AUT",
+                "name": "Austria",
+                "official_name": "Republic of Austria",
+                "is_region": false
+            },
+            {
+                "short_code": "AZ",
+                "code": "AZE",
+                "name": "Azerbaijan",
+                "official_name": "Republic of Azerbaijan",
+                "is_region": false
+            },
+            {
+                "short_code": "BI",
+                "code": "BDI",
+                "name": "Burundi",
+                "official_name": "Republic of Burundi",
+                "is_region": false
+            },
+            {
+                "short_code": "BE",
+                "code": "BEL",
+                "name": "Belgium",
+                "official_name": "Kingdom of Belgium",
+                "is_region": false
+            },
+            {
+                "short_code": "BJ",
+                "code": "BEN",
+                "name": "Benin",
+                "official_name": "Republic of Benin",
+                "is_region": false
+            },
+            {
+                "short_code": "BQ",
+                "code": "BES",
+                "name": "Bonaire, Sint Eustatius and Saba",
+                "official_name": "Bonaire, Sint Eustatius and Saba",
+                "is_region": false
+            },
+            {
+                "short_code": "BF",
+                "code": "BFA",
+                "name": "Burkina Faso",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "BD",
+                "code": "BGD",
+                "name": "Bangladesh",
+                "official_name": "People's Republic of Bangladesh",
+                "is_region": false
+            },
+            {
+                "short_code": "BG",
+                "code": "BGR",
+                "name": "Bulgaria",
+                "official_name": "Republic of Bulgaria",
+                "is_region": false
+            },
+            {
+                "short_code": "BH",
+                "code": "BHR",
+                "name": "Bahrain",
+                "official_name": "Kingdom of Bahrain",
+                "is_region": false
+            },
+            {
+                "short_code": "BS",
+                "code": "BHS",
+                "name": "Bahamas",
+                "official_name": "Commonwealth of the Bahamas",
+                "is_region": false
+            },
+            {
+                "short_code": "BA",
+                "code": "BIH",
+                "name": "Bosnia and Herzegovina",
+                "official_name": "Republic of Bosnia and Herzegovina",
+                "is_region": false
+            },
+            {
+                "short_code": "BL",
+                "code": "BLM",
+                "name": "Saint Barthélemy",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "BY",
+                "code": "BLR",
+                "name": "Belarus",
+                "official_name": "Republic of Belarus",
+                "is_region": false
+            },
+            {
+                "short_code": "BZ",
+                "code": "BLZ",
+                "name": "Belize",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "BM",
+                "code": "BMU",
+                "name": "Bermuda",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "BO",
+                "code": "BOL",
+                "name": "Bolivia",
+                "official_name": "Plurinational State of Bolivia",
+                "is_region": false
+            },
+            {
+                "short_code": "BR",
+                "code": "BRA",
+                "name": "Brazil",
+                "official_name": "Federative Republic of Brazil",
+                "is_region": false
+            },
+            {
+                "short_code": "BB",
+                "code": "BRB",
+                "name": "Barbados",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "BN",
+                "code": "BRN",
+                "name": "Brunei Darussalam",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "BT",
+                "code": "BTN",
+                "name": "Bhutan",
+                "official_name": "Kingdom of Bhutan",
+                "is_region": false
+            },
+            {
+                "short_code": "BV",
+                "code": "BVT",
+                "name": "Bouvet Island",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "BW",
+                "code": "BWA",
+                "name": "Botswana",
+                "official_name": "Republic of Botswana",
+                "is_region": false
+            },
+            {
+                "short_code": "CF",
+                "code": "CAF",
+                "name": "Central African Republic",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "CA",
+                "code": "CAN",
+                "name": "Canada",
+                "official_name": "Canada",
+                "is_region": false
+            },
+            {
+                "short_code": "CC",
+                "code": "CCK",
+                "name": "Cocos (Keeling) Islands",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "CH",
+                "code": "CHE",
+                "name": "Switzerland",
+                "official_name": "Swiss Confederation",
+                "is_region": false
+            },
+            {
+                "short_code": "CL",
+                "code": "CHL",
+                "name": "Chile",
+                "official_name": "Republic of Chile",
+                "is_region": false
+            },
+            {
+                "short_code": "CN",
+                "code": "CHN",
+                "name": "China",
+                "official_name": "People's Republic of China",
+                "is_region": false
+            },
+            {
+                "short_code": "CI",
+                "code": "CIV",
+                "name": "Côte d'Ivoire",
+                "official_name": "Republic of Côte d'Ivoire",
+                "is_region": false
+            },
+            {
+                "short_code": "CM",
+                "code": "CMR",
+                "name": "Cameroon",
+                "official_name": "Republic of Cameroon",
+                "is_region": false
+            },
+            {
+                "short_code": "CD",
+                "code": "COD",
+                "name": "Congo, The Democratic Republic of the",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "CG",
+                "code": "COG",
+                "name": "Congo",
+                "official_name": "Republic of the Congo",
+                "is_region": false
+            },
+            {
+                "short_code": "CK",
+                "code": "COK",
+                "name": "Cook Islands",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "CO",
+                "code": "COL",
+                "name": "Colombia",
+                "official_name": "Republic of Colombia",
+                "is_region": false
+            },
+            {
+                "short_code": "KM",
+                "code": "COM",
+                "name": "Comoros",
+                "official_name": "Union of the Comoros",
+                "is_region": false
+            },
+            {
+                "short_code": "CV",
+                "code": "CPV",
+                "name": "Cabo Verde",
+                "official_name": "Republic of Cabo Verde",
+                "is_region": false
+            },
+            {
+                "short_code": "CR",
+                "code": "CRI",
+                "name": "Costa Rica",
+                "official_name": "Republic of Costa Rica",
+                "is_region": false
+            },
+            {
+                "short_code": "CU",
+                "code": "CUB",
+                "name": "Cuba",
+                "official_name": "Republic of Cuba",
+                "is_region": false
+            },
+            {
+                "short_code": "CW",
+                "code": "CUW",
+                "name": "Curaçao",
+                "official_name": "Curaçao",
+                "is_region": false
+            },
+            {
+                "short_code": "CX",
+                "code": "CXR",
+                "name": "Christmas Island",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "KY",
+                "code": "CYM",
+                "name": "Cayman Islands",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "CY",
+                "code": "CYP",
+                "name": "Cyprus",
+                "official_name": "Republic of Cyprus",
+                "is_region": false
+            },
+            {
+                "short_code": "CZ",
+                "code": "CZE",
+                "name": "Czechia",
+                "official_name": "Czech Republic",
+                "is_region": false
+            },
+            {
+                "short_code": "DE",
+                "code": "DEU",
+                "name": "Germany",
+                "official_name": "Federal Republic of Germany",
+                "is_region": false
+            },
+            {
+                "short_code": "DJ",
+                "code": "DJI",
+                "name": "Djibouti",
+                "official_name": "Republic of Djibouti",
+                "is_region": false
+            },
+            {
+                "short_code": "DM",
+                "code": "DMA",
+                "name": "Dominica",
+                "official_name": "Commonwealth of Dominica",
+                "is_region": false
+            },
+            {
+                "short_code": "DK",
+                "code": "DNK",
+                "name": "Denmark",
+                "official_name": "Kingdom of Denmark",
+                "is_region": false
+            },
+            {
+                "short_code": "DO",
+                "code": "DOM",
+                "name": "Dominican Republic",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "DZ",
+                "code": "DZA",
+                "name": "Algeria",
+                "official_name": "People's Democratic Republic of Algeria",
+                "is_region": false
+            },
+            {
+                "short_code": "EC",
+                "code": "ECU",
+                "name": "Ecuador",
+                "official_name": "Republic of Ecuador",
+                "is_region": false
+            },
+            {
+                "short_code": "EG",
+                "code": "EGY",
+                "name": "Egypt",
+                "official_name": "Arab Republic of Egypt",
+                "is_region": false
+            },
+            {
+                "short_code": "ER",
+                "code": "ERI",
+                "name": "Eritrea",
+                "official_name": "the State of Eritrea",
+                "is_region": false
+            },
+            {
+                "short_code": "EH",
+                "code": "ESH",
+                "name": "Western Sahara",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "ES",
+                "code": "ESP",
+                "name": "Spain",
+                "official_name": "Kingdom of Spain",
+                "is_region": false
+            },
+            {
+                "short_code": "EE",
+                "code": "EST",
+                "name": "Estonia",
+                "official_name": "Republic of Estonia",
+                "is_region": false
+            },
+            {
+                "short_code": "ET",
+                "code": "ETH",
+                "name": "Ethiopia",
+                "official_name": "Federal Democratic Republic of Ethiopia",
+                "is_region": false
+            },
+            {
+                "short_code": "FI",
+                "code": "FIN",
+                "name": "Finland",
+                "official_name": "Republic of Finland",
+                "is_region": false
+            },
+            {
+                "short_code": "FJ",
+                "code": "FJI",
+                "name": "Fiji",
+                "official_name": "Republic of Fiji",
+                "is_region": false
+            },
+            {
+                "short_code": "FK",
+                "code": "FLK",
+                "name": "Falkland Islands (Malvinas)",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "FR",
+                "code": "FRA",
+                "name": "France",
+                "official_name": "French Republic",
+                "is_region": false
+            },
+            {
+                "short_code": "FO",
+                "code": "FRO",
+                "name": "Faroe Islands",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "FM",
+                "code": "FSM",
+                "name": "Micronesia, Federated States of",
+                "official_name": "Federated States of Micronesia",
+                "is_region": false
+            },
+            {
+                "short_code": "GA",
+                "code": "GAB",
+                "name": "Gabon",
+                "official_name": "Gabonese Republic",
+                "is_region": false
+            },
+            {
+                "short_code": "GB",
+                "code": "GBR",
+                "name": "United Kingdom",
+                "official_name": "United Kingdom of Great Britain and Northern Ireland",
+                "is_region": false
+            },
+            {
+                "short_code": "GE",
+                "code": "GEO",
+                "name": "Georgia",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "GG",
+                "code": "GGY",
+                "name": "Guernsey",
+                "official_name": "Guernsey",
+                "is_region": false
+            },
+            {
+                "short_code": "GH",
+                "code": "GHA",
+                "name": "Ghana",
+                "official_name": "Republic of Ghana",
+                "is_region": false
+            },
+            {
+                "short_code": "GI",
+                "code": "GIB",
+                "name": "Gibraltar",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "GN",
+                "code": "GIN",
+                "name": "Guinea",
+                "official_name": "Republic of Guinea",
+                "is_region": false
+            },
+            {
+                "short_code": "GP",
+                "code": "GLP",
+                "name": "Guadeloupe",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "GM",
+                "code": "GMB",
+                "name": "Gambia",
+                "official_name": "Republic of the Gambia",
+                "is_region": false
+            },
+            {
+                "short_code": "GW",
+                "code": "GNB",
+                "name": "Guinea-Bissau",
+                "official_name": "Republic of Guinea-Bissau",
+                "is_region": false
+            },
+            {
+                "short_code": "GQ",
+                "code": "GNQ",
+                "name": "Equatorial Guinea",
+                "official_name": "Republic of Equatorial Guinea",
+                "is_region": false
+            },
+            {
+                "short_code": "GR",
+                "code": "GRC",
+                "name": "Greece",
+                "official_name": "Hellenic Republic",
+                "is_region": false
+            },
+            {
+                "short_code": "GD",
+                "code": "GRD",
+                "name": "Grenada",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "GL",
+                "code": "GRL",
+                "name": "Greenland",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "GT",
+                "code": "GTM",
+                "name": "Guatemala",
+                "official_name": "Republic of Guatemala",
+                "is_region": false
+            },
+            {
+                "short_code": "GF",
+                "code": "GUF",
+                "name": "French Guiana",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "GU",
+                "code": "GUM",
+                "name": "Guam",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "GY",
+                "code": "GUY",
+                "name": "Guyana",
+                "official_name": "Republic of Guyana",
+                "is_region": false
+            },
+            {
+                "short_code": "HK",
+                "code": "HKG",
+                "name": "Hong Kong",
+                "official_name": "Hong Kong Special Administrative Region of China",
+                "is_region": false
+            },
+            {
+                "short_code": "HM",
+                "code": "HMD",
+                "name": "Heard Island and McDonald Islands",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "HN",
+                "code": "HND",
+                "name": "Honduras",
+                "official_name": "Republic of Honduras",
+                "is_region": false
+            },
+            {
+                "short_code": "HR",
+                "code": "HRV",
+                "name": "Croatia",
+                "official_name": "Republic of Croatia",
+                "is_region": false
+            },
+            {
+                "short_code": "HT",
+                "code": "HTI",
+                "name": "Haiti",
+                "official_name": "Republic of Haiti",
+                "is_region": false
+            },
+            {
+                "short_code": "HU",
+                "code": "HUN",
+                "name": "Hungary",
+                "official_name": "Hungary",
+                "is_region": false
+            },
+            {
+                "short_code": "ID",
+                "code": "IDN",
+                "name": "Indonesia",
+                "official_name": "Republic of Indonesia",
+                "is_region": false
+            },
+            {
+                "short_code": "IM",
+                "code": "IMN",
+                "name": "Isle of Man",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "IN",
+                "code": "IND",
+                "name": "India",
+                "official_name": "Republic of India",
+                "is_region": false
+            },
+            {
+                "short_code": "IO",
+                "code": "IOT",
+                "name": "British Indian Ocean Territory",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "IE",
+                "code": "IRL",
+                "name": "Ireland",
+                "official_name": "Republic of Ireland",
+                "is_region": false
+            },
+            {
+                "short_code": "IR",
+                "code": "IRN",
+                "name": "Iran, Islamic Republic of",
+                "official_name": "Islamic Republic of Iran",
+                "is_region": false
+            },
+            {
+                "short_code": "IQ",
+                "code": "IRQ",
+                "name": "Iraq",
+                "official_name": "Republic of Iraq",
+                "is_region": false
+            },
+            {
+                "short_code": "IS",
+                "code": "ISL",
+                "name": "Iceland",
+                "official_name": "Republic of Iceland",
+                "is_region": false
+            },
+            {
+                "short_code": "IL",
+                "code": "ISR",
+                "name": "Israel",
+                "official_name": "State of Israel",
+                "is_region": false
+            },
+            {
+                "short_code": "IT",
+                "code": "ITA",
+                "name": "Italy",
+                "official_name": "Italian Republic",
+                "is_region": false
+            },
+            {
+                "short_code": "JM",
+                "code": "JAM",
+                "name": "Jamaica",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "JE",
+                "code": "JEY",
+                "name": "Jersey",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "JO",
+                "code": "JOR",
+                "name": "Jordan",
+                "official_name": "Hashemite Kingdom of Jordan",
+                "is_region": false
+            },
+            {
+                "short_code": "JP",
+                "code": "JPN",
+                "name": "Japan",
+                "official_name": "Japan",
+                "is_region": false
+            },
+            {
+                "short_code": "KZ",
+                "code": "KAZ",
+                "name": "Kazakhstan",
+                "official_name": "Republic of Kazakhstan",
+                "is_region": false
+            },
+            {
+                "short_code": "KE",
+                "code": "KEN",
+                "name": "Kenya",
+                "official_name": "Republic of Kenya",
+                "is_region": false
+            },
+            {
+                "short_code": "KG",
+                "code": "KGZ",
+                "name": "Kyrgyzstan",
+                "official_name": "Kyrgyz Republic",
+                "is_region": false
+            },
+            {
+                "short_code": "KH",
+                "code": "KHM",
+                "name": "Cambodia",
+                "official_name": "Kingdom of Cambodia",
+                "is_region": false
+            },
+            {
+                "short_code": "KI",
+                "code": "KIR",
+                "name": "Kiribati",
+                "official_name": "Republic of Kiribati",
+                "is_region": false
+            },
+            {
+                "short_code": "KN",
+                "code": "KNA",
+                "name": "Saint Kitts and Nevis",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "KR",
+                "code": "KOR",
+                "name": "Korea, Republic of",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "KW",
+                "code": "KWT",
+                "name": "Kuwait",
+                "official_name": "State of Kuwait",
+                "is_region": false
+            },
+            {
+                "short_code": "LA",
+                "code": "LAO",
+                "name": "Lao People's Democratic Republic",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "LB",
+                "code": "LBN",
+                "name": "Lebanon",
+                "official_name": "Lebanese Republic",
+                "is_region": false
+            },
+            {
+                "short_code": "LR",
+                "code": "LBR",
+                "name": "Liberia",
+                "official_name": "Republic of Liberia",
+                "is_region": false
+            },
+            {
+                "short_code": "LY",
+                "code": "LBY",
+                "name": "Libya",
+                "official_name": "Libya",
+                "is_region": false
+            },
+            {
+                "short_code": "LC",
+                "code": "LCA",
+                "name": "Saint Lucia",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "LI",
+                "code": "LIE",
+                "name": "Liechtenstein",
+                "official_name": "Principality of Liechtenstein",
+                "is_region": false
+            },
+            {
+                "short_code": "LK",
+                "code": "LKA",
+                "name": "Sri Lanka",
+                "official_name": "Democratic Socialist Republic of Sri Lanka",
+                "is_region": false
+            },
+            {
+                "short_code": "LS",
+                "code": "LSO",
+                "name": "Lesotho",
+                "official_name": "Kingdom of Lesotho",
+                "is_region": false
+            },
+            {
+                "short_code": "LT",
+                "code": "LTU",
+                "name": "Lithuania",
+                "official_name": "Republic of Lithuania",
+                "is_region": false
+            },
+            {
+                "short_code": "LU",
+                "code": "LUX",
+                "name": "Luxembourg",
+                "official_name": "Grand Duchy of Luxembourg",
+                "is_region": false
+            },
+            {
+                "short_code": "LV",
+                "code": "LVA",
+                "name": "Latvia",
+                "official_name": "Republic of Latvia",
+                "is_region": false
+            },
+            {
+                "short_code": "MO",
+                "code": "MAC",
+                "name": "Macao",
+                "official_name": "Macao Special Administrative Region of China",
+                "is_region": false
+            },
+            {
+                "short_code": "MF",
+                "code": "MAF",
+                "name": "Saint Martin (French part)",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "MA",
+                "code": "MAR",
+                "name": "Morocco",
+                "official_name": "Kingdom of Morocco",
+                "is_region": false
+            },
+            {
+                "short_code": "MC",
+                "code": "MCO",
+                "name": "Monaco",
+                "official_name": "Principality of Monaco",
+                "is_region": false
+            },
+            {
+                "short_code": "MD",
+                "code": "MDA",
+                "name": "Moldova",
+                "official_name": "Republic of Moldova",
+                "is_region": false
+            },
+            {
+                "short_code": "MG",
+                "code": "MDG",
+                "name": "Madagascar",
+                "official_name": "Republic of Madagascar",
+                "is_region": false
+            },
+            {
+                "short_code": "MV",
+                "code": "MDV",
+                "name": "Maldives",
+                "official_name": "Republic of Maldives",
+                "is_region": false
+            },
+            {
+                "short_code": "MX",
+                "code": "MEX",
+                "name": "Mexico",
+                "official_name": "United Mexican States",
+                "is_region": false
+            },
+            {
+                "short_code": "MH",
+                "code": "MHL",
+                "name": "Marshall Islands",
+                "official_name": "Republic of the Marshall Islands",
+                "is_region": false
+            },
+            {
+                "short_code": "MK",
+                "code": "MKD",
+                "name": "North Macedonia",
+                "official_name": "Republic of North Macedonia",
+                "is_region": false
+            },
+            {
+                "short_code": "ML",
+                "code": "MLI",
+                "name": "Mali",
+                "official_name": "Republic of Mali",
+                "is_region": false
+            },
+            {
+                "short_code": "MT",
+                "code": "MLT",
+                "name": "Malta",
+                "official_name": "Republic of Malta",
+                "is_region": false
+            },
+            {
+                "short_code": "MM",
+                "code": "MMR",
+                "name": "Myanmar",
+                "official_name": "Republic of Myanmar",
+                "is_region": false
+            },
+            {
+                "short_code": "ME",
+                "code": "MNE",
+                "name": "Montenegro",
+                "official_name": "Montenegro",
+                "is_region": false
+            },
+            {
+                "short_code": "MN",
+                "code": "MNG",
+                "name": "Mongolia",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "MP",
+                "code": "MNP",
+                "name": "Northern Mariana Islands",
+                "official_name": "Commonwealth of the Northern Mariana Islands",
+                "is_region": false
+            },
+            {
+                "short_code": "MZ",
+                "code": "MOZ",
+                "name": "Mozambique",
+                "official_name": "Republic of Mozambique",
+                "is_region": false
+            },
+            {
+                "short_code": "MR",
+                "code": "MRT",
+                "name": "Mauritania",
+                "official_name": "Islamic Republic of Mauritania",
+                "is_region": false
+            },
+            {
+                "short_code": "MS",
+                "code": "MSR",
+                "name": "Montserrat",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "MQ",
+                "code": "MTQ",
+                "name": "Martinique",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "MU",
+                "code": "MUS",
+                "name": "Mauritius",
+                "official_name": "Republic of Mauritius",
+                "is_region": false
+            },
+            {
+                "short_code": "MW",
+                "code": "MWI",
+                "name": "Malawi",
+                "official_name": "Republic of Malawi",
+                "is_region": false
+            },
+            {
+                "short_code": "MY",
+                "code": "MYS",
+                "name": "Malaysia",
+                "official_name": "Federation of Malaya",
+                "is_region": false
+            },
+            {
+                "short_code": "YT",
+                "code": "MYT",
+                "name": "Mayotte",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "NA",
+                "code": "NAM",
+                "name": "Namibia",
+                "official_name": "Republic of Namibia",
+                "is_region": false
+            },
+            {
+                "short_code": "NC",
+                "code": "NCL",
+                "name": "New Caledonia",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "NE",
+                "code": "NER",
+                "name": "Niger",
+                "official_name": "Republic of the Niger",
+                "is_region": false
+            },
+            {
+                "short_code": "NF",
+                "code": "NFK",
+                "name": "Norfolk Island",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "NG",
+                "code": "NGA",
+                "name": "Nigeria",
+                "official_name": "Federal Republic of Nigeria",
+                "is_region": false
+            },
+            {
+                "short_code": "NI",
+                "code": "NIC",
+                "name": "Nicaragua",
+                "official_name": "Republic of Nicaragua",
+                "is_region": false
+            },
+            {
+                "short_code": "NU",
+                "code": "NIU",
+                "name": "Niue",
+                "official_name": "Niue",
+                "is_region": false
+            },
+            {
+                "short_code": "NL",
+                "code": "NLD",
+                "name": "Netherlands",
+                "official_name": "Kingdom of the Netherlands",
+                "is_region": false
+            },
+            {
+                "short_code": "NO",
+                "code": "NOR",
+                "name": "Norway",
+                "official_name": "Kingdom of Norway",
+                "is_region": false
+            },
+            {
+                "short_code": "NP",
+                "code": "NPL",
+                "name": "Nepal",
+                "official_name": "Federal Democratic Republic of Nepal",
+                "is_region": false
+            },
+            {
+                "short_code": "NR",
+                "code": "NRU",
+                "name": "Nauru",
+                "official_name": "Republic of Nauru",
+                "is_region": false
+            },
+            {
+                "short_code": "NZ",
+                "code": "NZL",
+                "name": "New Zealand",
+                "official_name": "New Zealand",
+                "is_region": false
+            },
+            {
+                "short_code": "OM",
+                "code": "OMN",
+                "name": "Oman",
+                "official_name": "Sultanate of Oman",
+                "is_region": false
+            },
+            {
+                "short_code": "PK",
+                "code": "PAK",
+                "name": "Pakistan",
+                "official_name": "Islamic Republic of Pakistan",
+                "is_region": false
+            },
+            {
+                "short_code": "PA",
+                "code": "PAN",
+                "name": "Panama",
+                "official_name": "Republic of Panama",
+                "is_region": false
+            },
+            {
+                "short_code": "PN",
+                "code": "PCN",
+                "name": "Pitcairn",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "PE",
+                "code": "PER",
+                "name": "Peru",
+                "official_name": "Republic of Peru",
+                "is_region": false
+            },
+            {
+                "short_code": "PH",
+                "code": "PHL",
+                "name": "Philippines",
+                "official_name": "Republic of the Philippines",
+                "is_region": false
+            },
+            {
+                "short_code": "PW",
+                "code": "PLW",
+                "name": "Palau",
+                "official_name": "Republic of Palau",
+                "is_region": false
+            },
+            {
+                "short_code": "PG",
+                "code": "PNG",
+                "name": "Papua New Guinea",
+                "official_name": "Independent State of Papua New Guinea",
+                "is_region": false
+            },
+            {
+                "short_code": "PL",
+                "code": "POL",
+                "name": "Poland",
+                "official_name": "Republic of Poland",
+                "is_region": false
+            },
+            {
+                "short_code": "PR",
+                "code": "PRI",
+                "name": "Puerto Rico",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "KP",
+                "code": "PRK",
+                "name": "Korea, Democratic People's Republic of",
+                "official_name": "Democratic People's Republic of Korea",
+                "is_region": false
+            },
+            {
+                "short_code": "PT",
+                "code": "PRT",
+                "name": "Portugal",
+                "official_name": "Portuguese Republic",
+                "is_region": false
+            },
+            {
+                "short_code": "PY",
+                "code": "PRY",
+                "name": "Paraguay",
+                "official_name": "Republic of Paraguay",
+                "is_region": false
+            },
+            {
+                "short_code": "PS",
+                "code": "PSE",
+                "name": "Palestine, State of",
+                "official_name": "the State of Palestine",
+                "is_region": false
+            },
+            {
+                "short_code": "PF",
+                "code": "PYF",
+                "name": "French Polynesia",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "QA",
+                "code": "QAT",
+                "name": "Qatar",
+                "official_name": "State of Qatar",
+                "is_region": false
+            },
+            {
+                "short_code": "RE",
+                "code": "REU",
+                "name": "Réunion",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "RO",
+                "code": "ROU",
+                "name": "Romania",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "RU",
+                "code": "RUS",
+                "name": "Russian Federation",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "RW",
+                "code": "RWA",
+                "name": "Rwanda",
+                "official_name": "Rwandese Republic",
+                "is_region": false
+            },
+            {
+                "short_code": "SA",
+                "code": "SAU",
+                "name": "Saudi Arabia",
+                "official_name": "Kingdom of Saudi Arabia",
+                "is_region": false
+            },
+            {
+                "short_code": "SD",
+                "code": "SDN",
+                "name": "Sudan",
+                "official_name": "Republic of the Sudan",
+                "is_region": false
+            },
+            {
+                "short_code": "SN",
+                "code": "SEN",
+                "name": "Senegal",
+                "official_name": "Republic of Senegal",
+                "is_region": false
+            },
+            {
+                "short_code": "SG",
+                "code": "SGP",
+                "name": "Singapore",
+                "official_name": "Republic of Singapore",
+                "is_region": false
+            },
+            {
+                "short_code": "GS",
+                "code": "SGS",
+                "name": "South Georgia and the South Sandwich Islands",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "SH",
+                "code": "SHN",
+                "name": "Saint Helena, Ascension and Tristan da Cunha",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "SJ",
+                "code": "SJM",
+                "name": "Svalbard and Jan Mayen",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "SB",
+                "code": "SLB",
+                "name": "Solomon Islands",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "SL",
+                "code": "SLE",
+                "name": "Sierra Leone",
+                "official_name": "Republic of Sierra Leone",
+                "is_region": false
+            },
+            {
+                "short_code": "SV",
+                "code": "SLV",
+                "name": "El Salvador",
+                "official_name": "Republic of El Salvador",
+                "is_region": false
+            },
+            {
+                "short_code": "SM",
+                "code": "SMR",
+                "name": "San Marino",
+                "official_name": "Republic of San Marino",
+                "is_region": false
+            },
+            {
+                "short_code": "SO",
+                "code": "SOM",
+                "name": "Somalia",
+                "official_name": "Federal Republic of Somalia",
+                "is_region": false
+            },
+            {
+                "short_code": "PM",
+                "code": "SPM",
+                "name": "Saint Pierre and Miquelon",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "RS",
+                "code": "SRB",
+                "name": "Serbia",
+                "official_name": "Republic of Serbia",
+                "is_region": false
+            },
+            {
+                "short_code": "SS",
+                "code": "SSD",
+                "name": "South Sudan",
+                "official_name": "Republic of South Sudan",
+                "is_region": false
+            },
+            {
+                "short_code": "ST",
+                "code": "STP",
+                "name": "Sao Tome and Principe",
+                "official_name": "Democratic Republic of Sao Tome and Principe",
+                "is_region": false
+            },
+            {
+                "short_code": "SR",
+                "code": "SUR",
+                "name": "Suriname",
+                "official_name": "Republic of Suriname",
+                "is_region": false
+            },
+            {
+                "short_code": "SK",
+                "code": "SVK",
+                "name": "Slovakia",
+                "official_name": "Slovak Republic",
+                "is_region": false
+            },
+            {
+                "short_code": "SI",
+                "code": "SVN",
+                "name": "Slovenia",
+                "official_name": "Republic of Slovenia",
+                "is_region": false
+            },
+            {
+                "short_code": "SE",
+                "code": "SWE",
+                "name": "Sweden",
+                "official_name": "Kingdom of Sweden",
+                "is_region": false
+            },
+            {
+                "short_code": "SZ",
+                "code": "SWZ",
+                "name": "Eswatini",
+                "official_name": "Kingdom of Eswatini",
+                "is_region": false
+            },
+            {
+                "short_code": "SX",
+                "code": "SXM",
+                "name": "Sint Maarten (Dutch part)",
+                "official_name": "Sint Maarten (Dutch part)",
+                "is_region": false
+            },
+            {
+                "short_code": "SC",
+                "code": "SYC",
+                "name": "Seychelles",
+                "official_name": "Republic of Seychelles",
+                "is_region": false
+            },
+            {
+                "short_code": "SY",
+                "code": "SYR",
+                "name": "Syrian Arab Republic",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "TC",
+                "code": "TCA",
+                "name": "Turks and Caicos Islands",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "TD",
+                "code": "TCD",
+                "name": "Chad",
+                "official_name": "Republic of Chad",
+                "is_region": false
+            },
+            {
+                "short_code": "TG",
+                "code": "TGO",
+                "name": "Togo",
+                "official_name": "Togolese Republic",
+                "is_region": false
+            },
+            {
+                "short_code": "TH",
+                "code": "THA",
+                "name": "Thailand",
+                "official_name": "Kingdom of Thailand",
+                "is_region": false
+            },
+            {
+                "short_code": "TJ",
+                "code": "TJK",
+                "name": "Tajikistan",
+                "official_name": "Republic of Tajikistan",
+                "is_region": false
+            },
+            {
+                "short_code": "TK",
+                "code": "TKL",
+                "name": "Tokelau",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "TM",
+                "code": "TKM",
+                "name": "Turkmenistan",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "TL",
+                "code": "TLS",
+                "name": "Timor-Leste",
+                "official_name": "Democratic Republic of Timor-Leste",
+                "is_region": false
+            },
+            {
+                "short_code": "TO",
+                "code": "TON",
+                "name": "Tonga",
+                "official_name": "Kingdom of Tonga",
+                "is_region": false
+            },
+            {
+                "short_code": "TT",
+                "code": "TTO",
+                "name": "Trinidad and Tobago",
+                "official_name": "Republic of Trinidad and Tobago",
+                "is_region": false
+            },
+            {
+                "short_code": "TN",
+                "code": "TUN",
+                "name": "Tunisia",
+                "official_name": "Republic of Tunisia",
+                "is_region": false
+            },
+            {
+                "short_code": "TR",
+                "code": "TUR",
+                "name": "Turkey",
+                "official_name": "Republic of Turkey",
+                "is_region": false
+            },
+            {
+                "short_code": "TV",
+                "code": "TUV",
+                "name": "Tuvalu",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "TW",
+                "code": "TWN",
+                "name": "Taiwan",
+                "official_name": "Taiwan, Province of China",
+                "is_region": false
+            },
+            {
+                "short_code": "TZ",
+                "code": "TZA",
+                "name": "Tanzania",
+                "official_name": "United Republic of Tanzania",
+                "is_region": false
+            },
+            {
+                "short_code": "UG",
+                "code": "UGA",
+                "name": "Uganda",
+                "official_name": "Republic of Uganda",
+                "is_region": false
+            },
+            {
+                "short_code": "UA",
+                "code": "UKR",
+                "name": "Ukraine",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "UM",
+                "code": "UMI",
+                "name": "United States Minor Outlying Islands",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "UY",
+                "code": "URY",
+                "name": "Uruguay",
+                "official_name": "Eastern Republic of Uruguay",
+                "is_region": false
+            },
+            {
+                "short_code": "US",
+                "code": "USA",
+                "name": "United States",
+                "official_name": "United States of America",
+                "is_region": false
+            },
+            {
+                "short_code": "UZ",
+                "code": "UZB",
+                "name": "Uzbekistan",
+                "official_name": "Republic of Uzbekistan",
+                "is_region": false
+            },
+            {
+                "short_code": "VA",
+                "code": "VAT",
+                "name": "Holy See (Vatican City State)",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "VC",
+                "code": "VCT",
+                "name": "Saint Vincent and the Grenadines",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "VE",
+                "code": "VEN",
+                "name": "Venezuela",
+                "official_name": "Bolivarian Republic of Venezuela",
+                "is_region": false
+            },
+            {
+                "short_code": "VG",
+                "code": "VGB",
+                "name": "Virgin Islands, British",
+                "official_name": "British Virgin Islands",
+                "is_region": false
+            },
+            {
+                "short_code": "VI",
+                "code": "VIR",
+                "name": "Virgin Islands, U.S.",
+                "official_name": "Virgin Islands of the United States",
+                "is_region": false
+            },
+            {
+                "short_code": "VN",
+                "code": "VNM",
+                "name": "Vietnam",
+                "official_name": "Socialist Republic of Viet Nam",
+                "is_region": false
+            },
+            {
+                "short_code": "VU",
+                "code": "VUT",
+                "name": "Vanuatu",
+                "official_name": "Republic of Vanuatu",
+                "is_region": false
+            },
+            {
+                "short_code": "WF",
+                "code": "WLF",
+                "name": "Wallis and Futuna",
+                "official_name": null,
+                "is_region": false
+            },
+            {
+                "short_code": "WS",
+                "code": "WSM",
+                "name": "Samoa",
+                "official_name": "Independent State of Samoa",
+                "is_region": false
+            },
+            {
+                "short_code": "YE",
+                "code": "YEM",
+                "name": "Yemen",
+                "official_name": "Republic of Yemen",
+                "is_region": false
+            },
+            {
+                "short_code": "ZA",
+                "code": "ZAF",
+                "name": "South Africa",
+                "official_name": "Republic of South Africa",
+                "is_region": false
+            },
+            {
+                "short_code": "ZM",
+                "code": "ZMB",
+                "name": "Zambia",
+                "official_name": "Republic of Zambia",
+                "is_region": false
+            },
+            {
+                "short_code": "ZW",
+                "code": "ZWE",
+                "name": "Zimbabwe",
+                "official_name": "Republic of Zimbabwe",
+                "is_region": false
+            },
+            {
+                "short_code": "MN",
+                "code": "MNG",
+                "name": "Mongolia",
+                "official_name": "MNG",
+                "is_region": false
+            }
+        ],
+        "previous_page_key": null,
+        "next_page_key": null
+    },
+    "cache": {
+        "key": "api:rz:v5_cricket_country_list:None",
+        "expires": 1751198275.782456,
+        "etag": "ET:du13048323442095561513:0",
+        "max_age": 300
+    },
+    "schema": {
+        "major_version": "5.0",
+        "minor_version": "2"
+    },
+    "error": null,
+    "http_status_code": 200
+}

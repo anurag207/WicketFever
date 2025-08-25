@@ -1,0 +1,1912 @@
+{
+    "data": {
+        "players": {
+            "c__player__jacob_bethell__59c38": {
+                "key": "c__player__jacob_bethell__59c38",
+                "name": "Jacob Bethell",
+                "jersey_name": "Bethell",
+                "legal_name": "Jacob Bethell",
+                "gender": "male",
+                "nationality": {
+                    "short_code": "GB",
+                    "code": "GBR",
+                    "name": "United Kingdom",
+                    "official_name": "United Kingdom of Great Britain and Northern Ireland",
+                    "is_region": false
+                },
+                "date_of_birth": "2003-10-23",
+                "team_key": "eng",
+                "seasonal_role": "batsman"
+            },
+            "m_pots": {
+                "key": "m_pots",
+                "name": "Matthew Potts",
+                "jersey_name": "Matty Pots",
+                "legal_name": "Matthew James Potts",
+                "gender": "male",
+                "nationality": {
+                    "short_code": "GB",
+                    "code": "GBR",
+                    "name": "United Kingdom",
+                    "official_name": "United Kingdom of Great Britain and Northern Ireland",
+                    "is_region": false
+                },
+                "date_of_birth": "1998-10-29",
+                "team_key": "eng",
+                "seasonal_role": "bowler"
+            },
+            "a_rashid": {
+                "key": "a_rashid",
+                "name": "Adil Rashid",
+                "jersey_name": "Rashid",
+                "legal_name": "Adil Usman Rashid",
+                "gender": "male",
+                "nationality": {
+                    "short_code": "GB",
+                    "code": "GBR",
+                    "name": "United Kingdom",
+                    "official_name": "United Kingdom of Great Britain and Northern Ireland",
+                    "is_region": false
+                },
+                "date_of_birth": "1988-02-17",
+                "team_key": "eng",
+                "seasonal_role": "bowler"
+            },
+            "will_jacks": {
+                "key": "will_jacks",
+                "name": "Will Jacks",
+                "jersey_name": "Jacks",
+                "legal_name": "William George Jacks",
+                "gender": "male",
+                "nationality": {
+                    "short_code": "GB",
+                    "code": "GBR",
+                    "name": "United Kingdom",
+                    "official_name": "United Kingdom of Great Britain and Northern Ireland",
+                    "is_region": false
+                },
+                "date_of_birth": "1998-11-21",
+                "team_key": "eng",
+                "seasonal_role": "all_rounder"
+            },
+            "l_dawson": {
+                "key": "l_dawson",
+                "name": "Liam Dawson",
+                "jersey_name": "Dawson",
+                "legal_name": "Liam Andrew Dawson",
+                "gender": "male",
+                "nationality": {
+                    "short_code": "GB",
+                    "code": "GBR",
+                    "name": "United Kingdom",
+                    "official_name": "United Kingdom of Great Britain and Northern Ireland",
+                    "is_region": false
+                },
+                "date_of_birth": "1990-03-01",
+                "team_key": "eng",
+                "seasonal_role": "all_rounder"
+            },
+            "luke_wood": {
+                "key": "luke_wood",
+                "name": "Luke Wood",
+                "jersey_name": "Wood",
+                "legal_name": "Luke Wood",
+                "gender": "male",
+                "nationality": {
+                    "short_code": "GB",
+                    "code": "GBR",
+                    "name": "United Kingdom",
+                    "official_name": "United Kingdom of Great Britain and Northern Ireland",
+                    "is_region": false
+                },
+                "date_of_birth": "1995-08-02",
+                "team_key": "eng",
+                "seasonal_role": "bowler"
+            },
+            "j_buttler": {
+                "key": "j_buttler",
+                "name": "Jos Buttler",
+                "jersey_name": "Buttler",
+                "legal_name": "Joseph Charles Buttler",
+                "gender": "male",
+                "nationality": {
+                    "short_code": "GB",
+                    "code": "GBR",
+                    "name": "United Kingdom",
+                    "official_name": "United Kingdom of Great Britain and Northern Ireland",
+                    "is_region": false
+                },
+                "date_of_birth": "1990-09-08",
+                "team_key": "eng",
+                "seasonal_role": "keeper"
+            },
+            "e_lewis": {
+                "key": "e_lewis",
+                "name": "Evin Lewis",
+                "jersey_name": "Evin Lewis",
+                "legal_name": "Evin Lewis",
+                "gender": "male",
+                "nationality": {
+                    "short_code": "TT",
+                    "code": "TTO",
+                    "name": "Trinidad and Tobago",
+                    "official_name": "Republic of Trinidad and Tobago",
+                    "is_region": false
+                },
+                "date_of_birth": "1991-12-27",
+                "team_key": "wi",
+                "seasonal_role": "batsman"
+            },
+            "g_motie": {
+                "key": "g_motie",
+                "name": "Gudakesh Motie",
+                "jersey_name": "Motie",
+                "legal_name": "Gudakesh Motie Kanhai",
+                "gender": "male",
+                "nationality": {
+                    "short_code": "GY",
+                    "code": "GUY",
+                    "name": "Guyana",
+                    "official_name": "Republic of Guyana",
+                    "is_region": false
+                },
+                "date_of_birth": "1995-03-29",
+                "team_key": "wi",
+                "seasonal_role": "bowler"
+            },
+            "t_banton": {
+                "key": "t_banton",
+                "name": "Tom Banton",
+                "jersey_name": "Tom Banton",
+                "legal_name": "Tom Banton",
+                "gender": "male",
+                "nationality": {
+                    "short_code": "GB",
+                    "code": "GBR",
+                    "name": "United Kingdom",
+                    "official_name": "United Kingdom of Great Britain and Northern Ireland",
+                    "is_region": false
+                },
+                "date_of_birth": "1998-11-11",
+                "team_key": "eng",
+                "seasonal_role": "keeper"
+            },
+            "b_duckett": {
+                "key": "b_duckett",
+                "name": "Ben Duckett",
+                "jersey_name": "Duckett",
+                "legal_name": "Ben Matthew Duckett",
+                "gender": "male",
+                "nationality": {
+                    "short_code": "GB",
+                    "code": "GBR",
+                    "name": "United Kingdom",
+                    "official_name": "United Kingdom of Great Britain and Northern Ireland",
+                    "is_region": false
+                },
+                "date_of_birth": "1994-10-17",
+                "team_key": "eng",
+                "seasonal_role": "batsman"
+            },
+            "hy_brook": {
+                "key": "hy_brook",
+                "name": "Harry Brook",
+                "jersey_name": "Brook",
+                "legal_name": "Harry Cherrington Brook",
+                "gender": "male",
+                "nationality": {
+                    "short_code": "GB",
+                    "code": "GBR",
+                    "name": "United Kingdom",
+                    "official_name": "United Kingdom of Great Britain and Northern Ireland",
+                    "is_region": false
+                },
+                "date_of_birth": "1999-02-22",
+                "team_key": "eng",
+                "seasonal_role": "batsman"
+            },
+            "jami_smith": {
+                "key": "jami_smith",
+                "name": "Jamie Smith",
+                "jersey_name": "Smith",
+                "legal_name": "Jamie Luke Smith",
+                "gender": "male",
+                "nationality": {
+                    "short_code": "GB",
+                    "code": "GBR",
+                    "name": "United Kingdom",
+                    "official_name": "United Kingdom of Great Britain and Northern Ireland",
+                    "is_region": false
+                },
+                "date_of_birth": "2000-07-12",
+                "team_key": "eng",
+                "seasonal_role": "keeper"
+            },
+            "b_carse": {
+                "key": "b_carse",
+                "name": "Brydon Carse",
+                "jersey_name": "Carse",
+                "legal_name": "Brydon Alexander Carse",
+                "gender": "male",
+                "nationality": {
+                    "short_code": "ZA",
+                    "code": "ZAF",
+                    "name": "South Africa",
+                    "official_name": "Republic of South Africa",
+                    "is_region": false
+                },
+                "date_of_birth": "1995-07-31",
+                "team_key": "eng",
+                "seasonal_role": "bowler"
+            },
+            "ro_chase": {
+                "key": "ro_chase",
+                "name": "Roston Chase",
+                "jersey_name": "Chase",
+                "legal_name": "Roston Lamar Chase",
+                "gender": "male",
+                "nationality": {
+                    "short_code": "TT",
+                    "code": "TTO",
+                    "name": "Trinidad and Tobago",
+                    "official_name": "Republic of Trinidad and Tobago",
+                    "is_region": false
+                },
+                "date_of_birth": "1992-03-22",
+                "team_key": "wi",
+                "seasonal_role": "all_rounder"
+            },
+            "s_hope": {
+                "key": "s_hope",
+                "name": "Shai Hope",
+                "jersey_name": "Shai Hope",
+                "legal_name": "Shai Diego Hope",
+                "gender": "male",
+                "nationality": {
+                    "short_code": "BB",
+                    "code": "BRB",
+                    "name": "Barbados",
+                    "official_name": null,
+                    "is_region": false
+                },
+                "date_of_birth": "1993-11-10",
+                "team_key": "wi",
+                "seasonal_role": "keeper"
+            },
+            "al_joseph": {
+                "key": "al_joseph",
+                "name": "Alzarri Joseph",
+                "jersey_name": "Alzarri Joseph",
+                "legal_name": "Alzarri Shaheim Joseph",
+                "gender": "male",
+                "nationality": {
+                    "short_code": "AG",
+                    "code": "ATG",
+                    "name": "Antigua and Barbuda",
+                    "official_name": null,
+                    "is_region": false
+                },
+                "date_of_birth": "1996-11-20",
+                "team_key": "wi",
+                "seasonal_role": "bowler"
+            },
+            "r_shepherd": {
+                "key": "r_shepherd",
+                "name": "Romario Shepherd",
+                "jersey_name": "Shepherd",
+                "legal_name": "Romario Shepherd",
+                "gender": "male",
+                "nationality": {
+                    "short_code": "GY",
+                    "code": "GUY",
+                    "name": "Guyana",
+                    "official_name": "Republic of Guyana",
+                    "is_region": false
+                },
+                "date_of_birth": "1994-11-26",
+                "team_key": "wi",
+                "seasonal_role": "all_rounder"
+            },
+            "s_rutherford": {
+                "key": "s_rutherford",
+                "name": "Sherfane Rutherford",
+                "jersey_name": "Rutherford",
+                "legal_name": "Sherfane Eviston Rutherford",
+                "gender": "male",
+                "nationality": {
+                    "short_code": "GY",
+                    "code": "GUY",
+                    "name": "Guyana",
+                    "official_name": "Republic of Guyana",
+                    "is_region": false
+                },
+                "date_of_birth": "1998-08-15",
+                "team_key": "wi",
+                "seasonal_role": "batsman"
+            },
+            "a_russell": {
+                "key": "a_russell",
+                "name": "Andre Russell",
+                "jersey_name": "Russell",
+                "legal_name": "Andre Dwayne Russell",
+                "gender": "male",
+                "nationality": {
+                    "short_code": "JM",
+                    "code": "JAM",
+                    "name": "Jamaica",
+                    "official_name": null,
+                    "is_region": false
+                },
+                "date_of_birth": "1988-04-29",
+                "team_key": "wi",
+                "seasonal_role": "all_rounder"
+            },
+            "ro_powell": {
+                "key": "ro_powell",
+                "name": "Rovman Powell",
+                "jersey_name": "Powell",
+                "legal_name": "Rovman Powell",
+                "gender": "male",
+                "nationality": {
+                    "short_code": "JM",
+                    "code": "JAM",
+                    "name": "Jamaica",
+                    "official_name": null,
+                    "is_region": false
+                },
+                "date_of_birth": "1993-07-23",
+                "team_key": "wi",
+                "seasonal_role": "batsman"
+            },
+            "j_holder": {
+                "key": "j_holder",
+                "name": "Jason Holder",
+                "jersey_name": "Holder",
+                "legal_name": "Jason Omar Holder",
+                "gender": "male",
+                "nationality": {
+                    "short_code": "BB",
+                    "code": "BRB",
+                    "name": "Barbados",
+                    "official_name": null,
+                    "is_region": false
+                },
+                "date_of_birth": "1991-11-05",
+                "team_key": "wi",
+                "seasonal_role": "all_rounder"
+            },
+            "s_hetmyer": {
+                "key": "s_hetmyer",
+                "name": "Shimron Hetmyer",
+                "jersey_name": "Shimron Hetmyer",
+                "legal_name": "Shimron Odilon Hetmyer",
+                "gender": "male",
+                "nationality": {
+                    "short_code": "GY",
+                    "code": "GUY",
+                    "name": "Guyana",
+                    "official_name": "Republic of Guyana",
+                    "is_region": false
+                },
+                "date_of_birth": "1996-12-26",
+                "team_key": "wi",
+                "seasonal_role": "batsman"
+            },
+            "a_hosein": {
+                "key": "a_hosein",
+                "name": "Akeal Hosein",
+                "jersey_name": "Hosein",
+                "legal_name": "Akeal Jerome Hosein",
+                "gender": "male",
+                "nationality": {
+                    "short_code": "TT",
+                    "code": "TTO",
+                    "name": "Trinidad and Tobago",
+                    "official_name": "Republic of Trinidad and Tobago",
+                    "is_region": false
+                },
+                "date_of_birth": "1993-04-25",
+                "team_key": "wi",
+                "seasonal_role": "bowler"
+            },
+            "j_charles": {
+                "key": "j_charles",
+                "name": "Johnson Charles",
+                "jersey_name": "Charles",
+                "legal_name": "Johnson Charles",
+                "gender": "male",
+                "nationality": {
+                    "short_code": "LC",
+                    "code": "LCA",
+                    "name": "Saint Lucia",
+                    "official_name": null,
+                    "is_region": false
+                },
+                "date_of_birth": "1989-01-14",
+                "team_key": "wi",
+                "seasonal_role": "batsman"
+            }
+        },
+        "teams": {
+            "eng": {
+                "key": "eng",
+                "code": "ENG",
+                "name": "England",
+                "alternate_name": "England",
+                "alternate_code": "ENG",
+                "gender_name": "England Men"
+            },
+            "wi": {
+                "key": "wi",
+                "code": "WI",
+                "name": "West Indies",
+                "alternate_name": "West Indies",
+                "alternate_code": "WI",
+                "gender_name": "West Indies Men"
+            }
+        },
+        "data_review": {
+            "last_updated": 1751344494.163934,
+            "notes": ""
+        },
+        "player": {
+            "batting": {
+                "most_runs": [
+                    {
+                        "rank": 1,
+                        "player_key": "j_buttler",
+                        "team_key": "eng",
+                        "value": 165
+                    },
+                    {
+                        "rank": 2,
+                        "player_key": "ro_powell",
+                        "team_key": "wi",
+                        "value": 126
+                    },
+                    {
+                        "rank": 3,
+                        "player_key": "b_duckett",
+                        "team_key": "eng",
+                        "value": 115
+                    },
+                    {
+                        "rank": 4,
+                        "player_key": "jami_smith",
+                        "team_key": "eng",
+                        "value": 102
+                    },
+                    {
+                        "rank": 5,
+                        "player_key": "s_hope",
+                        "team_key": "wi",
+                        "value": 97
+                    },
+                    {
+                        "rank": 6,
+                        "player_key": "c__player__jacob_bethell__59c38",
+                        "team_key": "eng",
+                        "value": 85
+                    },
+                    {
+                        "rank": 7,
+                        "player_key": "hy_brook",
+                        "team_key": "eng",
+                        "value": 75
+                    },
+                    {
+                        "rank": 8,
+                        "player_key": "j_charles",
+                        "team_key": "wi",
+                        "value": 74
+                    },
+                    {
+                        "rank": 9,
+                        "player_key": "j_holder",
+                        "team_key": "wi",
+                        "value": 70
+                    },
+                    {
+                        "rank": 10,
+                        "player_key": "e_lewis",
+                        "team_key": "wi",
+                        "value": 48
+                    }
+                ],
+                "most_fours": [
+                    {
+                        "rank": 1,
+                        "player_key": "ro_powell",
+                        "team_key": "wi",
+                        "value": 14
+                    },
+                    {
+                        "rank": 2,
+                        "player_key": "b_duckett",
+                        "team_key": "eng",
+                        "value": 14
+                    },
+                    {
+                        "rank": 3,
+                        "player_key": "j_buttler",
+                        "team_key": "eng",
+                        "value": 11
+                    },
+                    {
+                        "rank": 4,
+                        "player_key": "jami_smith",
+                        "team_key": "eng",
+                        "value": 8
+                    },
+                    {
+                        "rank": 5,
+                        "player_key": "j_charles",
+                        "team_key": "wi",
+                        "value": 7
+                    },
+                    {
+                        "rank": 6,
+                        "player_key": "s_hope",
+                        "team_key": "wi",
+                        "value": 5
+                    },
+                    {
+                        "rank": 7,
+                        "player_key": "hy_brook",
+                        "team_key": "eng",
+                        "value": 5
+                    },
+                    {
+                        "rank": 8,
+                        "player_key": "j_holder",
+                        "team_key": "wi",
+                        "value": 4
+                    },
+                    {
+                        "rank": 9,
+                        "player_key": "e_lewis",
+                        "team_key": "wi",
+                        "value": 3
+                    },
+                    {
+                        "rank": 10,
+                        "player_key": "t_banton",
+                        "team_key": "eng",
+                        "value": 3
+                    }
+                ],
+                "most_fours_by_innings": [
+                    {
+                        "rank": 1,
+                        "player_key": "b_duckett",
+                        "team_key": "eng",
+                        "value": 10,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--WT1880303777739874311"
+                    },
+                    {
+                        "rank": 2,
+                        "player_key": "ro_powell",
+                        "team_key": "wi",
+                        "value": 9,
+                        "team_against": "eng",
+                        "match_key": "a-rz--cricket--WT1880303777739874311"
+                    },
+                    {
+                        "rank": 3,
+                        "player_key": "j_buttler",
+                        "team_key": "eng",
+                        "value": 6,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--c41880303775789522949"
+                    },
+                    {
+                        "rank": 4,
+                        "player_key": "b_duckett",
+                        "team_key": "eng",
+                        "value": 4,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--zL1880303776703881222"
+                    },
+                    {
+                        "rank": 5,
+                        "player_key": "jami_smith",
+                        "team_key": "eng",
+                        "value": 4,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--c41880303775789522949"
+                    },
+                    {
+                        "rank": 6,
+                        "player_key": "jami_smith",
+                        "team_key": "eng",
+                        "value": 4,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--WT1880303777739874311"
+                    },
+                    {
+                        "rank": 7,
+                        "player_key": "j_buttler",
+                        "team_key": "eng",
+                        "value": 4,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--zL1880303776703881222"
+                    },
+                    {
+                        "rank": 8,
+                        "player_key": "t_banton",
+                        "team_key": "eng",
+                        "value": 3,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--zL1880303776703881222"
+                    },
+                    {
+                        "rank": 9,
+                        "player_key": "ro_powell",
+                        "team_key": "wi",
+                        "value": 3,
+                        "team_against": "eng",
+                        "match_key": "a-rz--cricket--zL1880303776703881222"
+                    },
+                    {
+                        "rank": 10,
+                        "player_key": "e_lewis",
+                        "team_key": "wi",
+                        "value": 3,
+                        "team_against": "eng",
+                        "match_key": "a-rz--cricket--c41880303775789522949"
+                    }
+                ],
+                "most_sixes": [
+                    {
+                        "rank": 1,
+                        "player_key": "j_buttler",
+                        "team_key": "eng",
+                        "value": 8
+                    },
+                    {
+                        "rank": 2,
+                        "player_key": "c__player__jacob_bethell__59c38",
+                        "team_key": "eng",
+                        "value": 8
+                    },
+                    {
+                        "rank": 3,
+                        "player_key": "jami_smith",
+                        "team_key": "eng",
+                        "value": 7
+                    },
+                    {
+                        "rank": 4,
+                        "player_key": "s_hope",
+                        "team_key": "wi",
+                        "value": 7
+                    },
+                    {
+                        "rank": 5,
+                        "player_key": "ro_powell",
+                        "team_key": "wi",
+                        "value": 6
+                    },
+                    {
+                        "rank": 6,
+                        "player_key": "j_holder",
+                        "team_key": "wi",
+                        "value": 6
+                    },
+                    {
+                        "rank": 7,
+                        "player_key": "hy_brook",
+                        "team_key": "eng",
+                        "value": 4
+                    },
+                    {
+                        "rank": 8,
+                        "player_key": "j_charles",
+                        "team_key": "wi",
+                        "value": 4
+                    },
+                    {
+                        "rank": 9,
+                        "player_key": "e_lewis",
+                        "team_key": "wi",
+                        "value": 4
+                    },
+                    {
+                        "rank": 10,
+                        "player_key": "b_duckett",
+                        "team_key": "eng",
+                        "value": 3
+                    }
+                ],
+                "most_sixes_by_innings": [
+                    {
+                        "rank": 1,
+                        "player_key": "jami_smith",
+                        "team_key": "eng",
+                        "value": 5,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--WT1880303777739874311"
+                    },
+                    {
+                        "rank": 2,
+                        "player_key": "c__player__jacob_bethell__59c38",
+                        "team_key": "eng",
+                        "value": 4,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--WT1880303777739874311"
+                    },
+                    {
+                        "rank": 3,
+                        "player_key": "s_hope",
+                        "team_key": "wi",
+                        "value": 4,
+                        "team_against": "eng",
+                        "match_key": "a-rz--cricket--zL1880303776703881222"
+                    },
+                    {
+                        "rank": 4,
+                        "player_key": "ro_powell",
+                        "team_key": "wi",
+                        "value": 4,
+                        "team_against": "eng",
+                        "match_key": "a-rz--cricket--WT1880303777739874311"
+                    },
+                    {
+                        "rank": 5,
+                        "player_key": "j_buttler",
+                        "team_key": "eng",
+                        "value": 4,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--c41880303775789522949"
+                    },
+                    {
+                        "rank": 6,
+                        "player_key": "s_hetmyer",
+                        "team_key": "wi",
+                        "value": 3,
+                        "team_against": "eng",
+                        "match_key": "a-rz--cricket--WT1880303777739874311"
+                    },
+                    {
+                        "rank": 7,
+                        "player_key": "j_holder",
+                        "team_key": "wi",
+                        "value": 3,
+                        "team_against": "eng",
+                        "match_key": "a-rz--cricket--zL1880303776703881222"
+                    },
+                    {
+                        "rank": 8,
+                        "player_key": "c__player__jacob_bethell__59c38",
+                        "team_key": "eng",
+                        "value": 3,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--zL1880303776703881222"
+                    },
+                    {
+                        "rank": 9,
+                        "player_key": "j_holder",
+                        "team_key": "wi",
+                        "value": 3,
+                        "team_against": "eng",
+                        "match_key": "a-rz--cricket--WT1880303777739874311"
+                    },
+                    {
+                        "rank": 10,
+                        "player_key": "e_lewis",
+                        "team_key": "wi",
+                        "value": 3,
+                        "team_against": "eng",
+                        "match_key": "a-rz--cricket--c41880303775789522949"
+                    }
+                ],
+                "most_fifties": [
+                    {
+                        "rank": 1,
+                        "player_key": "j_buttler",
+                        "team_key": "eng",
+                        "value": 1
+                    },
+                    {
+                        "rank": 2,
+                        "player_key": "ro_powell",
+                        "team_key": "wi",
+                        "value": 1
+                    },
+                    {
+                        "rank": 3,
+                        "player_key": "b_duckett",
+                        "team_key": "eng",
+                        "value": 1
+                    },
+                    {
+                        "rank": 4,
+                        "player_key": "jami_smith",
+                        "team_key": "eng",
+                        "value": 1
+                    }
+                ],
+                "most_thirties": [
+                    {
+                        "rank": 1,
+                        "player_key": "s_hope",
+                        "team_key": "wi",
+                        "value": 2
+                    },
+                    {
+                        "rank": 2,
+                        "player_key": "hy_brook",
+                        "team_key": "eng",
+                        "value": 2
+                    },
+                    {
+                        "rank": 3,
+                        "player_key": "j_buttler",
+                        "team_key": "eng",
+                        "value": 1
+                    },
+                    {
+                        "rank": 4,
+                        "player_key": "ro_powell",
+                        "team_key": "wi",
+                        "value": 1
+                    },
+                    {
+                        "rank": 5,
+                        "player_key": "b_duckett",
+                        "team_key": "eng",
+                        "value": 1
+                    },
+                    {
+                        "rank": 6,
+                        "player_key": "jami_smith",
+                        "team_key": "eng",
+                        "value": 1
+                    },
+                    {
+                        "rank": 7,
+                        "player_key": "c__player__jacob_bethell__59c38",
+                        "team_key": "eng",
+                        "value": 1
+                    },
+                    {
+                        "rank": 8,
+                        "player_key": "j_charles",
+                        "team_key": "wi",
+                        "value": 1
+                    },
+                    {
+                        "rank": 9,
+                        "player_key": "e_lewis",
+                        "team_key": "wi",
+                        "value": 1
+                    },
+                    {
+                        "rank": 10,
+                        "player_key": "t_banton",
+                        "team_key": "eng",
+                        "value": 1
+                    }
+                ],
+                "most_hundreds": [],
+                "best_batting": [
+                    {
+                        "rank": 1,
+                        "player_key": "j_buttler",
+                        "team_key": "eng",
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--c41880303775789522949",
+                        "runs": 96,
+                        "balls": 59,
+                        "fours": 6,
+                        "sixes": 4,
+                        "strike_rate": 162.71
+                    },
+                    {
+                        "rank": 2,
+                        "player_key": "b_duckett",
+                        "team_key": "eng",
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--WT1880303777739874311",
+                        "runs": 84,
+                        "balls": 46,
+                        "fours": 10,
+                        "sixes": 2,
+                        "strike_rate": 182.61
+                    },
+                    {
+                        "rank": 3,
+                        "player_key": "ro_powell",
+                        "team_key": "wi",
+                        "team_against": "eng",
+                        "match_key": "a-rz--cricket--WT1880303777739874311",
+                        "runs": 79,
+                        "balls": 45,
+                        "fours": 9,
+                        "sixes": 4,
+                        "strike_rate": 175.56
+                    },
+                    {
+                        "rank": 4,
+                        "player_key": "jami_smith",
+                        "team_key": "eng",
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--WT1880303777739874311",
+                        "runs": 60,
+                        "balls": 26,
+                        "fours": 4,
+                        "sixes": 5,
+                        "strike_rate": 230.77
+                    },
+                    {
+                        "rank": 5,
+                        "player_key": "s_hope",
+                        "team_key": "wi",
+                        "team_against": "eng",
+                        "match_key": "a-rz--cricket--zL1880303776703881222",
+                        "runs": 49,
+                        "balls": 38,
+                        "fours": 2,
+                        "sixes": 4,
+                        "strike_rate": 128.95
+                    },
+                    {
+                        "rank": 6,
+                        "player_key": "j_buttler",
+                        "team_key": "eng",
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--zL1880303776703881222",
+                        "runs": 47,
+                        "balls": 36,
+                        "fours": 4,
+                        "sixes": 2,
+                        "strike_rate": 130.56
+                    },
+                    {
+                        "rank": 7,
+                        "player_key": "j_charles",
+                        "team_key": "wi",
+                        "team_against": "eng",
+                        "match_key": "a-rz--cricket--zL1880303776703881222",
+                        "runs": 47,
+                        "balls": 39,
+                        "fours": 3,
+                        "sixes": 3,
+                        "strike_rate": 120.51
+                    },
+                    {
+                        "rank": 8,
+                        "player_key": "s_hope",
+                        "team_key": "wi",
+                        "team_against": "eng",
+                        "match_key": "a-rz--cricket--WT1880303777739874311",
+                        "runs": 45,
+                        "balls": 27,
+                        "fours": 3,
+                        "sixes": 3,
+                        "strike_rate": 166.67
+                    },
+                    {
+                        "rank": 9,
+                        "player_key": "e_lewis",
+                        "team_key": "wi",
+                        "team_against": "eng",
+                        "match_key": "a-rz--cricket--c41880303775789522949",
+                        "runs": 39,
+                        "balls": 23,
+                        "fours": 3,
+                        "sixes": 3,
+                        "strike_rate": 169.57
+                    },
+                    {
+                        "rank": 10,
+                        "player_key": "jami_smith",
+                        "team_key": "eng",
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--c41880303775789522949",
+                        "runs": 38,
+                        "balls": 20,
+                        "fours": 4,
+                        "sixes": 2,
+                        "strike_rate": 190.0
+                    }
+                ],
+                "best_strike_rate": [
+                    {
+                        "rank": 1,
+                        "player_key": "ro_chase",
+                        "team_key": "wi",
+                        "value": 600.0
+                    },
+                    {
+                        "rank": 2,
+                        "player_key": "s_hetmyer",
+                        "team_key": "wi",
+                        "value": 325.0
+                    },
+                    {
+                        "rank": 3,
+                        "player_key": "j_holder",
+                        "team_key": "wi",
+                        "value": 322.22
+                    },
+                    {
+                        "rank": 4,
+                        "player_key": "t_banton",
+                        "team_key": "eng",
+                        "value": 272.73
+                    },
+                    {
+                        "rank": 5,
+                        "player_key": "c__player__jacob_bethell__59c38",
+                        "team_key": "eng",
+                        "value": 260.0
+                    },
+                    {
+                        "rank": 6,
+                        "player_key": "jami_smith",
+                        "team_key": "eng",
+                        "value": 230.77
+                    },
+                    {
+                        "rank": 7,
+                        "player_key": "ro_powell",
+                        "team_key": "wi",
+                        "value": 226.67
+                    },
+                    {
+                        "rank": 8,
+                        "player_key": "c__player__jacob_bethell__59c38",
+                        "team_key": "eng",
+                        "value": 225.0
+                    },
+                    {
+                        "rank": 9,
+                        "player_key": "j_buttler",
+                        "team_key": "eng",
+                        "value": 220.0
+                    },
+                    {
+                        "rank": 10,
+                        "player_key": "j_holder",
+                        "team_key": "wi",
+                        "value": 208.33
+                    }
+                ],
+                "best_tournament_strike_rate": [
+                    {
+                        "rank": 1,
+                        "player_key": "s_hetmyer",
+                        "team_key": "wi",
+                        "value": 325
+                    },
+                    {
+                        "rank": 2,
+                        "player_key": "t_banton",
+                        "team_key": "eng",
+                        "value": 220
+                    },
+                    {
+                        "rank": 3,
+                        "player_key": "j_holder",
+                        "team_key": "wi",
+                        "value": 205
+                    },
+                    {
+                        "rank": 4,
+                        "player_key": "jami_smith",
+                        "team_key": "eng",
+                        "value": 200
+                    },
+                    {
+                        "rank": 5,
+                        "player_key": "ro_powell",
+                        "team_key": "wi",
+                        "value": 182
+                    },
+                    {
+                        "rank": 6,
+                        "player_key": "c__player__jacob_bethell__59c38",
+                        "team_key": "eng",
+                        "value": 173
+                    },
+                    {
+                        "rank": 7,
+                        "player_key": "b_duckett",
+                        "team_key": "eng",
+                        "value": 169
+                    },
+                    {
+                        "rank": 8,
+                        "player_key": "e_lewis",
+                        "team_key": "wi",
+                        "value": 160
+                    },
+                    {
+                        "rank": 9,
+                        "player_key": "hy_brook",
+                        "team_key": "eng",
+                        "value": 159
+                    },
+                    {
+                        "rank": 10,
+                        "player_key": "j_buttler",
+                        "team_key": "eng",
+                        "value": 157
+                    }
+                ]
+            },
+            "bowling": {
+                "most_wickets": [
+                    {
+                        "rank": 1,
+                        "player_key": "luke_wood",
+                        "team_key": "eng",
+                        "value": 5
+                    },
+                    {
+                        "rank": 2,
+                        "player_key": "l_dawson",
+                        "team_key": "eng",
+                        "value": 5
+                    },
+                    {
+                        "rank": 3,
+                        "player_key": "c__player__jacob_bethell__59c38",
+                        "team_key": "eng",
+                        "value": 4
+                    },
+                    {
+                        "rank": 4,
+                        "player_key": "a_rashid",
+                        "team_key": "eng",
+                        "value": 4
+                    },
+                    {
+                        "rank": 5,
+                        "player_key": "r_shepherd",
+                        "team_key": "wi",
+                        "value": 3
+                    },
+                    {
+                        "rank": 6,
+                        "player_key": "al_joseph",
+                        "team_key": "wi",
+                        "value": 3
+                    },
+                    {
+                        "rank": 7,
+                        "player_key": "ro_chase",
+                        "team_key": "wi",
+                        "value": 2
+                    },
+                    {
+                        "rank": 8,
+                        "player_key": "m_pots",
+                        "team_key": "eng",
+                        "value": 2
+                    },
+                    {
+                        "rank": 9,
+                        "player_key": "a_hosein",
+                        "team_key": "wi",
+                        "value": 2
+                    },
+                    {
+                        "rank": 10,
+                        "player_key": "b_carse",
+                        "team_key": "eng",
+                        "value": 2
+                    }
+                ],
+                "most_runs": [
+                    {
+                        "rank": 1,
+                        "player_key": "al_joseph",
+                        "team_key": "wi",
+                        "value": 156
+                    },
+                    {
+                        "rank": 2,
+                        "player_key": "b_carse",
+                        "team_key": "eng",
+                        "value": 134
+                    },
+                    {
+                        "rank": 3,
+                        "player_key": "r_shepherd",
+                        "team_key": "wi",
+                        "value": 114
+                    },
+                    {
+                        "rank": 4,
+                        "player_key": "j_holder",
+                        "team_key": "wi",
+                        "value": 111
+                    },
+                    {
+                        "rank": 4,
+                        "player_key": "a_rashid",
+                        "team_key": "eng",
+                        "value": 111
+                    },
+                    {
+                        "rank": 6,
+                        "player_key": "l_dawson",
+                        "team_key": "eng",
+                        "value": 97
+                    },
+                    {
+                        "rank": 7,
+                        "player_key": "g_motie",
+                        "team_key": "wi",
+                        "value": 93
+                    },
+                    {
+                        "rank": 8,
+                        "player_key": "c__player__jacob_bethell__59c38",
+                        "team_key": "eng",
+                        "value": 83
+                    },
+                    {
+                        "rank": 9,
+                        "player_key": "a_hosein",
+                        "team_key": "wi",
+                        "value": 75
+                    },
+                    {
+                        "rank": 10,
+                        "player_key": "luke_wood",
+                        "team_key": "eng",
+                        "value": 56
+                    }
+                ],
+                "most_maidens": [],
+                "most_dot_balls": [
+                    {
+                        "rank": 1,
+                        "player_key": "l_dawson",
+                        "team_key": "eng",
+                        "value": 32
+                    },
+                    {
+                        "rank": 2,
+                        "player_key": "b_carse",
+                        "team_key": "eng",
+                        "value": 30
+                    },
+                    {
+                        "rank": 3,
+                        "player_key": "a_rashid",
+                        "team_key": "eng",
+                        "value": 26
+                    },
+                    {
+                        "rank": 4,
+                        "player_key": "luke_wood",
+                        "team_key": "eng",
+                        "value": 24
+                    },
+                    {
+                        "rank": 5,
+                        "player_key": "j_holder",
+                        "team_key": "wi",
+                        "value": 21
+                    },
+                    {
+                        "rank": 6,
+                        "player_key": "al_joseph",
+                        "team_key": "wi",
+                        "value": 20
+                    },
+                    {
+                        "rank": 7,
+                        "player_key": "c__player__jacob_bethell__59c38",
+                        "team_key": "eng",
+                        "value": 14
+                    },
+                    {
+                        "rank": 8,
+                        "player_key": "a_hosein",
+                        "team_key": "wi",
+                        "value": 13
+                    },
+                    {
+                        "rank": 9,
+                        "player_key": "g_motie",
+                        "team_key": "wi",
+                        "value": 13
+                    },
+                    {
+                        "rank": 10,
+                        "player_key": "r_shepherd",
+                        "team_key": "wi",
+                        "value": 12
+                    }
+                ],
+                "most_dot_balls_by_innings": [
+                    {
+                        "rank": 1,
+                        "player_key": "l_dawson",
+                        "team_key": "eng",
+                        "value": 14,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--c41880303775789522949"
+                    },
+                    {
+                        "rank": 2,
+                        "player_key": "a_rashid",
+                        "team_key": "eng",
+                        "value": 13,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--WT1880303777739874311"
+                    },
+                    {
+                        "rank": 2,
+                        "player_key": "luke_wood",
+                        "team_key": "eng",
+                        "value": 13,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--zL1880303776703881222"
+                    },
+                    {
+                        "rank": 4,
+                        "player_key": "b_carse",
+                        "team_key": "eng",
+                        "value": 12,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--c41880303775789522949"
+                    },
+                    {
+                        "rank": 5,
+                        "player_key": "luke_wood",
+                        "team_key": "eng",
+                        "value": 11,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--WT1880303777739874311"
+                    },
+                    {
+                        "rank": 6,
+                        "player_key": "b_carse",
+                        "team_key": "eng",
+                        "value": 11,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--zL1880303776703881222"
+                    },
+                    {
+                        "rank": 6,
+                        "player_key": "a_rashid",
+                        "team_key": "eng",
+                        "value": 11,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--c41880303775789522949"
+                    },
+                    {
+                        "rank": 8,
+                        "player_key": "l_dawson",
+                        "team_key": "eng",
+                        "value": 10,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--WT1880303777739874311"
+                    },
+                    {
+                        "rank": 9,
+                        "player_key": "j_holder",
+                        "team_key": "wi",
+                        "value": 9,
+                        "team_against": "eng",
+                        "match_key": "a-rz--cricket--zL1880303776703881222"
+                    },
+                    {
+                        "rank": 10,
+                        "player_key": "r_shepherd",
+                        "team_key": "wi",
+                        "value": 8,
+                        "team_against": "eng",
+                        "match_key": "a-rz--cricket--c41880303775789522949"
+                    }
+                ],
+                "best_economy": [
+                    {
+                        "rank": 1,
+                        "player_key": "luke_wood",
+                        "team_key": "eng",
+                        "value": 7.0
+                    },
+                    {
+                        "rank": 2,
+                        "player_key": "l_dawson",
+                        "team_key": "eng",
+                        "value": 8.08
+                    },
+                    {
+                        "rank": 3,
+                        "player_key": "g_motie",
+                        "team_key": "wi",
+                        "value": 8.45
+                    },
+                    {
+                        "rank": 4,
+                        "player_key": "will_jacks",
+                        "team_key": "eng",
+                        "value": 9.0
+                    },
+                    {
+                        "rank": 5,
+                        "player_key": "a_rashid",
+                        "team_key": "eng",
+                        "value": 9.25
+                    },
+                    {
+                        "rank": 6,
+                        "player_key": "a_hosein",
+                        "team_key": "wi",
+                        "value": 9.38
+                    },
+                    {
+                        "rank": 7,
+                        "player_key": "j_holder",
+                        "team_key": "wi",
+                        "value": 9.65
+                    },
+                    {
+                        "rank": 8,
+                        "player_key": "s_rutherford",
+                        "team_key": "wi",
+                        "value": 10.0
+                    },
+                    {
+                        "rank": 9,
+                        "player_key": "c__player__jacob_bethell__59c38",
+                        "team_key": "eng",
+                        "value": 10.38
+                    },
+                    {
+                        "rank": 10,
+                        "player_key": "b_carse",
+                        "team_key": "eng",
+                        "value": 11.17
+                    }
+                ],
+                "best_economy_by_innings": [
+                    {
+                        "rank": 1,
+                        "player_key": "will_jacks",
+                        "team_key": "eng",
+                        "value": 2.0,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--zL1880303776703881222"
+                    },
+                    {
+                        "rank": 2,
+                        "player_key": "l_dawson",
+                        "team_key": "eng",
+                        "value": 5.0,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--c41880303775789522949"
+                    },
+                    {
+                        "rank": 3,
+                        "player_key": "g_motie",
+                        "team_key": "wi",
+                        "value": 5.25,
+                        "team_against": "eng",
+                        "match_key": "a-rz--cricket--c41880303775789522949"
+                    },
+                    {
+                        "rank": 4,
+                        "player_key": "a_rashid",
+                        "team_key": "eng",
+                        "value": 5.5,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--c41880303775789522949"
+                    },
+                    {
+                        "rank": 5,
+                        "player_key": "luke_wood",
+                        "team_key": "eng",
+                        "value": 6.25,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--zL1880303776703881222"
+                    },
+                    {
+                        "rank": 6,
+                        "player_key": "b_carse",
+                        "team_key": "eng",
+                        "value": 7.25,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--c41880303775789522949"
+                    },
+                    {
+                        "rank": 7,
+                        "player_key": "a_rashid",
+                        "team_key": "eng",
+                        "value": 7.5,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--WT1880303777739874311"
+                    },
+                    {
+                        "rank": 8,
+                        "player_key": "luke_wood",
+                        "team_key": "eng",
+                        "value": 7.75,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--WT1880303777739874311"
+                    },
+                    {
+                        "rank": 9,
+                        "player_key": "c__player__jacob_bethell__59c38",
+                        "team_key": "eng",
+                        "value": 8.0,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--zL1880303776703881222"
+                    },
+                    {
+                        "rank": 10,
+                        "player_key": "r_shepherd",
+                        "team_key": "wi",
+                        "value": 8.25,
+                        "team_against": "eng",
+                        "match_key": "a-rz--cricket--c41880303775789522949"
+                    }
+                ],
+                "best_bowling": [
+                    {
+                        "rank": 1,
+                        "player_key": "l_dawson",
+                        "team_key": "eng",
+                        "value": 4,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--c41880303775789522949",
+                        "balls": 24,
+                        "runs": 20,
+                        "economy": 5.0,
+                        "dot_balls": 14
+                    },
+                    {
+                        "rank": 2,
+                        "player_key": "luke_wood",
+                        "team_key": "eng",
+                        "value": 3,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--WT1880303777739874311",
+                        "balls": 24,
+                        "runs": 31,
+                        "economy": 7.75,
+                        "dot_balls": 11
+                    },
+                    {
+                        "rank": 3,
+                        "player_key": "luke_wood",
+                        "team_key": "eng",
+                        "value": 2,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--zL1880303776703881222",
+                        "balls": 24,
+                        "runs": 25,
+                        "economy": 6.25,
+                        "dot_balls": 13
+                    },
+                    {
+                        "rank": 4,
+                        "player_key": "c__player__jacob_bethell__59c38",
+                        "team_key": "eng",
+                        "value": 2,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--c41880303775789522949",
+                        "balls": 12,
+                        "runs": 27,
+                        "economy": 13.5,
+                        "dot_balls": 4
+                    },
+                    {
+                        "rank": 5,
+                        "player_key": "a_rashid",
+                        "team_key": "eng",
+                        "value": 2,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--WT1880303777739874311",
+                        "balls": 24,
+                        "runs": 30,
+                        "economy": 7.5,
+                        "dot_balls": 13
+                    },
+                    {
+                        "rank": 6,
+                        "player_key": "r_shepherd",
+                        "team_key": "wi",
+                        "value": 2,
+                        "team_against": "eng",
+                        "match_key": "a-rz--cricket--c41880303775789522949",
+                        "balls": 24,
+                        "runs": 33,
+                        "economy": 8.25,
+                        "dot_balls": 8
+                    },
+                    {
+                        "rank": 7,
+                        "player_key": "al_joseph",
+                        "team_key": "wi",
+                        "value": 2,
+                        "team_against": "eng",
+                        "match_key": "a-rz--cricket--zL1880303776703881222",
+                        "balls": 24,
+                        "runs": 45,
+                        "economy": 11.25,
+                        "dot_balls": 7
+                    },
+                    {
+                        "rank": 8,
+                        "player_key": "m_pots",
+                        "team_key": "eng",
+                        "value": 2,
+                        "team_against": "wi",
+                        "match_key": "a-rz--cricket--c41880303775789522949",
+                        "balls": 24,
+                        "runs": 48,
+                        "economy": 12.0,
+                        "dot_balls": 6
+                    },
+                    {
+                        "rank": 9,
+                        "player_key": "ro_chase",
+                        "team_key": "wi",
+                        "value": 1,
+                        "team_against": "eng",
+                        "match_key": "a-rz--cricket--zL1880303776703881222",
+                        "balls": 6,
+                        "runs": 15,
+                        "economy": 15.0,
+                        "dot_balls": 3
+                    },
+                    {
+                        "rank": 10,
+                        "player_key": "ro_chase",
+                        "team_key": "wi",
+                        "value": 1,
+                        "team_against": "eng",
+                        "match_key": "a-rz--cricket--c41880303775789522949",
+                        "balls": 12,
+                        "runs": 19,
+                        "economy": 9.5,
+                        "dot_balls": 2
+                    }
+                ],
+                "most_four_wickets": [
+                    {
+                        "rank": 1,
+                        "player_key": "l_dawson",
+                        "team_key": "eng",
+                        "value": 1
+                    }
+                ],
+                "most_five_wickets": []
+            },
+            "fielding": {
+                "most_catches": [
+                    {
+                        "rank": 1,
+                        "player_key": "b_duckett",
+                        "team_key": "eng",
+                        "value": 5
+                    },
+                    {
+                        "rank": 2,
+                        "player_key": "s_hetmyer",
+                        "team_key": "wi",
+                        "value": 2
+                    },
+                    {
+                        "rank": 3,
+                        "player_key": "luke_wood",
+                        "team_key": "eng",
+                        "value": 2
+                    },
+                    {
+                        "rank": 3,
+                        "player_key": "ro_chase",
+                        "team_key": "wi",
+                        "value": 2
+                    },
+                    {
+                        "rank": 5,
+                        "player_key": "ro_powell",
+                        "team_key": "wi",
+                        "value": 2
+                    },
+                    {
+                        "rank": 5,
+                        "player_key": "will_jacks",
+                        "team_key": "eng",
+                        "value": 2
+                    },
+                    {
+                        "rank": 5,
+                        "player_key": "b_carse",
+                        "team_key": "eng",
+                        "value": 2
+                    },
+                    {
+                        "rank": 5,
+                        "player_key": "t_banton",
+                        "team_key": "eng",
+                        "value": 2
+                    },
+                    {
+                        "rank": 9,
+                        "player_key": "hy_brook",
+                        "team_key": "eng",
+                        "value": 1
+                    },
+                    {
+                        "rank": 9,
+                        "player_key": "s_rutherford",
+                        "team_key": "wi",
+                        "value": 1
+                    }
+                ],
+                "most_stumpings": [
+                    {
+                        "rank": 1,
+                        "player_key": "j_buttler",
+                        "team_key": "eng",
+                        "value": 2
+                    }
+                ],
+                "most_runouts": [
+                    {
+                        "rank": 1,
+                        "player_key": "s_hope",
+                        "team_key": "wi",
+                        "value": 1
+                    },
+                    {
+                        "rank": 1,
+                        "player_key": "j_buttler",
+                        "team_key": "eng",
+                        "value": 1
+                    }
+                ],
+                "most_runout_assists": [
+                    {
+                        "rank": 1,
+                        "player_key": "a_russell",
+                        "team_key": "wi",
+                        "value": 1
+                    }
+                ],
+                "most_dismissals": [
+                    {
+                        "rank": 1,
+                        "player_key": "j_buttler",
+                        "team_key": "eng",
+                        "value": 2
+                    }
+                ]
+            }
+        },
+        "team": {
+            "largest_winning_margin": {
+                "by_runs": [
+                    {
+                        "value": 37,
+                        "rank": 1,
+                        "team_won": "eng",
+                        "team_lost": "wi",
+                        "match_key": "a-rz--cricket--WT1880303777739874311"
+                    },
+                    {
+                        "value": 21,
+                        "rank": 2,
+                        "team_won": "eng",
+                        "team_lost": "wi",
+                        "match_key": "a-rz--cricket--c41880303775789522949"
+                    }
+                ],
+                "by_wickets": [
+                    {
+                        "value": 4,
+                        "rank": 1,
+                        "team_won": "eng",
+                        "team_lost": "wi",
+                        "match_key": "a-rz--cricket--zL1880303776703881222"
+                    }
+                ]
+            },
+            "smallest_winning_margin": {
+                "by_runs": [
+                    {
+                        "value": 21,
+                        "rank": 1,
+                        "team_won": "eng",
+                        "team_lost": "wi",
+                        "match_key": "a-rz--cricket--c41880303775789522949"
+                    },
+                    {
+                        "value": 37,
+                        "rank": 2,
+                        "team_won": "eng",
+                        "team_lost": "wi",
+                        "match_key": "a-rz--cricket--WT1880303777739874311"
+                    }
+                ],
+                "by_wickets": [
+                    {
+                        "value": 4,
+                        "rank": 1,
+                        "team_won": "eng",
+                        "team_lost": "wi",
+                        "match_key": "a-rz--cricket--zL1880303776703881222"
+                    }
+                ]
+            },
+            "highest_team_totals": [
+                {
+                    "value": 21,
+                    "rank": 1,
+                    "team": "eng",
+                    "team_against": "wi",
+                    "match_key": "a-rz--cricket--WT1880303777739874311"
+                },
+                {
+                    "value": 16,
+                    "rank": 2,
+                    "team": "eng",
+                    "team_against": "wi",
+                    "match_key": "a-rz--cricket--c41880303775789522949"
+                },
+                {
+                    "value": 4,
+                    "rank": 3,
+                    "team": "wi",
+                    "team_against": "eng",
+                    "match_key": "a-rz--cricket--zL1880303776703881222"
+                }
+            ],
+            "lowest_team_totals": [
+                {
+                    "value": 4,
+                    "rank": 4,
+                    "team": "wi",
+                    "team_against": "eng",
+                    "match_key": "a-rz--cricket--zL1880303776703881222"
+                },
+                {
+                    "value": 16,
+                    "rank": 5,
+                    "team": "eng",
+                    "team_against": "wi",
+                    "match_key": "a-rz--cricket--c41880303775789522949"
+                },
+                {
+                    "value": 21,
+                    "rank": 6,
+                    "team": "eng",
+                    "team_against": "wi",
+                    "match_key": "a-rz--cricket--WT1880303777739874311"
+                }
+            ]
+        },
+        "counter": {
+            "runs": 1209,
+            "fours": 84,
+            "sixes": 67,
+            "wickets": 38,
+            "completed_matches": 3,
+            "pending_matches": 0
+        }
+    },
+    "cache": {
+        "key": "api:rz:v5_cricket_tournament-stats:a-rz--cricket--icc--tour-menglannx4qzo-mwindiesxv8aqd-T20--2025-6DdP",
+        "expires": 1751345394.164702,
+        "etag": "ET:G113048324059157371900:0",
+        "max_age": 300
+    },
+    "schema": {
+        "major_version": "5.0",
+        "minor_version": "2"
+    },
+    "error": null,
+    "http_status_code": 200
+}

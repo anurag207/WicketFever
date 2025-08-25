@@ -1,0 +1,152 @@
+{
+    "_id": {
+        "$oid": "684dc913bf5b3578b8ba916f"
+    },
+    "key": "a-rz--cricket--iW1890759913400082442",
+    "__v": {
+        "$numberInt": "0"
+    },
+    "completed_date_approximate": null,
+    "createdAt": {
+        "$date": {
+            "$numberLong": "1749928212606"
+        }
+    },
+    "estimated_end_date": {
+        "$numberInt": "1749929400"
+    },
+    "format": "t20",
+    "gender": "male",
+    "innings": [],
+    "last_updated": {
+        "$date": {
+            "$numberLong": "1750593473981"
+        }
+    },
+    "metric_group": "MG100",
+    "name": "Ireland vs West Indies",
+    "raw_data": {
+        "key": "a-rz--cricket--iW1890759913400082442",
+        "name": "Ireland vs West Indies",
+        "short_name": "IRE vs WI",
+        "sub_title": "2nd Match",
+        "status": "completed",
+        "start_at": {
+            "$numberInt": "1749909600"
+        },
+        "tournament": {
+            "key": "a-rz--cricket--icc--tour-mirelanapphny-mwindiesxv8aqd-T20--2025-rKeu",
+            "name": "West Indies tour of Ireland, 2025",
+            "short_name": "IRE vs WI ",
+            "alternate_name": "West Indies tour of Ireland, 2025",
+            "alternate_short_name": "IRE vs WI "
+        },
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "winner": null,
+        "teams": {
+            "a": {
+                "key": "ire",
+                "code": "IRE",
+                "name": "Ireland",
+                "alternate_name": "Ireland",
+                "alternate_code": "IRE",
+                "gender_name": "Ireland Men",
+                "country_code": "IRL"
+            },
+            "b": {
+                "key": "wi",
+                "code": "WI",
+                "name": "West Indies",
+                "alternate_name": "West Indies",
+                "alternate_code": "WI",
+                "gender_name": "West Indies Men",
+                "country_code": "WIN"
+            }
+        },
+        "venue": {
+            "key": "c__stadium__bready_cricket_club__2a164",
+            "name": "Bready Cricket Club",
+            "city": "Magheramason",
+            "country": {
+                "short_code": "GB",
+                "code": "GBR",
+                "name": "United Kingdom",
+                "official_name": "United Kingdom of Great Britain and Northern Ireland",
+                "is_region": false
+            },
+            "geolocation": "54.9382624,-7.3801316"
+        },
+        "expected_start_at": {
+            "$numberInt": "1749915000"
+        },
+        "association": {
+            "key": "c__board__icc__c2ab7ee61",
+            "code": "ICC",
+            "name": "International Cricket Council",
+            "country": null,
+            "parent": null
+        },
+        "messages": [],
+        "gender": "male",
+        "tour_key": "a-rz--cricket--icc--mirelanapphnymwindiesxv8aqd-94ad",
+        "format": "t20",
+        "estimated_end_date": {
+            "$numberInt": "1749929400"
+        },
+        "completed_date_approximate": null
+    },
+    "short_name": "IRE vs WI",
+    "sport": "cricket",
+    "start_at": {
+        "$numberInt": "1749909600"
+    },
+    "status": "completed",
+    "sub_title": "2nd Match",
+    "teams": {
+        "a": {
+            "key": "ire",
+            "code": "IRE",
+            "name": "Ireland",
+            "alternate_name": "Ireland",
+            "alternate_code": "IRE",
+            "gender_name": "Ireland Men",
+            "country_code": "IRL"
+        },
+        "b": {
+            "key": "wi",
+            "code": "WI",
+            "name": "West Indies",
+            "alternate_name": "West Indies",
+            "alternate_code": "WI",
+            "gender_name": "West Indies Men",
+            "country_code": "WIN"
+        }
+    },
+    "tournament": {
+        "key": "a-rz--cricket--icc--tour-mirelanapphny-mwindiesxv8aqd-T20--2025-rKeu",
+        "name": "West Indies tour of Ireland, 2025",
+        "short_name": "IRE vs WI ",
+        "alternate_name": "West Indies tour of Ireland, 2025",
+        "alternate_short_name": "IRE vs WI "
+    },
+    "updatedAt": {
+        "$date": {
+            "$numberLong": "1750593473991"
+        }
+    },
+    "venue": {
+        "key": "c__stadium__bready_cricket_club__2a164",
+        "name": "Bready Cricket Club",
+        "city": "Magheramason",
+        "country": {
+            "short_code": "GB",
+            "code": "GBR",
+            "name": "United Kingdom",
+            "official_name": "United Kingdom of Great Britain and Northern Ireland",
+            "is_region": false
+        },
+        "geolocation": "54.9382624,-7.3801316"
+    },
+    "winner": null
+}

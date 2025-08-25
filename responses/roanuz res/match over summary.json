@@ -1,0 +1,4605 @@
+{
+    "data": {
+        "summaries": [
+            {
+                "index": {
+                    "innings": "b_1",
+                    "over_number": 20
+                },
+                "runs": 15,
+                "wickets": 1,
+                "strikers": [
+                    {
+                        "player_key": "r_shepherd",
+                        "score": {
+                            "runs": 16,
+                            "balls": 12,
+                            "fours": 2,
+                            "sixes": 0,
+                            "dot_balls": 3,
+                            "strike_rate": 133.33,
+                            "ones": 6,
+                            "twos": 1,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 50.0,
+                                "boundary_frequency": 6.0,
+                                "dot_ball_percentage": 25.0,
+                                "dot_ball_frequency": 4.0
+                            }
+                        },
+                        "is_dismissed": true
+                    },
+                    {
+                        "player_key": "j_holder",
+                        "score": {
+                            "runs": 16,
+                            "balls": 13,
+                            "fours": 2,
+                            "sixes": 0,
+                            "dot_balls": 4,
+                            "strike_rate": 123.08,
+                            "ones": 6,
+                            "twos": 1,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 50.0,
+                                "boundary_frequency": 6.5,
+                                "dot_ball_percentage": 30.76923076923077,
+                                "dot_ball_frequency": 3.25
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "m_pots",
+                        "score": {
+                            "balls": 24,
+                            "runs": 48,
+                            "economy": 12.0,
+                            "wickets": 2,
+                            "extras": 9,
+                            "maiden_overs": 0,
+                            "overs": [
+                                4,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 6,
+                                "wides": 8,
+                                "no_balls": 1,
+                                "fours": 3,
+                                "sixes": 2
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 2,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 50.0,
+                                "boundary_frequency": 4.8,
+                                "dot_ball_percentage": 25.0,
+                                "dot_ball_frequency": 4.0
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 167,
+                    "wickets": 9,
+                    "run_rate": 8.35,
+                    "title": "167/9 in 20.0",
+                    "req_run_rate": 22.0,
+                    "req_balls": 0,
+                    "req_runs": 22
+                },
+                "sixes": 0,
+                "fours": 2,
+                "extras": 3,
+                "wides": 3,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "b_1",
+                    "over_number": 19
+                },
+                "runs": 11,
+                "wickets": 0,
+                "strikers": [
+                    {
+                        "player_key": "r_shepherd",
+                        "score": {
+                            "runs": 9,
+                            "balls": 8,
+                            "fours": 1,
+                            "sixes": 0,
+                            "dot_balls": 2,
+                            "strike_rate": 112.5,
+                            "ones": 5,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 44.44444444444444,
+                                "boundary_frequency": 8.0,
+                                "dot_ball_percentage": 25.0,
+                                "dot_ball_frequency": 4.0
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "j_holder",
+                        "score": {
+                            "runs": 11,
+                            "balls": 11,
+                            "fours": 1,
+                            "sixes": 0,
+                            "dot_balls": 4,
+                            "strike_rate": 100.0,
+                            "ones": 5,
+                            "twos": 1,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 36.36363636363637,
+                                "boundary_frequency": 11.0,
+                                "dot_ball_percentage": 36.36363636363637,
+                                "dot_ball_frequency": 2.75
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "b_carse",
+                        "score": {
+                            "balls": 24,
+                            "runs": 29,
+                            "economy": 7.25,
+                            "wickets": 0,
+                            "extras": 1,
+                            "maiden_overs": 0,
+                            "overs": [
+                                4,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 12,
+                                "wides": 1,
+                                "no_balls": 0,
+                                "fours": 3,
+                                "sixes": 1
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 0,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 62.06896551724138,
+                                "boundary_frequency": 6.0,
+                                "dot_ball_percentage": 50.0,
+                                "dot_ball_frequency": 2.0
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 152,
+                    "wickets": 8,
+                    "run_rate": 8.0,
+                    "title": "Required 37 from 6 balls",
+                    "req_run_rate": 37.0,
+                    "req_balls": 6,
+                    "req_runs": 37
+                },
+                "sixes": 0,
+                "fours": 2,
+                "extras": 0,
+                "wides": 0,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "b_1",
+                    "over_number": 18
+                },
+                "runs": 8,
+                "wickets": 0,
+                "strikers": [
+                    {
+                        "player_key": "j_holder",
+                        "score": {
+                            "runs": 5,
+                            "balls": 7,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 2,
+                            "strike_rate": 71.43,
+                            "ones": 5,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 28.57142857142857,
+                                "dot_ball_frequency": 3.5
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "r_shepherd",
+                        "score": {
+                            "runs": 4,
+                            "balls": 6,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 2,
+                            "strike_rate": 66.67,
+                            "ones": 4,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 33.33333333333333,
+                                "dot_ball_frequency": 3.0
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "m_pots",
+                        "score": {
+                            "balls": 18,
+                            "runs": 33,
+                            "economy": 11.0,
+                            "wickets": 1,
+                            "extras": 6,
+                            "maiden_overs": 0,
+                            "overs": [
+                                3,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 5,
+                                "wides": 5,
+                                "no_balls": 1,
+                                "fours": 1,
+                                "sixes": 2
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 1,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 48.484848484848484,
+                                "boundary_frequency": 6.0,
+                                "dot_ball_percentage": 27.77777777777778,
+                                "dot_ball_frequency": 3.6
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 141,
+                    "wickets": 8,
+                    "run_rate": 7.83,
+                    "title": "Required 48 from 12 balls",
+                    "req_run_rate": 24.0,
+                    "req_balls": 12,
+                    "req_runs": 48
+                },
+                "sixes": 0,
+                "fours": 0,
+                "extras": 2,
+                "wides": 2,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "b_1",
+                    "over_number": 17
+                },
+                "runs": 3,
+                "wickets": 1,
+                "strikers": [
+                    {
+                        "player_key": "a_russell",
+                        "score": {
+                            "runs": 15,
+                            "balls": 13,
+                            "fours": 0,
+                            "sixes": 1,
+                            "dot_balls": 5,
+                            "strike_rate": 115.38,
+                            "ones": 4,
+                            "twos": 1,
+                            "threes": 1,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 40.0,
+                                "boundary_frequency": 13.0,
+                                "dot_ball_percentage": 38.46153846153847,
+                                "dot_ball_frequency": 2.6
+                            }
+                        },
+                        "is_dismissed": true
+                    },
+                    {
+                        "player_key": "r_shepherd",
+                        "score": {
+                            "runs": 1,
+                            "balls": 3,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 2,
+                            "strike_rate": 33.33,
+                            "ones": 1,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 66.66666666666666,
+                                "dot_ball_frequency": 1.5
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "j_holder",
+                        "score": {
+                            "runs": 2,
+                            "balls": 4,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 2,
+                            "strike_rate": 50.0,
+                            "ones": 2,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 50.0,
+                                "dot_ball_frequency": 2.0
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "c__player__jacob_bethell__59c38",
+                        "score": {
+                            "balls": 12,
+                            "runs": 27,
+                            "economy": 13.5,
+                            "wickets": 2,
+                            "extras": 3,
+                            "maiden_overs": 0,
+                            "overs": [
+                                2,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 4,
+                                "wides": 3,
+                                "no_balls": 0,
+                                "fours": 2,
+                                "sixes": 2
+                            },
+                            "wickets_breakup": {
+                                "bowled": 1,
+                                "caught": 1,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 74.07407407407408,
+                                "boundary_frequency": 3.0,
+                                "dot_ball_percentage": 33.33333333333333,
+                                "dot_ball_frequency": 3.0
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 133,
+                    "wickets": 8,
+                    "run_rate": 7.82,
+                    "title": "Required 56 from 18 balls",
+                    "req_run_rate": 18.67,
+                    "req_balls": 18,
+                    "req_runs": 56
+                },
+                "sixes": 0,
+                "fours": 0,
+                "extras": 0,
+                "wides": 0,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "b_1",
+                    "over_number": 16
+                },
+                "runs": 8,
+                "wickets": 1,
+                "strikers": [
+                    {
+                        "player_key": "a_russell",
+                        "score": {
+                            "runs": 15,
+                            "balls": 12,
+                            "fours": 0,
+                            "sixes": 1,
+                            "dot_balls": 4,
+                            "strike_rate": 125.0,
+                            "ones": 4,
+                            "twos": 1,
+                            "threes": 1,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 40.0,
+                                "boundary_frequency": 12.0,
+                                "dot_ball_percentage": 33.33333333333333,
+                                "dot_ball_frequency": 3.0
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "g_motie",
+                        "score": {
+                            "runs": 3,
+                            "balls": 5,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 2,
+                            "strike_rate": 60.0,
+                            "ones": 3,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 40.0,
+                                "dot_ball_frequency": 2.5
+                            }
+                        },
+                        "is_dismissed": true
+                    },
+                    {
+                        "player_key": "r_shepherd",
+                        "score": {
+                            "runs": 0,
+                            "balls": 2,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 2,
+                            "strike_rate": 0.0,
+                            "ones": 0,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 100.0,
+                                "dot_ball_frequency": 1.0
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "a_rashid",
+                        "score": {
+                            "balls": 24,
+                            "runs": 22,
+                            "economy": 5.5,
+                            "wickets": 1,
+                            "extras": 1,
+                            "maiden_overs": 0,
+                            "overs": [
+                                4,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 11,
+                                "wides": 1,
+                                "no_balls": 0,
+                                "fours": 0,
+                                "sixes": 1
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 1,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 27.27272727272727,
+                                "boundary_frequency": 24.0,
+                                "dot_ball_percentage": 45.83333333333333,
+                                "dot_ball_frequency": 2.1818181818181817
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 130,
+                    "wickets": 7,
+                    "run_rate": 8.12,
+                    "title": "Required 59 from 24 balls",
+                    "req_run_rate": 14.75,
+                    "req_balls": 24,
+                    "req_runs": 59
+                },
+                "sixes": 1,
+                "fours": 0,
+                "extras": 1,
+                "wides": 1,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "b_1",
+                    "over_number": 15
+                },
+                "runs": 6,
+                "wickets": 0,
+                "strikers": [
+                    {
+                        "player_key": "g_motie",
+                        "score": {
+                            "runs": 3,
+                            "balls": 3,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 0,
+                            "strike_rate": 100.0,
+                            "ones": 3,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 0.0,
+                                "dot_ball_frequency": 0.0
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "a_russell",
+                        "score": {
+                            "runs": 8,
+                            "balls": 10,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 4,
+                            "strike_rate": 80.0,
+                            "ones": 3,
+                            "twos": 1,
+                            "threes": 1,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 40.0,
+                                "dot_ball_frequency": 2.5
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "b_carse",
+                        "score": {
+                            "balls": 18,
+                            "runs": 18,
+                            "economy": 6.0,
+                            "wickets": 0,
+                            "extras": 1,
+                            "maiden_overs": 0,
+                            "overs": [
+                                3,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 10,
+                                "wides": 1,
+                                "no_balls": 0,
+                                "fours": 1,
+                                "sixes": 1
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 0,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 55.55555555555556,
+                                "boundary_frequency": 9.0,
+                                "dot_ball_percentage": 55.55555555555556,
+                                "dot_ball_frequency": 1.8
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 122,
+                    "wickets": 6,
+                    "run_rate": 8.13,
+                    "title": "Required 67 from 30 balls",
+                    "req_run_rate": 13.4,
+                    "req_balls": 30,
+                    "req_runs": 67
+                },
+                "sixes": 0,
+                "fours": 0,
+                "extras": 1,
+                "wides": 0,
+                "no_balls": 0,
+                "leg_byes": 1,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "b_1",
+                    "over_number": 14
+                },
+                "runs": 9,
+                "wickets": 1,
+                "strikers": [
+                    {
+                        "player_key": "ro_powell",
+                        "score": {
+                            "runs": 13,
+                            "balls": 9,
+                            "fours": 2,
+                            "sixes": 0,
+                            "dot_balls": 4,
+                            "strike_rate": 144.44,
+                            "ones": 2,
+                            "twos": 0,
+                            "threes": 1,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 61.53846153846154,
+                                "boundary_frequency": 4.5,
+                                "dot_ball_percentage": 44.44444444444444,
+                                "dot_ball_frequency": 2.25
+                            }
+                        },
+                        "is_dismissed": true
+                    },
+                    {
+                        "player_key": "a_russell",
+                        "score": {
+                            "runs": 5,
+                            "balls": 6,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 3,
+                            "strike_rate": 83.33,
+                            "ones": 2,
+                            "twos": 0,
+                            "threes": 1,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 50.0,
+                                "dot_ball_frequency": 2.0
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "g_motie",
+                        "score": {
+                            "runs": 1,
+                            "balls": 1,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 0,
+                            "strike_rate": 100.0,
+                            "ones": 1,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 0.0,
+                                "dot_ball_frequency": 0.0
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "l_dawson",
+                        "score": {
+                            "balls": 24,
+                            "runs": 20,
+                            "economy": 5.0,
+                            "wickets": 4,
+                            "extras": 0,
+                            "maiden_overs": 0,
+                            "overs": [
+                                4,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 14,
+                                "wides": 0,
+                                "no_balls": 0,
+                                "fours": 2,
+                                "sixes": 0
+                            },
+                            "wickets_breakup": {
+                                "bowled": 1,
+                                "caught": 2,
+                                "lbw": 0,
+                                "stumping": 1
+                            },
+                            "stats": {
+                                "boundary_percentage": 40.0,
+                                "boundary_frequency": 12.0,
+                                "dot_ball_percentage": 58.333333333333336,
+                                "dot_ball_frequency": 1.7142857142857142
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 116,
+                    "wickets": 6,
+                    "run_rate": 8.29,
+                    "title": "Required 73 from 36 balls",
+                    "req_run_rate": 12.17,
+                    "req_balls": 36,
+                    "req_runs": 73
+                },
+                "sixes": 0,
+                "fours": 2,
+                "extras": 0,
+                "wides": 0,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "b_1",
+                    "over_number": 13
+                },
+                "runs": 6,
+                "wickets": 0,
+                "strikers": [
+                    {
+                        "player_key": "a_russell",
+                        "score": {
+                            "runs": 5,
+                            "balls": 5,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 2,
+                            "strike_rate": 100.0,
+                            "ones": 2,
+                            "twos": 0,
+                            "threes": 1,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 40.0,
+                                "dot_ball_frequency": 2.5
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "ro_powell",
+                        "score": {
+                            "runs": 5,
+                            "balls": 5,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 2,
+                            "strike_rate": 100.0,
+                            "ones": 2,
+                            "twos": 0,
+                            "threes": 1,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 40.0,
+                                "dot_ball_frequency": 2.5
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "a_rashid",
+                        "score": {
+                            "balls": 18,
+                            "runs": 14,
+                            "economy": 4.67,
+                            "wickets": 0,
+                            "extras": 0,
+                            "maiden_overs": 0,
+                            "overs": [
+                                3,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 7,
+                                "wides": 0,
+                                "no_balls": 0,
+                                "fours": 0,
+                                "sixes": 0
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 0,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 38.88888888888889,
+                                "dot_ball_frequency": 2.5714285714285716
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 107,
+                    "wickets": 5,
+                    "run_rate": 8.23,
+                    "title": "Required 82 from 42 balls",
+                    "req_run_rate": 11.71,
+                    "req_balls": 42,
+                    "req_runs": 82
+                },
+                "sixes": 0,
+                "fours": 0,
+                "extras": 0,
+                "wides": 0,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "b_1",
+                    "over_number": 12
+                },
+                "runs": 4,
+                "wickets": 2,
+                "strikers": [
+                    {
+                        "player_key": "s_rutherford",
+                        "score": {
+                            "runs": 2,
+                            "balls": 4,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 2,
+                            "strike_rate": 50.0,
+                            "ones": 2,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 50.0,
+                                "dot_ball_frequency": 2.0
+                            }
+                        },
+                        "is_dismissed": true
+                    },
+                    {
+                        "player_key": "ro_chase",
+                        "score": {
+                            "runs": 24,
+                            "balls": 20,
+                            "fours": 2,
+                            "sixes": 1,
+                            "dot_balls": 9,
+                            "strike_rate": 120.0,
+                            "ones": 6,
+                            "twos": 2,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 58.333333333333336,
+                                "boundary_frequency": 6.666666666666667,
+                                "dot_ball_percentage": 45.0,
+                                "dot_ball_frequency": 2.2222222222222223
+                            }
+                        },
+                        "is_dismissed": true
+                    },
+                    {
+                        "player_key": "ro_powell",
+                        "score": {
+                            "runs": 3,
+                            "balls": 3,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 2,
+                            "strike_rate": 100.0,
+                            "ones": 0,
+                            "twos": 0,
+                            "threes": 1,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 66.66666666666666,
+                                "dot_ball_frequency": 1.5
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "a_russell",
+                        "score": {
+                            "runs": 1,
+                            "balls": 1,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 0,
+                            "strike_rate": 100.0,
+                            "ones": 1,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 0.0,
+                                "dot_ball_frequency": 0.0
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "l_dawson",
+                        "score": {
+                            "balls": 18,
+                            "runs": 11,
+                            "economy": 3.67,
+                            "wickets": 3,
+                            "extras": 0,
+                            "maiden_overs": 0,
+                            "overs": [
+                                3,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 11,
+                                "wides": 0,
+                                "no_balls": 0,
+                                "fours": 0,
+                                "sixes": 0
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 2,
+                                "lbw": 0,
+                                "stumping": 1
+                            },
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 61.111111111111114,
+                                "dot_ball_frequency": 1.6363636363636365
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 101,
+                    "wickets": 5,
+                    "run_rate": 8.42,
+                    "title": "Required 88 from 48 balls",
+                    "req_run_rate": 11.0,
+                    "req_balls": 48,
+                    "req_runs": 88
+                },
+                "sixes": 0,
+                "fours": 0,
+                "extras": 0,
+                "wides": 0,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "b_1",
+                    "over_number": 11
+                },
+                "runs": 6,
+                "wickets": 0,
+                "strikers": [
+                    {
+                        "player_key": "ro_chase",
+                        "score": {
+                            "runs": 24,
+                            "balls": 19,
+                            "fours": 2,
+                            "sixes": 1,
+                            "dot_balls": 8,
+                            "strike_rate": 126.32,
+                            "ones": 6,
+                            "twos": 2,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 58.333333333333336,
+                                "boundary_frequency": 6.333333333333333,
+                                "dot_ball_percentage": 42.10526315789473,
+                                "dot_ball_frequency": 2.375
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "s_rutherford",
+                        "score": {
+                            "runs": 2,
+                            "balls": 3,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 1,
+                            "strike_rate": 66.67,
+                            "ones": 2,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 33.33333333333333,
+                                "dot_ball_frequency": 3.0
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "a_rashid",
+                        "score": {
+                            "balls": 12,
+                            "runs": 8,
+                            "economy": 4.0,
+                            "wickets": 0,
+                            "extras": 0,
+                            "maiden_overs": 0,
+                            "overs": [
+                                2,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 5,
+                                "wides": 0,
+                                "no_balls": 0,
+                                "fours": 0,
+                                "sixes": 0
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 0,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 41.66666666666667,
+                                "dot_ball_frequency": 2.4
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 97,
+                    "wickets": 3,
+                    "run_rate": 8.82,
+                    "title": "Required 92 from 54 balls",
+                    "req_run_rate": 10.22,
+                    "req_balls": 54,
+                    "req_runs": 92
+                },
+                "sixes": 0,
+                "fours": 0,
+                "extras": 0,
+                "wides": 0,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            }
+        ],
+        "previous_page_index": {
+            "innings": "b_1",
+            "over_number": 1
+        },
+        "next_page_index": null,
+        "previous_page_key": "b_1_1",
+        "next_page_key": null
+    },
+    "cache": {
+        "key": "api:rz:v5_cricket_match_over-summary:a-rz--cricket--c41880303775789522949",
+        "expires": 1750946565.912594,
+        "etag": "ET:cF13048322386347299711:0",
+        "max_age": 300
+    },
+    "schema": {
+        "major_version": "5.0",
+        "minor_version": "2"
+    },
+    "error": null,
+    "http_status_code": 200
+}
+
+page :- b_1_1 :-
+
+{
+    "data": {
+        "summaries": [
+            {
+                "index": {
+                    "innings": "b_1",
+                    "over_number": 10
+                },
+                "runs": 24,
+                "wickets": 1,
+                "strikers": [
+                    {
+                        "player_key": "ro_chase",
+                        "score": {
+                            "runs": 20,
+                            "balls": 16,
+                            "fours": 2,
+                            "sixes": 1,
+                            "dot_balls": 8,
+                            "strike_rate": 125.0,
+                            "ones": 4,
+                            "twos": 1,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 70.0,
+                                "boundary_frequency": 5.333333333333333,
+                                "dot_ball_percentage": 50.0,
+                                "dot_ball_frequency": 2.0
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "e_lewis",
+                        "score": {
+                            "runs": 39,
+                            "balls": 23,
+                            "fours": 3,
+                            "sixes": 3,
+                            "dot_balls": 7,
+                            "strike_rate": 169.57,
+                            "ones": 9,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 76.92307692307693,
+                                "boundary_frequency": 3.8333333333333335,
+                                "dot_ball_percentage": 30.434782608695656,
+                                "dot_ball_frequency": 3.2857142857142856
+                            }
+                        },
+                        "is_dismissed": true
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "c__player__jacob_bethell__59c38",
+                        "score": {
+                            "balls": 6,
+                            "runs": 24,
+                            "economy": 24.0,
+                            "wickets": 1,
+                            "extras": 3,
+                            "maiden_overs": 0,
+                            "overs": [
+                                1,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 1,
+                                "wides": 3,
+                                "no_balls": 0,
+                                "fours": 2,
+                                "sixes": 2
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 1,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 83.33333333333334,
+                                "boundary_frequency": 1.5,
+                                "dot_ball_percentage": 16.666666666666664,
+                                "dot_ball_frequency": 6.0
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 91,
+                    "wickets": 3,
+                    "run_rate": 9.1,
+                    "title": "Required 98 from 60 balls",
+                    "req_run_rate": 9.8,
+                    "req_balls": 60,
+                    "req_runs": 98
+                },
+                "sixes": 2,
+                "fours": 2,
+                "extras": 3,
+                "wides": 3,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "b_1",
+                    "over_number": 9
+                },
+                "runs": 13,
+                "wickets": 0,
+                "strikers": [
+                    {
+                        "player_key": "e_lewis",
+                        "score": {
+                            "runs": 23,
+                            "balls": 19,
+                            "fours": 2,
+                            "sixes": 1,
+                            "dot_balls": 6,
+                            "strike_rate": 121.05,
+                            "ones": 9,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 60.86956521739131,
+                                "boundary_frequency": 6.333333333333333,
+                                "dot_ball_percentage": 31.57894736842105,
+                                "dot_ball_frequency": 3.1666666666666665
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "ro_chase",
+                        "score": {
+                            "runs": 15,
+                            "balls": 14,
+                            "fours": 1,
+                            "sixes": 1,
+                            "dot_balls": 8,
+                            "strike_rate": 107.14,
+                            "ones": 3,
+                            "twos": 1,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 66.66666666666666,
+                                "boundary_frequency": 7.0,
+                                "dot_ball_percentage": 57.14285714285714,
+                                "dot_ball_frequency": 1.75
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "m_pots",
+                        "score": {
+                            "balls": 12,
+                            "runs": 25,
+                            "economy": 12.5,
+                            "wickets": 1,
+                            "extras": 4,
+                            "maiden_overs": 0,
+                            "overs": [
+                                2,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 5,
+                                "wides": 3,
+                                "no_balls": 1,
+                                "fours": 1,
+                                "sixes": 2
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 1,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 64.0,
+                                "boundary_frequency": 4.0,
+                                "dot_ball_percentage": 41.66666666666667,
+                                "dot_ball_frequency": 2.4
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 67,
+                    "wickets": 2,
+                    "run_rate": 7.44,
+                    "title": "Required 122 from 66 balls",
+                    "req_run_rate": 11.09,
+                    "req_balls": 66,
+                    "req_runs": 122
+                },
+                "sixes": 1,
+                "fours": 1,
+                "extras": 1,
+                "wides": 1,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "b_1",
+                    "over_number": 8
+                },
+                "runs": 7,
+                "wickets": 0,
+                "strikers": [
+                    {
+                        "player_key": "e_lewis",
+                        "score": {
+                            "runs": 12,
+                            "balls": 15,
+                            "fours": 1,
+                            "sixes": 0,
+                            "dot_balls": 5,
+                            "strike_rate": 80.0,
+                            "ones": 8,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 33.33333333333333,
+                                "boundary_frequency": 15.0,
+                                "dot_ball_percentage": 33.33333333333333,
+                                "dot_ball_frequency": 3.0
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "ro_chase",
+                        "score": {
+                            "runs": 14,
+                            "balls": 12,
+                            "fours": 1,
+                            "sixes": 1,
+                            "dot_balls": 7,
+                            "strike_rate": 116.67,
+                            "ones": 2,
+                            "twos": 1,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 71.42857142857143,
+                                "boundary_frequency": 6.0,
+                                "dot_ball_percentage": 58.333333333333336,
+                                "dot_ball_frequency": 1.7142857142857142
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "will_jacks",
+                        "score": {
+                            "balls": 12,
+                            "runs": 19,
+                            "economy": 9.5,
+                            "wickets": 0,
+                            "extras": 2,
+                            "maiden_overs": 0,
+                            "overs": [
+                                2,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 5,
+                                "wides": 2,
+                                "no_balls": 0,
+                                "fours": 3,
+                                "sixes": 0
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 0,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 63.1578947368421,
+                                "boundary_frequency": 4.0,
+                                "dot_ball_percentage": 41.66666666666667,
+                                "dot_ball_frequency": 2.4
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 54,
+                    "wickets": 2,
+                    "run_rate": 6.75,
+                    "title": "Required 135 from 72 balls",
+                    "req_run_rate": 11.25,
+                    "req_balls": 72,
+                    "req_runs": 135
+                },
+                "sixes": 0,
+                "fours": 1,
+                "extras": 0,
+                "wides": 0,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "b_1",
+                    "over_number": 7
+                },
+                "runs": 3,
+                "wickets": 0,
+                "strikers": [
+                    {
+                        "player_key": "e_lewis",
+                        "score": {
+                            "runs": 11,
+                            "balls": 14,
+                            "fours": 1,
+                            "sixes": 0,
+                            "dot_balls": 5,
+                            "strike_rate": 78.57,
+                            "ones": 7,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 36.36363636363637,
+                                "boundary_frequency": 14.0,
+                                "dot_ball_percentage": 35.714285714285715,
+                                "dot_ball_frequency": 2.8
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "ro_chase",
+                        "score": {
+                            "runs": 8,
+                            "balls": 7,
+                            "fours": 0,
+                            "sixes": 1,
+                            "dot_balls": 4,
+                            "strike_rate": 114.29,
+                            "ones": 2,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 75.0,
+                                "boundary_frequency": 7.0,
+                                "dot_ball_percentage": 57.14285714285714,
+                                "dot_ball_frequency": 1.75
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "a_rashid",
+                        "score": {
+                            "balls": 6,
+                            "runs": 2,
+                            "economy": 2.0,
+                            "wickets": 0,
+                            "extras": 0,
+                            "maiden_overs": 0,
+                            "overs": [
+                                1,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 4,
+                                "wides": 0,
+                                "no_balls": 0,
+                                "fours": 0,
+                                "sixes": 0
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 0,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 66.66666666666666,
+                                "dot_ball_frequency": 1.5
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 47,
+                    "wickets": 2,
+                    "run_rate": 6.71,
+                    "title": "Required 142 from 78 balls",
+                    "req_run_rate": 10.92,
+                    "req_balls": 78,
+                    "req_runs": 142
+                },
+                "sixes": 0,
+                "fours": 0,
+                "extras": 1,
+                "wides": 0,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 1
+            },
+            {
+                "index": {
+                    "innings": "b_1",
+                    "over_number": 6
+                },
+                "runs": 12,
+                "wickets": 1,
+                "strikers": [
+                    {
+                        "player_key": "e_lewis",
+                        "score": {
+                            "runs": 10,
+                            "balls": 11,
+                            "fours": 1,
+                            "sixes": 0,
+                            "dot_balls": 4,
+                            "strike_rate": 90.91,
+                            "ones": 6,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 40.0,
+                                "boundary_frequency": 11.0,
+                                "dot_ball_percentage": 36.36363636363637,
+                                "dot_ball_frequency": 2.75
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "s_hope",
+                        "score": {
+                            "runs": 3,
+                            "balls": 7,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 4,
+                            "strike_rate": 42.86,
+                            "ones": 3,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 57.14285714285714,
+                                "dot_ball_frequency": 1.75
+                            }
+                        },
+                        "is_dismissed": true
+                    },
+                    {
+                        "player_key": "ro_chase",
+                        "score": {
+                            "runs": 7,
+                            "balls": 4,
+                            "fours": 0,
+                            "sixes": 1,
+                            "dot_balls": 2,
+                            "strike_rate": 175.0,
+                            "ones": 1,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 85.71428571428571,
+                                "boundary_frequency": 4.0,
+                                "dot_ball_percentage": 50.0,
+                                "dot_ball_frequency": 2.0
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "m_pots",
+                        "score": {
+                            "balls": 6,
+                            "runs": 12,
+                            "economy": 12.0,
+                            "wickets": 1,
+                            "extras": 3,
+                            "maiden_overs": 0,
+                            "overs": [
+                                1,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 3,
+                                "wides": 2,
+                                "no_balls": 1,
+                                "fours": 0,
+                                "sixes": 1
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 1,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 50.0,
+                                "boundary_frequency": 6.0,
+                                "dot_ball_percentage": 50.0,
+                                "dot_ball_frequency": 2.0
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 44,
+                    "wickets": 2,
+                    "run_rate": 7.33,
+                    "title": "Required 145 from 84 balls",
+                    "req_run_rate": 10.36,
+                    "req_balls": 84,
+                    "req_runs": 145
+                },
+                "sixes": 1,
+                "fours": 0,
+                "extras": 3,
+                "wides": 2,
+                "no_balls": 1,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "b_1",
+                    "over_number": 5
+                },
+                "runs": 2,
+                "wickets": 0,
+                "strikers": [
+                    {
+                        "player_key": "s_hope",
+                        "score": {
+                            "runs": 3,
+                            "balls": 6,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 3,
+                            "strike_rate": 50.0,
+                            "ones": 3,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 50.0,
+                                "dot_ball_frequency": 2.0
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "e_lewis",
+                        "score": {
+                            "runs": 8,
+                            "balls": 9,
+                            "fours": 1,
+                            "sixes": 0,
+                            "dot_balls": 4,
+                            "strike_rate": 88.89,
+                            "ones": 4,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 50.0,
+                                "boundary_frequency": 9.0,
+                                "dot_ball_percentage": 44.44444444444444,
+                                "dot_ball_frequency": 2.25
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "b_carse",
+                        "score": {
+                            "balls": 12,
+                            "runs": 13,
+                            "economy": 6.5,
+                            "wickets": 0,
+                            "extras": 1,
+                            "maiden_overs": 0,
+                            "overs": [
+                                2,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 8,
+                                "wides": 1,
+                                "no_balls": 0,
+                                "fours": 1,
+                                "sixes": 1
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 0,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 76.92307692307693,
+                                "boundary_frequency": 6.0,
+                                "dot_ball_percentage": 66.66666666666666,
+                                "dot_ball_frequency": 1.5
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 32,
+                    "wickets": 1,
+                    "run_rate": 6.4,
+                    "title": "Required 157 from 90 balls",
+                    "req_run_rate": 10.47,
+                    "req_balls": 90,
+                    "req_runs": 157
+                },
+                "sixes": 0,
+                "fours": 0,
+                "extras": 0,
+                "wides": 0,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "b_1",
+                    "over_number": 4
+                },
+                "runs": 3,
+                "wickets": 1,
+                "strikers": [
+                    {
+                        "player_key": "j_charles",
+                        "score": {
+                            "runs": 18,
+                            "balls": 15,
+                            "fours": 2,
+                            "sixes": 1,
+                            "dot_balls": 10,
+                            "strike_rate": 120.0,
+                            "ones": 1,
+                            "twos": 0,
+                            "threes": 1,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 77.77777777777779,
+                                "boundary_frequency": 5.0,
+                                "dot_ball_percentage": 66.66666666666666,
+                                "dot_ball_frequency": 1.5
+                            }
+                        },
+                        "is_dismissed": true
+                    },
+                    {
+                        "player_key": "e_lewis",
+                        "score": {
+                            "runs": 7,
+                            "balls": 7,
+                            "fours": 1,
+                            "sixes": 0,
+                            "dot_balls": 3,
+                            "strike_rate": 100.0,
+                            "ones": 3,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 57.14285714285714,
+                                "boundary_frequency": 7.0,
+                                "dot_ball_percentage": 42.857142857142854,
+                                "dot_ball_frequency": 2.3333333333333335
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "s_hope",
+                        "score": {
+                            "runs": 2,
+                            "balls": 2,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 0,
+                            "strike_rate": 100.0,
+                            "ones": 2,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 0.0,
+                                "dot_ball_frequency": 0.0
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "l_dawson",
+                        "score": {
+                            "balls": 12,
+                            "runs": 7,
+                            "economy": 3.5,
+                            "wickets": 1,
+                            "extras": 0,
+                            "maiden_overs": 0,
+                            "overs": [
+                                2,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 7,
+                                "wides": 0,
+                                "no_balls": 0,
+                                "fours": 0,
+                                "sixes": 0
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 0,
+                                "lbw": 0,
+                                "stumping": 1
+                            },
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 58.333333333333336,
+                                "dot_ball_frequency": 1.7142857142857142
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 30,
+                    "wickets": 1,
+                    "run_rate": 7.5,
+                    "title": "Required 159 from 96 balls",
+                    "req_run_rate": 9.94,
+                    "req_balls": 96,
+                    "req_runs": 159
+                },
+                "sixes": 0,
+                "fours": 0,
+                "extras": 0,
+                "wides": 0,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "b_1",
+                    "over_number": 3
+                },
+                "runs": 12,
+                "wickets": 0,
+                "strikers": [
+                    {
+                        "player_key": "e_lewis",
+                        "score": {
+                            "runs": 6,
+                            "balls": 5,
+                            "fours": 1,
+                            "sixes": 0,
+                            "dot_balls": 2,
+                            "strike_rate": 120.0,
+                            "ones": 2,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 66.66666666666666,
+                                "boundary_frequency": 5.0,
+                                "dot_ball_percentage": 40.0,
+                                "dot_ball_frequency": 2.5
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "j_charles",
+                        "score": {
+                            "runs": 18,
+                            "balls": 13,
+                            "fours": 2,
+                            "sixes": 1,
+                            "dot_balls": 8,
+                            "strike_rate": 138.46,
+                            "ones": 1,
+                            "twos": 0,
+                            "threes": 1,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 77.77777777777779,
+                                "boundary_frequency": 4.333333333333333,
+                                "dot_ball_percentage": 61.53846153846154,
+                                "dot_ball_frequency": 1.625
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "will_jacks",
+                        "score": {
+                            "balls": 6,
+                            "runs": 12,
+                            "economy": 12.0,
+                            "wickets": 0,
+                            "extras": 2,
+                            "maiden_overs": 0,
+                            "overs": [
+                                1,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 2,
+                                "wides": 2,
+                                "no_balls": 0,
+                                "fours": 2,
+                                "sixes": 0
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 0,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 66.66666666666666,
+                                "boundary_frequency": 3.0,
+                                "dot_ball_percentage": 33.33333333333333,
+                                "dot_ball_frequency": 3.0
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 27,
+                    "wickets": 0,
+                    "run_rate": 9.0,
+                    "title": "Required 162 from 102 balls",
+                    "req_run_rate": 9.53,
+                    "req_balls": 102,
+                    "req_runs": 162
+                },
+                "sixes": 0,
+                "fours": 2,
+                "extras": 2,
+                "wides": 2,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "b_1",
+                    "over_number": 2
+                },
+                "runs": 11,
+                "wickets": 0,
+                "strikers": [
+                    {
+                        "player_key": "j_charles",
+                        "score": {
+                            "runs": 13,
+                            "balls": 10,
+                            "fours": 1,
+                            "sixes": 1,
+                            "dot_balls": 7,
+                            "strike_rate": 130.0,
+                            "ones": 0,
+                            "twos": 0,
+                            "threes": 1,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 76.92307692307693,
+                                "boundary_frequency": 5.0,
+                                "dot_ball_percentage": 70.0,
+                                "dot_ball_frequency": 1.4285714285714286
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "e_lewis",
+                        "score": {
+                            "runs": 1,
+                            "balls": 2,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 1,
+                            "strike_rate": 50.0,
+                            "ones": 1,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 50.0,
+                                "dot_ball_frequency": 2.0
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "b_carse",
+                        "score": {
+                            "balls": 6,
+                            "runs": 11,
+                            "economy": 11.0,
+                            "wickets": 0,
+                            "extras": 1,
+                            "maiden_overs": 0,
+                            "overs": [
+                                1,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 4,
+                                "wides": 1,
+                                "no_balls": 0,
+                                "fours": 1,
+                                "sixes": 1
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 0,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 90.9090909090909,
+                                "boundary_frequency": 3.0,
+                                "dot_ball_percentage": 66.66666666666666,
+                                "dot_ball_frequency": 1.5
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 15,
+                    "wickets": 0,
+                    "run_rate": 7.5,
+                    "title": "Required 174 from 108 balls",
+                    "req_run_rate": 9.67,
+                    "req_balls": 108,
+                    "req_runs": 174
+                },
+                "sixes": 1,
+                "fours": 1,
+                "extras": 1,
+                "wides": 1,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "b_1",
+                    "over_number": 1
+                },
+                "runs": 4,
+                "wickets": 0,
+                "strikers": [
+                    {
+                        "player_key": "e_lewis",
+                        "score": {
+                            "runs": 1,
+                            "balls": 2,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 1,
+                            "strike_rate": 50.0,
+                            "ones": 1,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 50.0,
+                                "dot_ball_frequency": 2.0
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "j_charles",
+                        "score": {
+                            "runs": 3,
+                            "balls": 4,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 3,
+                            "strike_rate": 75.0,
+                            "ones": 0,
+                            "twos": 0,
+                            "threes": 1,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 75.0,
+                                "dot_ball_frequency": 1.3333333333333333
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "l_dawson",
+                        "score": {
+                            "balls": 6,
+                            "runs": 4,
+                            "economy": 4.0,
+                            "wickets": 0,
+                            "extras": 0,
+                            "maiden_overs": 0,
+                            "overs": [
+                                1,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 4,
+                                "wides": 0,
+                                "no_balls": 0,
+                                "fours": 0,
+                                "sixes": 0
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 0,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 66.66666666666666,
+                                "dot_ball_frequency": 1.5
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 4,
+                    "wickets": 0,
+                    "run_rate": 4.0,
+                    "title": "Required 185 from 114 balls",
+                    "req_run_rate": 9.74,
+                    "req_balls": 114,
+                    "req_runs": 185
+                },
+                "sixes": 0,
+                "fours": 0,
+                "extras": 0,
+                "wides": 0,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            }
+        ],
+        "previous_page_index": {
+            "innings": "a_1",
+            "over_number": 11
+        },
+        "next_page_index": {
+            "innings": "b_1",
+            "over_number": 11
+        },
+        "previous_page_key": "a_1_11",
+        "next_page_key": "b_1_11"
+    },
+    "cache": {
+        "key": "api:rz:v5_cricket_match_over-summary:a-rz--cricket--c41880303775789522949_b_1_1",
+        "expires": 1750966428.486474,
+        "etag": "ET:yM13048322469658759268:0",
+        "max_age": 300
+    },
+    "schema": {
+        "major_version": "5.0",
+        "minor_version": "2"
+    },
+    "error": null,
+    "http_status_code": 200
+}
+
+
+
+page : a_1_11 :- 
+
+{
+    "data": {
+        "summaries": [
+            {
+                "index": {
+                    "innings": "a_1",
+                    "over_number": 20
+                },
+                "runs": 9,
+                "wickets": 1,
+                "strikers": [
+                    {
+                        "player_key": "will_jacks",
+                        "score": {
+                            "runs": 9,
+                            "balls": 6,
+                            "fours": 1,
+                            "sixes": 0,
+                            "dot_balls": 1,
+                            "strike_rate": 150.0,
+                            "ones": 3,
+                            "twos": 1,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 44.44444444444444,
+                                "boundary_frequency": 6.0,
+                                "dot_ball_percentage": 16.666666666666664,
+                                "dot_ball_frequency": 6.0
+                            }
+                        },
+                        "is_dismissed": true
+                    },
+                    {
+                        "player_key": "c__player__jacob_bethell__59c38",
+                        "score": {
+                            "runs": 23,
+                            "balls": 23,
+                            "fours": 0,
+                            "sixes": 1,
+                            "dot_balls": 9,
+                            "strike_rate": 100.0,
+                            "ones": 9,
+                            "twos": 4,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 26.08695652173913,
+                                "boundary_frequency": 23.0,
+                                "dot_ball_percentage": 39.130434782608695,
+                                "dot_ball_frequency": 2.5555555555555554
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "j_holder",
+                        "score": {
+                            "balls": 24,
+                            "runs": 38,
+                            "economy": 9.5,
+                            "wickets": 0,
+                            "extras": 3,
+                            "maiden_overs": 0,
+                            "overs": [
+                                4,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 6,
+                                "wides": 3,
+                                "no_balls": 0,
+                                "fours": 5,
+                                "sixes": 0
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 0,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 52.63157894736842,
+                                "boundary_frequency": 4.8,
+                                "dot_ball_percentage": 25.0,
+                                "dot_ball_frequency": 4.0
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 188,
+                    "wickets": 6,
+                    "run_rate": 9.4,
+                    "title": "188/6 in 20.0",
+                    "req_run_rate": null,
+                    "req_balls": null,
+                    "req_runs": null
+                },
+                "sixes": 0,
+                "fours": 1,
+                "extras": 0,
+                "wides": 0,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "a_1",
+                    "over_number": 19
+                },
+                "runs": 11,
+                "wickets": 1,
+                "strikers": [
+                    {
+                        "player_key": "j_buttler",
+                        "score": {
+                            "runs": 96,
+                            "balls": 59,
+                            "fours": 6,
+                            "sixes": 4,
+                            "dot_balls": 12,
+                            "strike_rate": 162.71,
+                            "ones": 25,
+                            "twos": 10,
+                            "threes": 1,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 50.0,
+                                "boundary_frequency": 5.9,
+                                "dot_ball_percentage": 20.33898305084746,
+                                "dot_ball_frequency": 4.916666666666667
+                            }
+                        },
+                        "is_dismissed": true
+                    },
+                    {
+                        "player_key": "c__player__jacob_bethell__59c38",
+                        "score": {
+                            "runs": 22,
+                            "balls": 22,
+                            "fours": 0,
+                            "sixes": 1,
+                            "dot_balls": 9,
+                            "strike_rate": 100.0,
+                            "ones": 8,
+                            "twos": 4,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 27.27272727272727,
+                                "boundary_frequency": 22.0,
+                                "dot_ball_percentage": 40.909090909090914,
+                                "dot_ball_frequency": 2.4444444444444446
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "will_jacks",
+                        "score": {
+                            "runs": 1,
+                            "balls": 1,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 0,
+                            "strike_rate": 100.0,
+                            "ones": 1,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 0.0,
+                                "dot_ball_frequency": 0.0
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "al_joseph",
+                        "score": {
+                            "balls": 24,
+                            "runs": 51,
+                            "economy": 12.75,
+                            "wickets": 1,
+                            "extras": 4,
+                            "maiden_overs": 0,
+                            "overs": [
+                                4,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 7,
+                                "wides": 4,
+                                "no_balls": 0,
+                                "fours": 2,
+                                "sixes": 4
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 0,
+                                "lbw": 1,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 62.745098039215684,
+                                "boundary_frequency": 4.0,
+                                "dot_ball_percentage": 29.166666666666668,
+                                "dot_ball_frequency": 3.4285714285714284
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 179,
+                    "wickets": 5,
+                    "run_rate": 9.42,
+                    "title": "179/5 in 19.0",
+                    "req_run_rate": null,
+                    "req_balls": null,
+                    "req_runs": null
+                },
+                "sixes": 0,
+                "fours": 1,
+                "extras": 2,
+                "wides": 2,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "a_1",
+                    "over_number": 18
+                },
+                "runs": 12,
+                "wickets": 0,
+                "strikers": [
+                    {
+                        "player_key": "c__player__jacob_bethell__59c38",
+                        "score": {
+                            "runs": 19,
+                            "balls": 20,
+                            "fours": 0,
+                            "sixes": 1,
+                            "dot_balls": 9,
+                            "strike_rate": 95.0,
+                            "ones": 7,
+                            "twos": 3,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 31.57894736842105,
+                                "boundary_frequency": 20.0,
+                                "dot_ball_percentage": 45.0,
+                                "dot_ball_frequency": 2.2222222222222223
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "j_buttler",
+                        "score": {
+                            "runs": 91,
+                            "balls": 56,
+                            "fours": 5,
+                            "sixes": 4,
+                            "dot_balls": 11,
+                            "strike_rate": 162.5,
+                            "ones": 24,
+                            "twos": 10,
+                            "threes": 1,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 48.35164835164835,
+                                "boundary_frequency": 6.222222222222222,
+                                "dot_ball_percentage": 19.642857142857142,
+                                "dot_ball_frequency": 5.090909090909091
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "r_shepherd",
+                        "score": {
+                            "balls": 24,
+                            "runs": 33,
+                            "economy": 8.25,
+                            "wickets": 2,
+                            "extras": 2,
+                            "maiden_overs": 0,
+                            "overs": [
+                                4,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 8,
+                                "wides": 2,
+                                "no_balls": 0,
+                                "fours": 3,
+                                "sixes": 0
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 2,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 36.36363636363637,
+                                "boundary_frequency": 8.0,
+                                "dot_ball_percentage": 33.33333333333333,
+                                "dot_ball_frequency": 3.0
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 168,
+                    "wickets": 4,
+                    "run_rate": 9.33,
+                    "title": "168/4 in 18.0",
+                    "req_run_rate": null,
+                    "req_balls": null,
+                    "req_runs": null
+                },
+                "sixes": 0,
+                "fours": 1,
+                "extras": 0,
+                "wides": 0,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "a_1",
+                    "over_number": 17
+                },
+                "runs": 8,
+                "wickets": 0,
+                "strikers": [
+                    {
+                        "player_key": "j_buttler",
+                        "score": {
+                            "runs": 80,
+                            "balls": 51,
+                            "fours": 4,
+                            "sixes": 4,
+                            "dot_balls": 11,
+                            "strike_rate": 156.86,
+                            "ones": 23,
+                            "twos": 7,
+                            "threes": 1,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 50.0,
+                                "boundary_frequency": 6.375,
+                                "dot_ball_percentage": 21.568627450980394,
+                                "dot_ball_frequency": 4.636363636363637
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "c__player__jacob_bethell__59c38",
+                        "score": {
+                            "runs": 18,
+                            "balls": 19,
+                            "fours": 0,
+                            "sixes": 1,
+                            "dot_balls": 9,
+                            "strike_rate": 94.74,
+                            "ones": 6,
+                            "twos": 3,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 33.33333333333333,
+                                "boundary_frequency": 19.0,
+                                "dot_ball_percentage": 47.368421052631575,
+                                "dot_ball_frequency": 2.111111111111111
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "j_holder",
+                        "score": {
+                            "balls": 18,
+                            "runs": 29,
+                            "economy": 9.67,
+                            "wickets": 0,
+                            "extras": 3,
+                            "maiden_overs": 0,
+                            "overs": [
+                                3,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 5,
+                                "wides": 3,
+                                "no_balls": 0,
+                                "fours": 4,
+                                "sixes": 0
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 0,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 55.172413793103445,
+                                "boundary_frequency": 4.5,
+                                "dot_ball_percentage": 27.77777777777778,
+                                "dot_ball_frequency": 3.6
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 156,
+                    "wickets": 4,
+                    "run_rate": 9.18,
+                    "title": "156/4 in 17.0",
+                    "req_run_rate": null,
+                    "req_balls": null,
+                    "req_runs": null
+                },
+                "sixes": 0,
+                "fours": 1,
+                "extras": 0,
+                "wides": 0,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "a_1",
+                    "over_number": 16
+                },
+                "runs": 12,
+                "wickets": 0,
+                "strikers": [
+                    {
+                        "player_key": "c__player__jacob_bethell__59c38",
+                        "score": {
+                            "runs": 17,
+                            "balls": 17,
+                            "fours": 0,
+                            "sixes": 1,
+                            "dot_balls": 8,
+                            "strike_rate": 100.0,
+                            "ones": 5,
+                            "twos": 3,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 35.294117647058826,
+                                "boundary_frequency": 17.0,
+                                "dot_ball_percentage": 47.05882352941176,
+                                "dot_ball_frequency": 2.125
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "j_buttler",
+                        "score": {
+                            "runs": 73,
+                            "balls": 47,
+                            "fours": 3,
+                            "sixes": 4,
+                            "dot_balls": 10,
+                            "strike_rate": 155.32,
+                            "ones": 22,
+                            "twos": 6,
+                            "threes": 1,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 49.31506849315068,
+                                "boundary_frequency": 6.714285714285714,
+                                "dot_ball_percentage": 21.27659574468085,
+                                "dot_ball_frequency": 4.7
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "al_joseph",
+                        "score": {
+                            "balls": 18,
+                            "runs": 40,
+                            "economy": 13.33,
+                            "wickets": 0,
+                            "extras": 2,
+                            "maiden_overs": 0,
+                            "overs": [
+                                3,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 6,
+                                "wides": 2,
+                                "no_balls": 0,
+                                "fours": 1,
+                                "sixes": 4
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 0,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 70.0,
+                                "boundary_frequency": 3.6,
+                                "dot_ball_percentage": 33.33333333333333,
+                                "dot_ball_frequency": 3.0
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 148,
+                    "wickets": 4,
+                    "run_rate": 9.25,
+                    "title": "148/4 in 16.0",
+                    "req_run_rate": null,
+                    "req_balls": null,
+                    "req_runs": null
+                },
+                "sixes": 1,
+                "fours": 0,
+                "extras": 3,
+                "wides": 2,
+                "no_balls": 0,
+                "leg_byes": 1,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "a_1",
+                    "over_number": 15
+                },
+                "runs": 5,
+                "wickets": 0,
+                "strikers": [
+                    {
+                        "player_key": "c__player__jacob_bethell__59c38",
+                        "score": {
+                            "runs": 8,
+                            "balls": 12,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 6,
+                            "strike_rate": 66.67,
+                            "ones": 4,
+                            "twos": 2,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 50.0,
+                                "dot_ball_frequency": 2.0
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "j_buttler",
+                        "score": {
+                            "runs": 73,
+                            "balls": 46,
+                            "fours": 3,
+                            "sixes": 4,
+                            "dot_balls": 10,
+                            "strike_rate": 158.7,
+                            "ones": 22,
+                            "twos": 6,
+                            "threes": 1,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 49.31506849315068,
+                                "boundary_frequency": 6.571428571428571,
+                                "dot_ball_percentage": 21.73913043478261,
+                                "dot_ball_frequency": 4.6
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "r_shepherd",
+                        "score": {
+                            "balls": 18,
+                            "runs": 21,
+                            "economy": 7.0,
+                            "wickets": 2,
+                            "extras": 2,
+                            "maiden_overs": 0,
+                            "overs": [
+                                3,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 8,
+                                "wides": 2,
+                                "no_balls": 0,
+                                "fours": 2,
+                                "sixes": 0
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 2,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 38.095238095238095,
+                                "boundary_frequency": 9.0,
+                                "dot_ball_percentage": 44.44444444444444,
+                                "dot_ball_frequency": 2.25
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 136,
+                    "wickets": 4,
+                    "run_rate": 9.07,
+                    "title": "136/4 in 15.0",
+                    "req_run_rate": null,
+                    "req_balls": null,
+                    "req_runs": null
+                },
+                "sixes": 0,
+                "fours": 0,
+                "extras": 0,
+                "wides": 0,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "a_1",
+                    "over_number": 14
+                },
+                "runs": 10,
+                "wickets": 0,
+                "strikers": [
+                    {
+                        "player_key": "j_buttler",
+                        "score": {
+                            "runs": 73,
+                            "balls": 46,
+                            "fours": 3,
+                            "sixes": 4,
+                            "dot_balls": 10,
+                            "strike_rate": 158.7,
+                            "ones": 22,
+                            "twos": 6,
+                            "threes": 1,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 49.31506849315068,
+                                "boundary_frequency": 6.571428571428571,
+                                "dot_ball_percentage": 21.73913043478261,
+                                "dot_ball_frequency": 4.6
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "c__player__jacob_bethell__59c38",
+                        "score": {
+                            "runs": 3,
+                            "balls": 6,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 3,
+                            "strike_rate": 50.0,
+                            "ones": 3,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 50.0,
+                                "dot_ball_frequency": 2.0
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "ro_chase",
+                        "score": {
+                            "balls": 12,
+                            "runs": 19,
+                            "economy": 9.5,
+                            "wickets": 1,
+                            "extras": 1,
+                            "maiden_overs": 0,
+                            "overs": [
+                                2,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 2,
+                                "wides": 1,
+                                "no_balls": 0,
+                                "fours": 1,
+                                "sixes": 1
+                            },
+                            "wickets_breakup": {
+                                "bowled": 1,
+                                "caught": 0,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 52.63157894736842,
+                                "boundary_frequency": 6.0,
+                                "dot_ball_percentage": 16.666666666666664,
+                                "dot_ball_frequency": 6.0
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 131,
+                    "wickets": 4,
+                    "run_rate": 9.36,
+                    "title": "131/4 in 14.0",
+                    "req_run_rate": null,
+                    "req_balls": null,
+                    "req_runs": null
+                },
+                "sixes": 1,
+                "fours": 0,
+                "extras": 0,
+                "wides": 0,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "a_1",
+                    "over_number": 13
+                },
+                "runs": 5,
+                "wickets": 0,
+                "strikers": [
+                    {
+                        "player_key": "j_buttler",
+                        "score": {
+                            "runs": 65,
+                            "balls": 43,
+                            "fours": 3,
+                            "sixes": 3,
+                            "dot_balls": 10,
+                            "strike_rate": 151.16,
+                            "ones": 20,
+                            "twos": 6,
+                            "threes": 1,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 46.15384615384615,
+                                "boundary_frequency": 7.166666666666667,
+                                "dot_ball_percentage": 23.25581395348837,
+                                "dot_ball_frequency": 4.3
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "c__player__jacob_bethell__59c38",
+                        "score": {
+                            "runs": 1,
+                            "balls": 3,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 2,
+                            "strike_rate": 33.33,
+                            "ones": 1,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 66.66666666666666,
+                                "dot_ball_frequency": 1.5
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "g_motie",
+                        "score": {
+                            "balls": 24,
+                            "runs": 21,
+                            "economy": 5.25,
+                            "wickets": 0,
+                            "extras": 0,
+                            "maiden_overs": 0,
+                            "overs": [
+                                4,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 6,
+                                "wides": 0,
+                                "no_balls": 0,
+                                "fours": 0,
+                                "sixes": 0
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 0,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 25.0,
+                                "dot_ball_frequency": 4.0
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 121,
+                    "wickets": 4,
+                    "run_rate": 9.31,
+                    "title": "121/4 in 13.0",
+                    "req_run_rate": null,
+                    "req_balls": null,
+                    "req_runs": null
+                },
+                "sixes": 0,
+                "fours": 0,
+                "extras": 0,
+                "wides": 0,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "a_1",
+                    "over_number": 12
+                },
+                "runs": 3,
+                "wickets": 1,
+                "strikers": [
+                    {
+                        "player_key": "j_buttler",
+                        "score": {
+                            "runs": 61,
+                            "balls": 38,
+                            "fours": 3,
+                            "sixes": 3,
+                            "dot_balls": 8,
+                            "strike_rate": 160.53,
+                            "ones": 18,
+                            "twos": 5,
+                            "threes": 1,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 49.18032786885246,
+                                "boundary_frequency": 6.333333333333333,
+                                "dot_ball_percentage": 21.052631578947366,
+                                "dot_ball_frequency": 4.75
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "t_banton",
+                        "score": {
+                            "runs": 3,
+                            "balls": 4,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 1,
+                            "strike_rate": 75.0,
+                            "ones": 3,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 25.0,
+                                "dot_ball_frequency": 4.0
+                            }
+                        },
+                        "is_dismissed": true
+                    },
+                    {
+                        "player_key": "c__player__jacob_bethell__59c38",
+                        "score": {
+                            "runs": 0,
+                            "balls": 2,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 2,
+                            "strike_rate": 0.0,
+                            "ones": 0,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 100.0,
+                                "dot_ball_frequency": 1.0
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "a_russell",
+                        "score": {
+                            "balls": 12,
+                            "runs": 25,
+                            "economy": 12.5,
+                            "wickets": 1,
+                            "extras": 1,
+                            "maiden_overs": 0,
+                            "overs": [
+                                2,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 5,
+                                "wides": 0,
+                                "no_balls": 1,
+                                "fours": 1,
+                                "sixes": 2
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 0,
+                                "lbw": 1,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 64.0,
+                                "boundary_frequency": 4.0,
+                                "dot_ball_percentage": 41.66666666666667,
+                                "dot_ball_frequency": 2.4
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 116,
+                    "wickets": 4,
+                    "run_rate": 9.67,
+                    "title": "116/4 in 12.0",
+                    "req_run_rate": null,
+                    "req_balls": null,
+                    "req_runs": null
+                },
+                "sixes": 0,
+                "fours": 0,
+                "extras": 0,
+                "wides": 0,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "a_1",
+                    "over_number": 11
+                },
+                "runs": 5,
+                "wickets": 0,
+                "strikers": [
+                    {
+                        "player_key": "j_buttler",
+                        "score": {
+                            "runs": 58,
+                            "balls": 35,
+                            "fours": 3,
+                            "sixes": 3,
+                            "dot_balls": 7,
+                            "strike_rate": 165.71,
+                            "ones": 17,
+                            "twos": 4,
+                            "threes": 1,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 51.724137931034484,
+                                "boundary_frequency": 5.833333333333333,
+                                "dot_ball_percentage": 20.0,
+                                "dot_ball_frequency": 5.0
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "t_banton",
+                        "score": {
+                            "runs": 3,
+                            "balls": 3,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 0,
+                            "strike_rate": 100.0,
+                            "ones": 3,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 0.0,
+                                "dot_ball_frequency": 0.0
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "g_motie",
+                        "score": {
+                            "balls": 18,
+                            "runs": 16,
+                            "economy": 5.33,
+                            "wickets": 0,
+                            "extras": 0,
+                            "maiden_overs": 0,
+                            "overs": [
+                                3,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 4,
+                                "wides": 0,
+                                "no_balls": 0,
+                                "fours": 0,
+                                "sixes": 0
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 0,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 22.22222222222222,
+                                "dot_ball_frequency": 4.5
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 113,
+                    "wickets": 3,
+                    "run_rate": 10.27,
+                    "title": "113/3 in 11.0",
+                    "req_run_rate": null,
+                    "req_balls": null,
+                    "req_runs": null
+                },
+                "sixes": 0,
+                "fours": 0,
+                "extras": 0,
+                "wides": 0,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            }
+        ],
+        "previous_page_index": {
+            "innings": "a_1",
+            "over_number": 1
+        },
+        "next_page_index": {
+            "innings": "b_1",
+            "over_number": 1
+        },
+        "previous_page_key": "a_1_1",
+        "next_page_key": "b_1_1"
+    },
+    "cache": {
+        "key": "api:rz:v5_cricket_match_over-summary:a-rz--cricket--c41880303775789522949_a_1_11",
+        "expires": 1750966479.323697,
+        "etag": "ET:M313048322469872669212:0",
+        "max_age": 300
+    },
+    "schema": {
+        "major_version": "5.0",
+        "minor_version": "2"
+    },
+    "error": null,
+    "http_status_code": 200
+}
+
+
+page :- a_1_1
+
+
+{
+    "data": {
+        "summaries": [
+            {
+                "index": {
+                    "innings": "a_1",
+                    "over_number": 10
+                },
+                "runs": 9,
+                "wickets": 1,
+                "strikers": [
+                    {
+                        "player_key": "hy_brook",
+                        "score": {
+                            "runs": 6,
+                            "balls": 5,
+                            "fours": 1,
+                            "sixes": 0,
+                            "dot_balls": 2,
+                            "strike_rate": 120.0,
+                            "ones": 2,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 66.66666666666666,
+                                "boundary_frequency": 5.0,
+                                "dot_ball_percentage": 40.0,
+                                "dot_ball_frequency": 2.5
+                            }
+                        },
+                        "is_dismissed": true
+                    },
+                    {
+                        "player_key": "j_buttler",
+                        "score": {
+                            "runs": 54,
+                            "balls": 30,
+                            "fours": 3,
+                            "sixes": 3,
+                            "dot_balls": 5,
+                            "strike_rate": 180.0,
+                            "ones": 15,
+                            "twos": 3,
+                            "threes": 1,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 55.55555555555556,
+                                "boundary_frequency": 5.0,
+                                "dot_ball_percentage": 16.666666666666664,
+                                "dot_ball_frequency": 6.0
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "t_banton",
+                        "score": {
+                            "runs": 2,
+                            "balls": 2,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 0,
+                            "strike_rate": 100.0,
+                            "ones": 2,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 0.0,
+                                "dot_ball_frequency": 0.0
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "ro_chase",
+                        "score": {
+                            "balls": 6,
+                            "runs": 9,
+                            "economy": 9.0,
+                            "wickets": 1,
+                            "extras": 1,
+                            "maiden_overs": 0,
+                            "overs": [
+                                1,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 1,
+                                "wides": 1,
+                                "no_balls": 0,
+                                "fours": 1,
+                                "sixes": 0
+                            },
+                            "wickets_breakup": {
+                                "bowled": 1,
+                                "caught": 0,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 44.44444444444444,
+                                "boundary_frequency": 6.0,
+                                "dot_ball_percentage": 16.666666666666664,
+                                "dot_ball_frequency": 6.0
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 108,
+                    "wickets": 3,
+                    "run_rate": 10.8,
+                    "title": "108/3 in 10.0",
+                    "req_run_rate": null,
+                    "req_balls": null,
+                    "req_runs": null
+                },
+                "sixes": 0,
+                "fours": 1,
+                "extras": 1,
+                "wides": 1,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "a_1",
+                    "over_number": 9
+                },
+                "runs": 4,
+                "wickets": 0,
+                "strikers": [
+                    {
+                        "player_key": "j_buttler",
+                        "score": {
+                            "runs": 52,
+                            "balls": 28,
+                            "fours": 3,
+                            "sixes": 3,
+                            "dot_balls": 5,
+                            "strike_rate": 185.71,
+                            "ones": 13,
+                            "twos": 3,
+                            "threes": 1,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 57.692307692307686,
+                                "boundary_frequency": 4.666666666666667,
+                                "dot_ball_percentage": 17.857142857142858,
+                                "dot_ball_frequency": 5.6
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "hy_brook",
+                        "score": {
+                            "runs": 2,
+                            "balls": 3,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 1,
+                            "strike_rate": 66.67,
+                            "ones": 2,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 33.33333333333333,
+                                "dot_ball_frequency": 3.0
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "g_motie",
+                        "score": {
+                            "balls": 12,
+                            "runs": 11,
+                            "economy": 5.5,
+                            "wickets": 0,
+                            "extras": 0,
+                            "maiden_overs": 0,
+                            "overs": [
+                                2,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 2,
+                                "wides": 0,
+                                "no_balls": 0,
+                                "fours": 0,
+                                "sixes": 0
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 0,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 16.666666666666664,
+                                "dot_ball_frequency": 6.0
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 99,
+                    "wickets": 2,
+                    "run_rate": 11.0,
+                    "title": "99/2 in 9.0",
+                    "req_run_rate": null,
+                    "req_balls": null,
+                    "req_runs": null
+                },
+                "sixes": 0,
+                "fours": 0,
+                "extras": 0,
+                "wides": 0,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "a_1",
+                    "over_number": 8
+                },
+                "runs": 10,
+                "wickets": 1,
+                "strikers": [
+                    {
+                        "player_key": "j_buttler",
+                        "score": {
+                            "runs": 50,
+                            "balls": 25,
+                            "fours": 3,
+                            "sixes": 3,
+                            "dot_balls": 4,
+                            "strike_rate": 200.0,
+                            "ones": 11,
+                            "twos": 3,
+                            "threes": 1,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 60.0,
+                                "boundary_frequency": 4.166666666666667,
+                                "dot_ball_percentage": 16.0,
+                                "dot_ball_frequency": 6.25
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "jami_smith",
+                        "score": {
+                            "runs": 38,
+                            "balls": 20,
+                            "fours": 4,
+                            "sixes": 2,
+                            "dot_balls": 5,
+                            "strike_rate": 190.0,
+                            "ones": 8,
+                            "twos": 1,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 73.68421052631578,
+                                "boundary_frequency": 3.3333333333333335,
+                                "dot_ball_percentage": 25.0,
+                                "dot_ball_frequency": 4.0
+                            }
+                        },
+                        "is_dismissed": true
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "r_shepherd",
+                        "score": {
+                            "balls": 12,
+                            "runs": 16,
+                            "economy": 8.0,
+                            "wickets": 2,
+                            "extras": 2,
+                            "maiden_overs": 0,
+                            "overs": [
+                                2,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 5,
+                                "wides": 2,
+                                "no_balls": 0,
+                                "fours": 2,
+                                "sixes": 0
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 2,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 50.0,
+                                "boundary_frequency": 6.0,
+                                "dot_ball_percentage": 41.66666666666667,
+                                "dot_ball_frequency": 2.4
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 95,
+                    "wickets": 2,
+                    "run_rate": 11.88,
+                    "title": "95/2 in 8.0",
+                    "req_run_rate": null,
+                    "req_balls": null,
+                    "req_runs": null
+                },
+                "sixes": 0,
+                "fours": 1,
+                "extras": 1,
+                "wides": 1,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "a_1",
+                    "over_number": 7
+                },
+                "runs": 7,
+                "wickets": 0,
+                "strikers": [
+                    {
+                        "player_key": "j_buttler",
+                        "score": {
+                            "runs": 48,
+                            "balls": 23,
+                            "fours": 3,
+                            "sixes": 3,
+                            "dot_balls": 4,
+                            "strike_rate": 208.7,
+                            "ones": 9,
+                            "twos": 3,
+                            "threes": 1,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 62.5,
+                                "boundary_frequency": 3.8333333333333335,
+                                "dot_ball_percentage": 17.391304347826086,
+                                "dot_ball_frequency": 5.75
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "jami_smith",
+                        "score": {
+                            "runs": 31,
+                            "balls": 16,
+                            "fours": 3,
+                            "sixes": 2,
+                            "dot_balls": 4,
+                            "strike_rate": 193.75,
+                            "ones": 7,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 77.41935483870968,
+                                "boundary_frequency": 3.2,
+                                "dot_ball_percentage": 25.0,
+                                "dot_ball_frequency": 4.0
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "g_motie",
+                        "score": {
+                            "balls": 6,
+                            "runs": 7,
+                            "economy": 7.0,
+                            "wickets": 0,
+                            "extras": 0,
+                            "maiden_overs": 0,
+                            "overs": [
+                                1,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 0,
+                                "wides": 0,
+                                "no_balls": 0,
+                                "fours": 0,
+                                "sixes": 0
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 0,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 0.0,
+                                "dot_ball_frequency": 0.0
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 85,
+                    "wickets": 1,
+                    "run_rate": 12.14,
+                    "title": "85/1 in 7.0",
+                    "req_run_rate": null,
+                    "req_balls": null,
+                    "req_runs": null
+                },
+                "sixes": 0,
+                "fours": 0,
+                "extras": 0,
+                "wides": 0,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "a_1",
+                    "over_number": 6
+                },
+                "runs": 23,
+                "wickets": 0,
+                "strikers": [
+                    {
+                        "player_key": "j_buttler",
+                        "score": {
+                            "runs": 43,
+                            "balls": 19,
+                            "fours": 3,
+                            "sixes": 3,
+                            "dot_balls": 4,
+                            "strike_rate": 226.32,
+                            "ones": 6,
+                            "twos": 2,
+                            "threes": 1,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 69.76744186046511,
+                                "boundary_frequency": 3.1666666666666665,
+                                "dot_ball_percentage": 21.052631578947366,
+                                "dot_ball_frequency": 4.75
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "jami_smith",
+                        "score": {
+                            "runs": 29,
+                            "balls": 14,
+                            "fours": 3,
+                            "sixes": 2,
+                            "dot_balls": 4,
+                            "strike_rate": 207.14,
+                            "ones": 5,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 82.75862068965517,
+                                "boundary_frequency": 2.8,
+                                "dot_ball_percentage": 28.57142857142857,
+                                "dot_ball_frequency": 3.5
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "al_joseph",
+                        "score": {
+                            "balls": 12,
+                            "runs": 29,
+                            "economy": 14.5,
+                            "wickets": 0,
+                            "extras": 0,
+                            "maiden_overs": 0,
+                            "overs": [
+                                2,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 3,
+                                "wides": 0,
+                                "no_balls": 0,
+                                "fours": 1,
+                                "sixes": 3
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 0,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 75.86206896551724,
+                                "boundary_frequency": 3.0,
+                                "dot_ball_percentage": 25.0,
+                                "dot_ball_frequency": 4.0
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 78,
+                    "wickets": 1,
+                    "run_rate": 13.0,
+                    "title": "78/1 in 6.0",
+                    "req_run_rate": null,
+                    "req_balls": null,
+                    "req_runs": null
+                },
+                "sixes": 3,
+                "fours": 1,
+                "extras": 0,
+                "wides": 0,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "a_1",
+                    "over_number": 5
+                },
+                "runs": 22,
+                "wickets": 0,
+                "strikers": [
+                    {
+                        "player_key": "j_buttler",
+                        "score": {
+                            "runs": 20,
+                            "balls": 14,
+                            "fours": 2,
+                            "sixes": 0,
+                            "dot_balls": 4,
+                            "strike_rate": 142.86,
+                            "ones": 5,
+                            "twos": 2,
+                            "threes": 1,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 40.0,
+                                "boundary_frequency": 7.0,
+                                "dot_ball_percentage": 28.57142857142857,
+                                "dot_ball_frequency": 3.5
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "jami_smith",
+                        "score": {
+                            "runs": 29,
+                            "balls": 13,
+                            "fours": 3,
+                            "sixes": 2,
+                            "dot_balls": 3,
+                            "strike_rate": 223.08,
+                            "ones": 5,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 82.75862068965517,
+                                "boundary_frequency": 2.6,
+                                "dot_ball_percentage": 23.076923076923077,
+                                "dot_ball_frequency": 4.333333333333333
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "a_russell",
+                        "score": {
+                            "balls": 6,
+                            "runs": 22,
+                            "economy": 22.0,
+                            "wickets": 0,
+                            "extras": 1,
+                            "maiden_overs": 0,
+                            "overs": [
+                                1,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 1,
+                                "wides": 0,
+                                "no_balls": 1,
+                                "fours": 1,
+                                "sixes": 2
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 0,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 72.72727272727273,
+                                "boundary_frequency": 2.0,
+                                "dot_ball_percentage": 16.666666666666664,
+                                "dot_ball_frequency": 6.0
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 55,
+                    "wickets": 1,
+                    "run_rate": 11.0,
+                    "title": "55/1 in 5.0",
+                    "req_run_rate": null,
+                    "req_balls": null,
+                    "req_runs": null
+                },
+                "sixes": 2,
+                "fours": 1,
+                "extras": 1,
+                "wides": 0,
+                "no_balls": 1,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "a_1",
+                    "over_number": 4
+                },
+                "runs": 5,
+                "wickets": 0,
+                "strikers": [
+                    {
+                        "player_key": "jami_smith",
+                        "score": {
+                            "runs": 16,
+                            "balls": 9,
+                            "fours": 3,
+                            "sixes": 0,
+                            "dot_balls": 2,
+                            "strike_rate": 177.78,
+                            "ones": 4,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 75.0,
+                                "boundary_frequency": 3.0,
+                                "dot_ball_percentage": 22.22222222222222,
+                                "dot_ball_frequency": 4.5
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "j_buttler",
+                        "score": {
+                            "runs": 12,
+                            "balls": 11,
+                            "fours": 1,
+                            "sixes": 0,
+                            "dot_balls": 4,
+                            "strike_rate": 109.09,
+                            "ones": 4,
+                            "twos": 2,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 33.33333333333333,
+                                "boundary_frequency": 11.0,
+                                "dot_ball_percentage": 36.36363636363637,
+                                "dot_ball_frequency": 2.75
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "j_holder",
+                        "score": {
+                            "balls": 12,
+                            "runs": 21,
+                            "economy": 10.5,
+                            "wickets": 0,
+                            "extras": 3,
+                            "maiden_overs": 0,
+                            "overs": [
+                                2,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 3,
+                                "wides": 3,
+                                "no_balls": 0,
+                                "fours": 3,
+                                "sixes": 0
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 0,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 57.14285714285714,
+                                "boundary_frequency": 4.0,
+                                "dot_ball_percentage": 25.0,
+                                "dot_ball_frequency": 4.0
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 33,
+                    "wickets": 1,
+                    "run_rate": 8.25,
+                    "title": "33/1 in 4.0",
+                    "req_run_rate": null,
+                    "req_balls": null,
+                    "req_runs": null
+                },
+                "sixes": 0,
+                "fours": 0,
+                "extras": 1,
+                "wides": 1,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "a_1",
+                    "over_number": 3
+                },
+                "runs": 6,
+                "wickets": 0,
+                "strikers": [
+                    {
+                        "player_key": "j_buttler",
+                        "score": {
+                            "runs": 10,
+                            "balls": 8,
+                            "fours": 1,
+                            "sixes": 0,
+                            "dot_balls": 3,
+                            "strike_rate": 125.0,
+                            "ones": 2,
+                            "twos": 2,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 40.0,
+                                "boundary_frequency": 8.0,
+                                "dot_ball_percentage": 37.5,
+                                "dot_ball_frequency": 2.6666666666666665
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "jami_smith",
+                        "score": {
+                            "runs": 14,
+                            "balls": 6,
+                            "fours": 3,
+                            "sixes": 0,
+                            "dot_balls": 1,
+                            "strike_rate": 233.33,
+                            "ones": 2,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 85.71428571428571,
+                                "boundary_frequency": 2.0,
+                                "dot_ball_percentage": 16.666666666666664,
+                                "dot_ball_frequency": 6.0
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "al_joseph",
+                        "score": {
+                            "balls": 6,
+                            "runs": 6,
+                            "economy": 6.0,
+                            "wickets": 0,
+                            "extras": 0,
+                            "maiden_overs": 0,
+                            "overs": [
+                                1,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 2,
+                                "wides": 0,
+                                "no_balls": 0,
+                                "fours": 0,
+                                "sixes": 0
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 0,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 33.33333333333333,
+                                "dot_ball_frequency": 3.0
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 28,
+                    "wickets": 1,
+                    "run_rate": 9.33,
+                    "title": "28/1 in 3.0",
+                    "req_run_rate": null,
+                    "req_balls": null,
+                    "req_runs": null
+                },
+                "sixes": 0,
+                "fours": 0,
+                "extras": 0,
+                "wides": 0,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "a_1",
+                    "over_number": 2
+                },
+                "runs": 6,
+                "wickets": 1,
+                "strikers": [
+                    {
+                        "player_key": "b_duckett",
+                        "score": {
+                            "runs": 1,
+                            "balls": 4,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 3,
+                            "strike_rate": 25.0,
+                            "ones": 1,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 75.0,
+                                "dot_ball_frequency": 1.3333333333333333
+                            }
+                        },
+                        "is_dismissed": true
+                    },
+                    {
+                        "player_key": "jami_smith",
+                        "score": {
+                            "runs": 13,
+                            "balls": 5,
+                            "fours": 3,
+                            "sixes": 0,
+                            "dot_balls": 1,
+                            "strike_rate": 260.0,
+                            "ones": 1,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 92.3076923076923,
+                                "boundary_frequency": 1.6666666666666667,
+                                "dot_ball_percentage": 20.0,
+                                "dot_ball_frequency": 5.0
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "j_buttler",
+                        "score": {
+                            "runs": 5,
+                            "balls": 3,
+                            "fours": 1,
+                            "sixes": 0,
+                            "dot_balls": 1,
+                            "strike_rate": 166.67,
+                            "ones": 1,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 80.0,
+                                "boundary_frequency": 3.0,
+                                "dot_ball_percentage": 33.33333333333333,
+                                "dot_ball_frequency": 3.0
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "r_shepherd",
+                        "score": {
+                            "balls": 6,
+                            "runs": 6,
+                            "economy": 6.0,
+                            "wickets": 1,
+                            "extras": 1,
+                            "maiden_overs": 0,
+                            "overs": [
+                                1,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 4,
+                                "wides": 1,
+                                "no_balls": 0,
+                                "fours": 1,
+                                "sixes": 0
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 1,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 66.66666666666666,
+                                "boundary_frequency": 6.0,
+                                "dot_ball_percentage": 66.66666666666666,
+                                "dot_ball_frequency": 1.5
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 22,
+                    "wickets": 1,
+                    "run_rate": 11.0,
+                    "title": "22/1 in 2.0",
+                    "req_run_rate": null,
+                    "req_balls": null,
+                    "req_runs": null
+                },
+                "sixes": 0,
+                "fours": 1,
+                "extras": 1,
+                "wides": 1,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            },
+            {
+                "index": {
+                    "innings": "a_1",
+                    "over_number": 1
+                },
+                "runs": 16,
+                "wickets": 0,
+                "strikers": [
+                    {
+                        "player_key": "jami_smith",
+                        "score": {
+                            "runs": 13,
+                            "balls": 5,
+                            "fours": 3,
+                            "sixes": 0,
+                            "dot_balls": 1,
+                            "strike_rate": 260.0,
+                            "ones": 1,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 92.3076923076923,
+                                "boundary_frequency": 1.6666666666666667,
+                                "dot_ball_percentage": 20.0,
+                                "dot_ball_frequency": 5.0
+                            }
+                        },
+                        "is_dismissed": false
+                    },
+                    {
+                        "player_key": "b_duckett",
+                        "score": {
+                            "runs": 1,
+                            "balls": 1,
+                            "fours": 0,
+                            "sixes": 0,
+                            "dot_balls": 0,
+                            "strike_rate": 100.0,
+                            "ones": 1,
+                            "twos": 0,
+                            "threes": 0,
+                            "fives": 0,
+                            "stats": {
+                                "boundary_percentage": 0.0,
+                                "boundary_frequency": 0.0,
+                                "dot_ball_percentage": 0.0,
+                                "dot_ball_frequency": 0.0
+                            }
+                        },
+                        "is_dismissed": false
+                    }
+                ],
+                "bowlers": [
+                    {
+                        "player_key": "j_holder",
+                        "score": {
+                            "balls": 6,
+                            "runs": 16,
+                            "economy": 16.0,
+                            "wickets": 0,
+                            "extras": 2,
+                            "maiden_overs": 0,
+                            "overs": [
+                                1,
+                                0
+                            ],
+                            "balls_breakup": {
+                                "dot_balls": 1,
+                                "wides": 2,
+                                "no_balls": 0,
+                                "fours": 3,
+                                "sixes": 0
+                            },
+                            "wickets_breakup": {
+                                "bowled": 0,
+                                "caught": 0,
+                                "lbw": 0,
+                                "stumping": 0
+                            },
+                            "stats": {
+                                "boundary_percentage": 75.0,
+                                "boundary_frequency": 2.0,
+                                "dot_ball_percentage": 16.666666666666664,
+                                "dot_ball_frequency": 6.0
+                            }
+                        }
+                    }
+                ],
+                "match_score": {
+                    "runs": 16,
+                    "wickets": 0,
+                    "run_rate": 16.0,
+                    "title": "16/0 in 1.0",
+                    "req_run_rate": null,
+                    "req_balls": null,
+                    "req_runs": null
+                },
+                "sixes": 0,
+                "fours": 3,
+                "extras": 2,
+                "wides": 2,
+                "no_balls": 0,
+                "leg_byes": 0,
+                "byes": 0
+            }
+        ],
+        "previous_page_index": null,
+        "next_page_index": {
+            "innings": "a_1",
+            "over_number": 11
+        },
+        "previous_page_key": null,
+        "next_page_key": "a_1_11"
+    },
+    "cache": {
+        "key": "api:rz:v5_cricket_match_over-summary:a-rz--cricket--c41880303775789522949_a_1_1",
+        "expires": 1750966569.453629,
+        "etag": "ET:rp13048322470250157913:0",
+        "max_age": 300
+    },
+    "schema": {
+        "major_version": "5.0",
+        "minor_version": "2"
+    },
+    "error": null,
+    "http_status_code": 200
+}
+
+
+
+

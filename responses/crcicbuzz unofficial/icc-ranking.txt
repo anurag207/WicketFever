@@ -1,0 +1,183 @@
+// curl --request GET \
+// 	--url 'https://unofficial-cricbuzz.p.rapidapi.com/stats/get-icc-rankings?category=batsmen&formatType=test&isWomen=0' \
+// 	--header 'x-rapidapi-host: unofficial-cricbuzz.p.rapidapi.com' \
+// 	--header 'x-rapidapi-key: dd61ad016bmsh1530ff16c3b005ep18e8b4jsn95dcace51130'
+//here by updating the category and formatType we can get the rankings for different formats and categories
+//categories teams, players, batsmen, bowlers,
+//format type 
+//    for men:- t20, test, odi
+//    for women:- test odi
+//isWomen: 0/1
+{
+    "rank": [
+      {
+        "id": "10182",
+        "rank": "1",
+        "name": "Marnus Labuschagne",
+        "country": "Australia",
+        "rating": "935",
+        "points": "935",
+        "lastUpdatedOn": "2022-02-18",
+        "trend": "Flat",
+        "faceImageId": "184115"
+      },
+      {
+        "id": "8019",
+        "rank": "2",
+        "name": "Joe Root",
+        "country": "England",
+        "rating": "872",
+        "points": "872",
+        "lastUpdatedOn": "2022-02-18",
+        "trend": "Flat",
+        "faceImageId": "170942"
+      },
+      {
+        "id": "6326",
+        "rank": "3",
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "rating": "862",
+        "points": "862",
+        "lastUpdatedOn": "2022-02-18",
+        "trend": "Flat",
+        "faceImageId": "170733"
+      },
+      {
+        "id": "2250",
+        "rank": "4",
+        "name": "Steven Smith",
+        "country": "Australia",
+        "rating": "845",
+        "points": "845",
+        "lastUpdatedOn": "2022-02-18",
+        "trend": "Flat",
+        "faceImageId": "170624"
+      },
+      {
+        "id": "8497",
+        "rank": "5",
+        "name": "Travis Head",
+        "country": "Australia",
+        "rating": "773",
+        "points": "773",
+        "lastUpdatedOn": "2022-02-18",
+        "trend": "Flat",
+        "faceImageId": "147703"
+      },
+      {
+        "id": "576",
+        "rank": "6",
+        "name": "Rohit Sharma",
+        "country": "India",
+        "rating": "773",
+        "points": "773",
+        "lastUpdatedOn": "2022-02-18",
+        "trend": "Flat",
+        "faceImageId": "170658"
+      },
+      {
+        "id": "1413",
+        "rank": "7",
+        "name": "Virat Kohli",
+        "country": "India",
+        "rating": "767",
+        "points": "767",
+        "lastUpdatedOn": "2022-02-18",
+        "trend": "Flat",
+        "faceImageId": "170661"
+      },
+      {
+        "id": "7952",
+        "rank": "8",
+        "name": "Dimuth Karunaratne",
+        "country": "Sri Lanka",
+        "rating": "754",
+        "points": "754",
+        "lastUpdatedOn": "2022-02-18",
+        "trend": "Flat",
+        "faceImageId": "170700"
+      },
+      {
+        "id": "8359",
+        "rank": "9",
+        "name": "Babar Azam",
+        "country": "Pakistan",
+        "rating": "750",
+        "points": "750",
+        "lastUpdatedOn": "2022-02-18",
+        "trend": "Flat",
+        "faceImageId": "170768"
+      },
+      {
+        "id": "8216",
+        "rank": "10",
+        "name": "Tom Latham",
+        "country": "New Zealand",
+        "rating": "728",
+        "points": "728",
+        "lastUpdatedOn": "2022-02-18",
+        "trend": "Flat",
+        "faceImageId": "170743"
+      },
+      {
+        "id": "1739",
+        "rank": "11",
+        "name": "David Warner",
+        "country": "Australia",
+        "rating": "714",
+        "points": "714",
+        "lastUpdatedOn": "2022-02-18",
+        "trend": "Flat",
+        "faceImageId": "170635"
+      },
+      {
+        "id": "2239",
+        "rank": "12",
+        "name": "Dean Elgar",
+        "country": "South Africa",
+        "rating": "713",
+        "points": "713",
+        "lastUpdatedOn": "2022-02-18",
+        "trend": "Flat",
+        "faceImageId": "157353"
+      },
+      {
+        "id": "8520",
+        "rank": "13",
+        "name": "Quinton de Kock",
+        "country": "South Africa",
+        "rating": "701",
+        "points": "701",
+        "lastUpdatedOn": "2022-02-18",
+        "trend": "Flat",
+        "faceImageId": "170698"
+      },
+      {
+        "id": "10744",
+        "rank": "14",
+        "name": "Rishabh Pant",
+        "country": "India",
+        "rating": "699",
+        "points": "699",
+        "lastUpdatedOn": "2022-02-18",
+        "trend": "Flat",
+        "faceImageId": "171010"
+      },
+      {
+        "id": "8540",
+        "rank": "15",
+        "name": "Liton Das",
+        "country": "Bangladesh",
+        "rating": "683",
+        "points": "683",
+        "lastUpdatedOn": "2022-02-18",
+        "trend": "Flat",
+        "faceImageId": "170914"
+      }
+    ],
+    "appIndex": {
+      "seoTitle": "ICC Cricket Rankings - Top 100 Batsmen | Cricbuzz.com",
+      "webURL": "www.cricbuzz.com/cricket-stats/icc-rankings"
+    }
+  }
