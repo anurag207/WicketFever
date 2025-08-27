@@ -124,7 +124,7 @@ class LiveMatchesPoller {
       ]);
 
       //  Push updates via socket of live scorecard which is polled every 5s
-      // socketScorecardService.pushScorecardUpdate(matchKey, detailedScorecard);
+      socketScorecardService.pushScorecardUpdate(matchKey, detailedScorecard);
       
       // Update MongoDB backup
       await Match.findOneAndUpdate(
