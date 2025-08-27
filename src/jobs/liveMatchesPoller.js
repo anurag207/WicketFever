@@ -2,7 +2,7 @@ const cron = require('node-cron');
 const Match = require('../models/Match');
 const roanuzService = require('../services/roanuzService');
 const cacheService = require('../services/cacheService');
-// const socketScorecardService = require('../services/socketScorecardService'); 
+const socketScorecardService = require('../services/socketScorecardService'); 
 const { REDIS_TTL_LIVE ,REDIS_TTL_SHORT,REDIS_TTL_MEDIUM} = require('../config/constants');
 
 /**
