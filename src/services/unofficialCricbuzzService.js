@@ -3,7 +3,7 @@ const { RAPID_API_HOST, RAPID_API_KEY, CRICBUZZ_API_URL } = require('../config/c
 
 class UnofficialCricbuzzService {
   constructor() {
-    this.requestQueue = [];
+    this.xrequestQueue = [];
     this.isProcessingQueue = false;
     this.requestsThisSecond = 0;
     this.currentSecond = 0;

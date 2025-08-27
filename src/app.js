@@ -17,6 +17,8 @@ const tournamentRoutes = require('./routes/tournamentRoutes');
 const countryRoutes = require('./routes/countryRoutes');
 const monitorRoutes = require('./routes/monitorRoutes');
 const searchRoutes = require('./routes/searchRoutes');
+const newsRoutes = require('./routes/newsRoutes');
+
 
 const rankingsRoutes = require('./routes/rankingsRoutes'); //unofficial
 const unofficialRoutes = require('./routes/unofficialRoutes'); //unofficial
@@ -46,6 +48,7 @@ app.use('/api/monitor', monitorRoutes);
 app.use('/api/rankings', rankingsRoutes);
 app.use('/api/search', searchRoutes);
 app.use('/api/unofficial', unofficialRoutes);
+app.use('/api/news', newsRoutes);
 
 app.get('/', (req, res) => {
   res.status(200).json({ 
@@ -106,6 +109,9 @@ app.get('/', (req, res) => {
       unofficial: {
         news: '/api/unofficial/news',
         playerComparison: '/api/unofficial/players/compare?player1Id=11808&player2Id=576'
+      },
+      news :{
+        list: '/api/news',
       }
     }
   });

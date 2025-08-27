@@ -486,6 +486,27 @@ class RoanuzService {
       throw error;
     }
   }
+  /**
+   * Get aggregated cricket news
+   * @param {Object} options - Cache options
+   * @returns {Promise} Aggregated cricket news data
+   */
+
+  async getNews(options = {}) {
+    try {
+      const url = `/cricket/${ROANUZ_PROJ_KEY}/news-aggregation/`;
+      console.log(`Fetching featured matches with URL: ${url}`);
+      return await this.makeRequest('get', url, null, {
+        useCache: true,
+        cacheTTL: REDIS_TTL_MEDIUM,
+        ...options
+      });
+    } catch (error) {
+      console.error(`Error fetching news`, error.message);
+      throw error;
+    }
+  }
+
 }
 
 module.exports = new RoanuzService(); 
