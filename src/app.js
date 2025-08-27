@@ -9,7 +9,7 @@ const connectDB = require('./config/db');
 const { PORT, ROANUZ_API_URL, ROANUZ_PROJ_KEY, ROANUZ_API_KEY } = require('./config/constants');
 
 const cacheService = require('./services/cacheService');
-// const socketScorecardService = require('./services/socketScorecardService');
+const socketScorecardService = require('./services/socketScorecardService');
 
 const apiRoutes = require('./routes/api');
 const matchRoutes = require('./routes/matchRoutes');
@@ -129,7 +129,7 @@ app.use((err, req, res, next) => {
 
 const server = http.createServer(app);
 // Initialize SocereCard Socket Service on top of http server for socket connections
-// socketScorecardService.initialize(server);
+socketScorecardService.initialize(server);
 
 // Initialize Rankings Scheduler and Live Matches Poller after database connection
 const rankingsScheduler = require('./jobs/rankingsScheduler');

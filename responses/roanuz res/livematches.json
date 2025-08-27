@@ -1,0 +1,79 @@
+{
+    "data": {
+        "matches": [
+            {
+                "key": "a-rz--cricket--9a1948939886006509569",
+                "name": "Mangalore Dragons vs Hubli Tigers",
+                "short_name": "MGD vs HBT",
+                "sub_title": "Qualifier 1",
+                "status": "started",
+                "start_at": 1756201500,
+                "tournament": {
+                    "key": "a-rz--cricket--bcci--maharaja-trophy-ksca-t20-51ee9--2025-2fSP",
+                    "name": "Maharaja Trophy KSCA T20, 2025",
+                    "short_name": "MTKSCAT20",
+                    "alternate_name": "Maharaja Trophy KSCA T20, 2025",
+                    "alternate_short_name": "MTKSCAT20"
+                },
+                "metric_group": "MG100",
+                "sport": "cricket",
+                "winner": null,
+                "teams": {
+                    "a": {
+                        "key": "mgu",
+                        "code": "MGD",
+                        "name": "Mangalore Dragons",
+                        "alternate_name": "Mangalore Dragons",
+                        "alternate_code": "MGD",
+                        "gender_name": "Mangalore Dragons Men",
+                        "country_code": "IND",
+                        "flag": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 900 600\"><path fill=\"#f93\" d=\"M0 0h900v200H0z\"/><path fill=\"#fff\" d=\"M0 200h900v200H0z\"/><path fill=\"#128807\" d=\"M0 400h900v200H0z\"/><g transform=\"translate(450 300)\"><circle r=\"92.5\" fill=\"#008\"/><circle r=\"80\" fill=\"#fff\"/><circle r=\"16\" fill=\"#008\"/><g id=\"d\"><g id=\"c\"><g id=\"b\"><g id=\"a\" fill=\"#008\"><circle r=\"3.5\" transform=\"rotate(7.5 -40 610.282)\"/><path d=\"m0 80 3-48-2-16.031V15h-2v.969L-3 32l3 48z\"/></g><use xlink:href=\"#a\" transform=\"rotate(15)\"/></g><use xlink:href=\"#b\" transform=\"rotate(30)\"/></g><use xlink:href=\"#c\" transform=\"rotate(60)\"/></g><use xlink:href=\"#d\" transform=\"rotate(120)\"/><use xlink:href=\"#d\" transform=\"rotate(-120)\"/></g></svg>"
+                    },
+                    "b": {
+                        "key": "hbt",
+                        "code": "HBT",
+                        "name": "Hubli Tigers",
+                        "alternate_name": "Hubli Tigers",
+                        "alternate_code": "HBT",
+                        "gender_name": "Hubli Tigers Men",
+                        "country_code": "IND",
+                        "flag": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 900 600\"><path fill=\"#f93\" d=\"M0 0h900v200H0z\"/><path fill=\"#fff\" d=\"M0 200h900v200H0z\"/><path fill=\"#128807\" d=\"M0 400h900v200H0z\"/><g transform=\"translate(450 300)\"><circle r=\"92.5\" fill=\"#008\"/><circle r=\"80\" fill=\"#fff\"/><circle r=\"16\" fill=\"#008\"/><g id=\"d\"><g id=\"c\"><g id=\"b\"><g id=\"a\" fill=\"#008\"><circle r=\"3.5\" transform=\"rotate(7.5 -40 610.282)\"/><path d=\"m0 80 3-48-2-16.031V15h-2v.969L-3 32l3 48z\"/></g><use xlink:href=\"#a\" transform=\"rotate(15)\"/></g><use xlink:href=\"#b\" transform=\"rotate(30)\"/></g><use xlink:href=\"#c\" transform=\"rotate(60)\"/></g><use xlink:href=\"#d\" transform=\"rotate(120)\"/><use xlink:href=\"#d\" transform=\"rotate(-120)\"/></g></svg>"
+                    }
+                },
+                "venue": {
+                    "key": "c__stadium__srikantadatta_narasimha_raja_wadiyar_ground__32c13",
+                    "name": "Srikantadatta Narasimharaja Wodeyar Indoor Stadium",
+                    "city": "Mysuru",
+                    "country": {
+                        "short_code": "IN",
+                        "code": "IND",
+                        "name": "India",
+                        "official_name": "Republic of India",
+                        "is_region": false
+                    },
+                    "geolocation": "12.3109824,76.6253213"
+                },
+                "expected_start_at": null,
+                "association": {
+                    "key": "c__board__bcci__b13f0",
+                    "code": "BCCI",
+                    "name": "Board of Control for Cricket in India",
+                    "country": {
+                        "short_code": "IN",
+                        "code": "IND",
+                        "name": "India",
+                        "official_name": "Republic of India",
+                        "is_region": false
+                    },
+                    "parent": null
+                },
+                "messages": [],
+                "gender": "male",
+                "tour_key": null,
+                "format": "t20",
+                "estimated_end_date": 1756215900,
+                "completed_date_approximate": null
+            }
+        ]
+    }
+}
