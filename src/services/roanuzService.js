@@ -631,22 +631,45 @@ class RoanuzService {
    * - Uses POST /match/{matchKey}/subscribe/
    * - No caching (push-registration call)
    */
-  async subscribeToMatch(matchKey) {
-    // Keeping the shape consistent with your other methods
-    const url = `/cricket/${ROANUZ_PROJ_KEY}/match/${matchKey}/subscribe/`;
-    // Disable cache explicitly; axios will send JSON & include rs-token from createApiClient()
-    return await this.makeRequest('post', url, { method: 'web_hook' }, { useCache: false });
-  }
+  // async subscribeToMatch(matchKey) {
+  //   // Keeping the shape consistent with your other methods
+  //   const url = `/cricket/${ROANUZ_PROJ_KEY}/match/${matchKey}/subscribe/`;
+  //   // Disable cache explicitly; axios will send JSON & include rs-token from createApiClient()
+  //   return await this.makeRequest('post', url, { method: 'web_hook' }, { useCache: false });
+  // }
 
   /**
    * Unsubscribe from a match webhook
    * - Uses POST /match/{matchKey}/unsubscribe/
    * - No caching
    */
-  async unsubscribeFromMatch(matchKey) {
-    const url = `/cricket/${ROANUZ_PROJ_KEY}/match/${matchKey}/unsubscribe/`;
-    return await this.makeRequest('post', url, { method: 'web_hook' }, { useCache: false });
-  }
+  // async unsubscribeFromMatch(matchKey) {
+  //   const url = `/cricket/${ROANUZ_PROJ_KEY}/match/${matchKey}/unsubscribe/`;
+  //   return await this.makeRequest('post', url, { method: 'web_hook' }, { useCache: false });
+  // }
+
+  // services/roanuzService.js
+// ... existing code ...
+
+async subscribeToMatch(matchKey) {
+  const url = `/cricket/${ROANUZ_PROJ_KEY}/match/${matchKey}/subscribe/`;
+  
+  // Stringify the body as the API expects
+  const body = JSON.stringify({ method: 'web_hook' });
+  
+  return await this.makeRequest('post', url, body, { useCache: false });
+}
+
+async unsubscribeFromMatch(matchKey) {
+  const url = `/cricket/${ROANUZ_PROJ_KEY}/match/${matchKey}/unsubscribe/`;
+  
+  // Stringify the body as the API expects
+  const body = JSON.stringify({ method: 'web_hook' });
+  
+  return await this.makeRequest('post', url, body, { useCache: false });
+}
+
+// ... existing code ...
 
 }
 

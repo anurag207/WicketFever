@@ -19,6 +19,8 @@ const monitorRoutes = require('./routes/monitorRoutes');
 const searchRoutes = require('./routes/searchRoutes');
 const newsRoutes = require('./routes/newsRoutes');
 const profileRoutes = require('./routes/profileRoutes');
+const webhookRoutes = require('./routes/webhook');
+
 // const { ROANUZ_WEBHOOK_FEED_PATH } = require('./config/constants');
 // const roanuzWebhookRouter = require('./routes/roanuzWebhook');
 
@@ -40,6 +42,8 @@ console.log('REDIS_URL provided:', process.env.REDIS_URL ? 'Yes' : 'No');
 app.use(helmet()); // Security headers
 app.use(cors()); // Enable CORS for all routes
 app.use(morgan('dev')); // Request logging
+app.use('/webhooks', webhookRoutes);
+
 // app.use('/webhooks/roanuz', roanuzWebhookRouter);
 app.use(express.json()); // Parse JSON request body
 
@@ -149,7 +153,8 @@ socketScorecardService.initialize(server);
 
 // Initialize Rankings Scheduler and Live Matches Poller after database connection
 const rankingsScheduler = require('./jobs/rankingsScheduler');
-const LiveMatchesPoller = require('./jobs/liveMatchesPoller');
+// const LiveMatchesPoller = require('./jobs/liveMatchesPoller');
+const LiveMatchesWebhook = require('./jobs/liveMatchesWebhook');
 // const LiveMatchesWebHookPoller = require('./jobs/liveMatchesWebHookPoller');
 
 const port = PORT;
@@ -169,9 +174,10 @@ server.listen(port, async () => {
   
   // Initialize live matches poller (polls top 5 live matches every 5 seconds)
   try {
-    const liveMatchesPoller = new LiveMatchesPoller();
+    // const liveMatchesPoller = new LiveMatchesPoller();
+    const liveMatchesWebhook = new LiveMatchesWebhook();
     // const liveMatchesWebHookPoller = new LiveMatchesWebHookPoller();
-    liveMatchesPoller.start();
+    liveMatchesWebhook.start();
     // liveMatchesWebHookPoller.start();
     console.log('✅ Live matches poller started successfully');
   } catch (error) {
