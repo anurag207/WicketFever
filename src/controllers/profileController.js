@@ -6,6 +6,13 @@ const User = require('../models/User');
  * Utility: maps FE payload to the fields we store.
  * Mirror matchAlerts/newsUpdates into notifications.* for convenience.
  */
+
+function sanitizeProfile(doc) {
+    if (!doc) return doc;
+    const { password, ...safe } = doc; // remove hashed password from API output
+    return safe;
+  }
+
 function mapProfilePayload(body) {
   const {
     deviceId,
@@ -82,7 +89,8 @@ class ProfileController {
 
       return res.status(200).json({
         success: true,
-        profile: updated,
+        // profile: updated,
+        profile: sanitizeProfile(updated),
       });
     } catch (err) {
       // Handle duplicate key 
@@ -134,7 +142,8 @@ class ProfileController {
 
       return res.status(200).json({
         success: true,
-        profile: updated,
+        // profile: updated,
+        profile: sanitizeProfile(updated),
       });
     } catch (err) {
       console.error('Error in updateProfile:', err);
@@ -142,6 +151,38 @@ class ProfileController {
         success: false,
         message: 'Failed to update profile',
       });
+    }
+  }
+   /** ---------------------------------------------------
+   *  GET /api/profile/:deviceId
+   * - Fetch a profile by deviceId 
+   * - Returns 404 if not found
+   * --------------------------------------------------- */
+   async getProfile(req, res) {
+    try {
+      const { deviceId } = req.params;
+      if (!deviceId) {
+        return res.status(400).json({
+          success: false,
+          message: 'deviceId is required in URL (e.g. /api/profile/:deviceId)',
+        });
+      }
+
+      const doc = await User.findOne({ deviceId }).lean();
+      if (!doc) {
+        return res.status(404).json({
+          success: false,
+          message: 'Profile not found',
+        });
+      }
+
+      return res.status(200).json({
+        success: true,
+        profile: sanitizeProfile(doc),
+      });
+    } catch (err) {
+      console.error('Error in getProfile:', err);
+      return res.status(500).json({ success: false, message: 'Failed to fetch profile' });
     }
   }
 }
