@@ -3,6 +3,12 @@ const bcrypt = require('bcryptjs');
 
 const userSchema = new mongoose.Schema(
   {
+    deviceId: {
+      type: String,
+      index: true,          // quick lookups
+      unique: true,         // one profile per device 
+      sparse: true,         // allow documents without deviceId
+    },
     name: {
       type: String,
       required: true,
@@ -12,6 +18,16 @@ const userSchema = new mongoose.Schema(
       required: true,
       unique: true,
       lowercase: true,
+      trim: true,
+    },
+    phone: {
+      type: String,
+      default: '',
+      trim: true,
+    },
+    location: {
+      type: String,
+      default: '',
       trim: true,
     },
     password: {
@@ -48,6 +64,18 @@ const userSchema = new mongoose.Schema(
         type: String,
         enum: ['light', 'dark', 'system'],
         default: 'system',
+      },
+      matchAlerts: {
+        type: Boolean,
+        default: true,
+      },
+      newsUpdates: {
+        type: Boolean,
+        default: true,
+      },
+      emailNotifications: {
+        type: Boolean,
+        default: false,
       },
     },
   },
