@@ -18,6 +18,7 @@ const countryRoutes = require('./routes/countryRoutes');
 const monitorRoutes = require('./routes/monitorRoutes');
 const searchRoutes = require('./routes/searchRoutes');
 const newsRoutes = require('./routes/newsRoutes');
+const profileRoutes = require('./routes/profileRoutes');
 // const { ROANUZ_WEBHOOK_FEED_PATH } = require('./config/constants');
 // const roanuzWebhookRouter = require('./routes/roanuzWebhook');
 
@@ -51,6 +52,7 @@ app.use('/api/rankings', rankingsRoutes);
 app.use('/api/search', searchRoutes);
 app.use('/api/unofficial', unofficialRoutes);
 app.use('/api/news', newsRoutes);
+app.use('/api/profile', profileRoutes);
 // app.use('/webhooks/roanuz', roanuzWebhookRouter);
 // app.get('/_debug/webhook-url', (req, res) => {
 //   const base = `${req.protocol}://${req.get('host')}`;
