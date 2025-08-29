@@ -345,7 +345,7 @@ exports.getLiveMatches = async (req, res) => {
     // ALWAYS fetch fresh data from Roanuz for live matches (no MongoDB cache)
     console.log('Fetching live matches from Roanuz API (fresh data for live matches)');
     const apiResponse = await roanuzService.getFeaturedMatches({
-      useCache: true,
+      useCache: false,
       cacheTTL: REDIS_TTL_LIVE // 30 seconds for live data
     });
     
