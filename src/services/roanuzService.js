@@ -2,22 +2,22 @@ const axios = require('axios');
 const { ROANUZ_API_URL, ROANUZ_PROJ_KEY, REDIS_TTL_SHORT, REDIS_TTL_MEDIUM, REDIS_TTL_LONG, REDIS_TTL_LIVE } = require('../config/constants');
 const authService = require('./authService');
 const cacheService = require('./cacheService');
-function logAxiosError(err, fullUrl) {
-  if (err.response) {
-    console.error(`HTTP ${err.response.status} from ${fullUrl}`);
-    console.error('Response headers:', err.response.headers);
-    try {
-      // Pretty print JSON if possible
-      console.error('Response data:', JSON.stringify(err.response.data, null, 2));
-    } catch (_) {
-      console.error('Response data (raw):', err.response.data);
-    }
-  } else if (err.request) {
-    console.error('No response received from', fullUrl);
-  } else {
-    console.error('Request config error:', err.message);
-  }
-}
+// function logAxiosError(err, fullUrl) {
+//   if (err.response) {
+//     console.error(`HTTP ${err.response.status} from ${fullUrl}`);
+//     console.error('Response headers:', err.response.headers);
+//     try {
+//       // Pretty print JSON if possible
+//       console.error('Response data:', JSON.stringify(err.response.data, null, 2));
+//     } catch (_) {
+//       console.error('Response data (raw):', err.response.data);
+//     }
+//   } else if (err.request) {
+//     console.error('No response received from', fullUrl);
+//   } else {
+//     console.error('Request config error:', err.message);
+//   }
+// }
 
 /**
  * Roanuz API Service
@@ -53,119 +53,12 @@ class RoanuzService {
    * @param {number} options.cacheTTL - Cache TTL in seconds
    * @returns {Promise<Object>} API response
    */
-  // async makeRequest(method, url, data = null, options = {}) {
-  //   const { useCache = true, cacheTTL = REDIS_TTL_SHORT } = options;
-  //   const cacheKey = `roanuz:${method}:${url}:${data ? JSON.stringify(data) : ''}`;
-    
-  //   try {
-  //     // Try to get from cache first if caching is enabled
-  //     if (useCache) {
-  //       const cachedData = await cacheService.get(cacheKey);
-  //       if (cachedData) {
-  //         console.log(`Cache hit for ${url}`);
-  //         return cachedData;
-  //       }
-  //       console.log(`Cache miss for ${url}`);
-  //     }
-      
-  //     const apiClient = await this.createApiClient();
-  //     const fullUrl = `${ROANUZ_API_URL}${url}`;
-  //     console.log(`Making ${method.toUpperCase()} request to: ${fullUrl}`);
-      
-  //     const config = { method, url };
-  //     if (data) {
-  //       config.data = data;
-  //     }
-
-  //     const response = await apiClient(config);
-      
-  //     // Cache the response if caching is enabled
-  //     if (useCache && response.data) {
-  //       let ttl = cacheTTL;
-        
-  //       // If Roanuz provides cache info, use that instead
-  //       if (response.data.cache) {
-  //         if (response.data.cache.expires) {
-  //           // If expires timestamp is provided, calculate TTL as (expires - current time)
-  //           const expiresMs = response.data.cache.expires * 1000; // Convert to milliseconds
-  //           const currentMs = Date.now();
-  //           if (expiresMs > currentMs) {
-  //             ttl = Math.floor((expiresMs - currentMs) / 1000); // Convert back to seconds
-  //           }
-  //         } else if (response.data.cache.max_age) {
-  //           // If max_age is provided in seconds, use that directly
-  //           ttl = response.data.cache.max_age;
-  //         }
-  //       }
-        
-  //       console.log(`Caching response for ${url} with TTL: ${ttl}s`);
-  //       await cacheService.set(cacheKey, response.data, ttl);
-  //     }
-      
-  //     return response.data;
-  //   } catch (error) {
-  //     console.error(`Error1 making ${method} request to ${url}:`, error.message);
-  //     console.error('Full URL2:', `${ROANUZ_API_URL}${url}`);
-  //     console.error('Full URL1:', fullUrl);
-  //     console.error("Actual error is",error);
-
-  //   // 🔴 This is the important new line: dump the server's JSON error
-  //   logAxiosError(error, fullUrl);
-      
-  //     // Handle authentication errors
-  //     if (error.response && error.response.status === 401) {
-  //       console.log('Authentication error, trying to refresh token...');
-  //       await authService.forceRefreshToken();
-        
-  //       // Retry the request once with new token
-  //       const apiClient = await this.createApiClient();
-  //       const config = { method, url };
-  //       if (data) {
-  //         config.data = data;
-  //       }
-        
-  //       const response = await apiClient(config);
-        
-  //       // Cache the response if caching is enabled
-  //       if (useCache && response.data) {
-  //         let ttl = cacheTTL;
-          
-  //         // If Roanuz provides cache info, use that instead
-  //         if (response.data.cache) {
-  //           if (response.data.cache.expires) {
-  //             // If expires timestamp is provided, calculate TTL as (expires - current time)
-  //             const expiresMs = response.data.cache.expires * 1000; // Convert to milliseconds
-  //             const currentMs = Date.now();
-  //             if (expiresMs > currentMs) {
-  //               ttl = Math.floor((expiresMs - currentMs) / 1000); // Convert back to seconds
-  //             }
-  //           } else if (response.data.cache.max_age) {
-  //             // If max_age is provided in seconds, use that directly
-  //             ttl = response.data.cache.max_age;
-  //           }
-  //         }
-          
-  //         await cacheService.set(cacheKey, response.data, ttl);
-  //       }
-        
-  //       return response.data;
-  //     }
-      
-  //     throw error;
-  //   }
-  // }
-
   async makeRequest(method, url, data = null, options = {}) {
     const { useCache = true, cacheTTL = REDIS_TTL_SHORT } = options;
-  
-    // Make a stable cache key (differs by method + url + body)
     const cacheKey = `roanuz:${method}:${url}:${data ? JSON.stringify(data) : ''}`;
-  
-    // ⬇️ Declare fullUrl here so it’s visible in try + catch
-    const fullUrl = `${ROANUZ_API_URL}${url}`;
-  
+    
     try {
-      // 1) Cache (if enabled)
+      // Try to get from cache first if caching is enabled
       if (useCache) {
         const cachedData = await cacheService.get(cacheKey);
         if (cachedData) {
@@ -174,83 +67,190 @@ class RoanuzService {
         }
         console.log(`Cache miss for ${url}`);
       }
-  
-      // 2) Axios instance with rs-token + baseURL
+      
       const apiClient = await this.createApiClient();
-  
+      const fullUrl = `${ROANUZ_API_URL}${url}`;
       console.log(`Making ${method.toUpperCase()} request to: ${fullUrl}`);
-  
-      const config = { method, url };          // url is RELATIVE; baseURL is on the instance
-      if (data !== null) config.data = data;   // send JSON body for POST/PUT
-  
-      // 3) Execute request
+      
+      const config = { method, url };
+      if (data) {
+        config.data = data;
+      }
+
       const response = await apiClient(config);
-  
-      // 4) Cache positive responses (optional; honor Roanuz cache hints)
+      
+      // Cache the response if caching is enabled
       if (useCache && response.data) {
         let ttl = cacheTTL;
-        const rc = response.data.cache;
-        if (rc) {
-          if (rc.expires) {
-            const diffSec = Math.floor((rc.expires * 1000 - Date.now()) / 1000);
-            if (diffSec > 0) ttl = diffSec;
-          } else if (rc.max_age) {
-            ttl = rc.max_age;
+        
+        // If Roanuz provides cache info, use that instead
+        if (response.data.cache) {
+          if (response.data.cache.expires) {
+            // If expires timestamp is provided, calculate TTL as (expires - current time)
+            const expiresMs = response.data.cache.expires * 1000; // Convert to milliseconds
+            const currentMs = Date.now();
+            if (expiresMs > currentMs) {
+              ttl = Math.floor((expiresMs - currentMs) / 1000); // Convert back to seconds
+            }
+          } else if (response.data.cache.max_age) {
+            // If max_age is provided in seconds, use that directly
+            ttl = response.data.cache.max_age;
           }
         }
+        
         console.log(`Caching response for ${url} with TTL: ${ttl}s`);
         await cacheService.set(cacheKey, response.data, ttl);
       }
-  
+      
       return response.data;
     } catch (error) {
-      // ⬇️ You can safely use fullUrl here now
-      console.error(`Error making ${method} request to ${url}: ${error.message}`);
-      console.error('Full URL:', fullUrl);
-  
-      // Print raw axios error object bits (often useful)
-      if (error.response) {
-        console.error('Status:', error.response.status);
-        console.error('Headers:', error.response.headers);
-        console.error('Body:', JSON.stringify(error.response.data, null, 2)); // <-- The main thing you wanted
-      } else if (error.request) {
-        console.error('No response received from server.');
-      }
-  
-      // Pretty helper (duplicates some info but formats nicely)
-      logAxiosError(error, fullUrl);
-  
-      // Token expiry path: refresh once and retry
+      console.error(`Error1 making ${method} request to ${url}:`, error.message);
+      // console.error('Full URL2:', `${ROANUZ_API_URL}${url}`);
+      // console.error('Full URL1:', fullUrl);
+      // console.error("Actual error is",error);
+
+   
+    // logAxiosError(error, fullUrl);
+      
+      // Handle authentication errors
       if (error.response && error.response.status === 401) {
         console.log('Authentication error, trying to refresh token...');
         await authService.forceRefreshToken();
-  
+        
+        // Retry the request once with new token
         const apiClient = await this.createApiClient();
-        const retryConfig = { method, url };
-        if (data !== null) retryConfig.data = data;
-  
-        const response = await apiClient(retryConfig);
-  
+        const config = { method, url };
+        if (data) {
+          config.data = data;
+        }
+        
+        const response = await apiClient(config);
+        
+        // Cache the response if caching is enabled
         if (useCache && response.data) {
           let ttl = cacheTTL;
-          const rc = response.data.cache;
-          if (rc) {
-            if (rc.expires) {
-              const diffSec = Math.floor((rc.expires * 1000 - Date.now()) / 1000);
-              if (diffSec > 0) ttl = diffSec;
-            } else if (rc.max_age) {
-              ttl = rc.max_age;
+          
+          // If Roanuz provides cache info, use that instead
+          if (response.data.cache) {
+            if (response.data.cache.expires) {
+              // If expires timestamp is provided, calculate TTL as (expires - current time)
+              const expiresMs = response.data.cache.expires * 1000; // Convert to milliseconds
+              const currentMs = Date.now();
+              if (expiresMs > currentMs) {
+                ttl = Math.floor((expiresMs - currentMs) / 1000); // Convert back to seconds
+              }
+            } else if (response.data.cache.max_age) {
+              // If max_age is provided in seconds, use that directly
+              ttl = response.data.cache.max_age;
             }
           }
+          
           await cacheService.set(cacheKey, response.data, ttl);
         }
+        
         return response.data;
       }
-  
-      // Re-throw to upstream
+      
       throw error;
     }
   }
+
+  // async makeRequest(method, url, data = null, options = {}) {
+  //   const { useCache = true, cacheTTL = REDIS_TTL_SHORT } = options;
+  
+  //   // Make a stable cache key (differs by method + url + body)
+  //   const cacheKey = `roanuz:${method}:${url}:${data ? JSON.stringify(data) : ''}`;
+  
+  //   // ⬇️ Declare fullUrl here so it’s visible in try + catch
+  //   const fullUrl = `${ROANUZ_API_URL}${url}`;
+  
+  //   try {
+  //     // 1) Cache (if enabled)
+  //     if (useCache) {
+  //       const cachedData = await cacheService.get(cacheKey);
+  //       if (cachedData) {
+  //         console.log(`Cache hit for ${url}`);
+  //         return cachedData;
+  //       }
+  //       console.log(`Cache miss for ${url}`);
+  //     }
+  
+  //     // 2) Axios instance with rs-token + baseURL
+  //     const apiClient = await this.createApiClient();
+  
+  //     console.log(`Making ${method.toUpperCase()} request to: ${fullUrl}`);
+  
+  //     const config = { method, url };          // url is RELATIVE; baseURL is on the instance
+  //     if (data !== null) config.data = data;   // send JSON body for POST/PUT
+  
+  //     // 3) Execute request
+  //     const response = await apiClient(config);
+  
+  //     // 4) Cache positive responses (optional; honor Roanuz cache hints)
+  //     if (useCache && response.data) {
+  //       let ttl = cacheTTL;
+  //       const rc = response.data.cache;
+  //       if (rc) {
+  //         if (rc.expires) {
+  //           const diffSec = Math.floor((rc.expires * 1000 - Date.now()) / 1000);
+  //           if (diffSec > 0) ttl = diffSec;
+  //         } else if (rc.max_age) {
+  //           ttl = rc.max_age;
+  //         }
+  //       }
+  //       console.log(`Caching response for ${url} with TTL: ${ttl}s`);
+  //       await cacheService.set(cacheKey, response.data, ttl);
+  //     }
+  
+  //     return response.data;
+  //   } catch (error) {
+  //     // ⬇️ You can safely use fullUrl here now
+  //     console.error(`Error making ${method} request to ${url}: ${error.message}`);
+  //     console.error('Full URL:', fullUrl);
+  
+  //     // Print raw axios error object bits (often useful)
+  //     if (error.response) {
+  //       console.error('Status:', error.response.status);
+  //       console.error('Headers:', error.response.headers);
+  //       console.error('Body:', JSON.stringify(error.response.data, null, 2)); // <-- The main thing you wanted
+  //     } else if (error.request) {
+  //       console.error('No response received from server.');
+  //     }
+  
+  //     // Pretty helper (duplicates some info but formats nicely)
+  //     logAxiosError(error, fullUrl);
+  
+  //     // Token expiry path: refresh once and retry
+  //     if (error.response && error.response.status === 401) {
+  //       console.log('Authentication error, trying to refresh token...');
+  //       await authService.forceRefreshToken();
+  
+  //       const apiClient = await this.createApiClient();
+  //       const retryConfig = { method, url };
+  //       if (data !== null) retryConfig.data = data;
+  
+  //       const response = await apiClient(retryConfig);
+  
+  //       if (useCache && response.data) {
+  //         let ttl = cacheTTL;
+  //         const rc = response.data.cache;
+  //         if (rc) {
+  //           if (rc.expires) {
+  //             const diffSec = Math.floor((rc.expires * 1000 - Date.now()) / 1000);
+  //             if (diffSec > 0) ttl = diffSec;
+  //           } else if (rc.max_age) {
+  //             ttl = rc.max_age;
+  //           }
+  //         }
+  //         await cacheService.set(cacheKey, response.data, ttl);
+  //       }
+  //       return response.data;
+  //     }
+  
+  //     // Re-throw to upstream
+  //     throw error;
+  //   }
+  // }
 
   /**
    * Get featured matches

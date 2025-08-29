@@ -18,8 +18,8 @@ const countryRoutes = require('./routes/countryRoutes');
 const monitorRoutes = require('./routes/monitorRoutes');
 const searchRoutes = require('./routes/searchRoutes');
 const newsRoutes = require('./routes/newsRoutes');
-const { ROANUZ_WEBHOOK_FEED_PATH } = require('./config/constants');
-const roanuzWebhookRouter = require('./routes/roanuzWebhook');
+// const { ROANUZ_WEBHOOK_FEED_PATH } = require('./config/constants');
+// const roanuzWebhookRouter = require('./routes/roanuzWebhook');
 
 const rankingsRoutes = require('./routes/rankingsRoutes'); //unofficial
 const unofficialRoutes = require('./routes/unofficialRoutes'); //unofficial
@@ -39,7 +39,7 @@ console.log('REDIS_URL provided:', process.env.REDIS_URL ? 'Yes' : 'No');
 app.use(helmet()); // Security headers
 app.use(cors()); // Enable CORS for all routes
 app.use(morgan('dev')); // Request logging
-app.use('/webhooks/roanuz', roanuzWebhookRouter);
+// app.use('/webhooks/roanuz', roanuzWebhookRouter);
 app.use(express.json()); // Parse JSON request body
 
 app.use('/api', apiRoutes);
@@ -52,11 +52,11 @@ app.use('/api/search', searchRoutes);
 app.use('/api/unofficial', unofficialRoutes);
 app.use('/api/news', newsRoutes);
 // app.use('/webhooks/roanuz', roanuzWebhookRouter);
-app.get('/_debug/webhook-url', (req, res) => {
-  const base = `${req.protocol}://${req.get('host')}`;
-  const url = `${base}/webhooks/roanuz/match/feed/v1`;
-  res.json({ roanuz_webhook_url_to_set_in_console: url });
-});
+// app.get('/_debug/webhook-url', (req, res) => {
+//   const base = `${req.protocol}://${req.get('host')}`;
+//   const url = `${base}/webhooks/roanuz/match/feed/v1`;
+//   res.json({ roanuz_webhook_url_to_set_in_console: url });
+// });
 
 app.get('/', (req, res) => {
   res.status(200).json({ 
@@ -148,14 +148,14 @@ socketScorecardService.initialize(server);
 // Initialize Rankings Scheduler and Live Matches Poller after database connection
 const rankingsScheduler = require('./jobs/rankingsScheduler');
 const LiveMatchesPoller = require('./jobs/liveMatchesPoller');
-const LiveMatchesWebHookPoller = require('./jobs/liveMatchesWebHookPoller');
+// const LiveMatchesWebHookPoller = require('./jobs/liveMatchesWebHookPoller');
 
 const port = PORT;
 server.listen(port, async () => {
   console.log(`Server running on port ${port}`);
   console.log(`Environment: ${process.env.NODE_ENV || 'development'}`);
 
-  console.log('Roanuz Webhook URL to set:', `http://localhost:${port}/webhooks/roanuz/match/feed/v1`);
+  // console.log('Roanuz Webhook URL to set:', `http://localhost:${port}/webhooks/roanuz/match/feed/v1`);
   
   // Initialize rankings scheduler (handles initial sync and daily sync)
   try {
@@ -167,9 +167,10 @@ server.listen(port, async () => {
   
   // Initialize live matches poller (polls top 5 live matches every 5 seconds)
   try {
-    // const liveMatchesPoller = new LiveMatchesPoller();
-    const liveMatchesWebHookPoller = new LiveMatchesWebHookPoller();
-    liveMatchesWebHookPoller.start();
+    const liveMatchesPoller = new LiveMatchesPoller();
+    // const liveMatchesWebHookPoller = new LiveMatchesWebHookPoller();
+    liveMatchesPoller.start();
+    // liveMatchesWebHookPoller.start();
     console.log('✅ Live matches poller started successfully');
   } catch (error) {
     console.error('❌ Live matches poller initialization failed:', error.message);
