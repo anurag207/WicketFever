@@ -41,7 +41,7 @@ class LiveMatchesWebhook {
       console.log('🔍 Discovering live matches...');
       
       const apiResponse = await roanuzService.getFeaturedMatches({
-        useCache: true,
+        useCache: false,
         cacheTTL: REDIS_TTL_SHORT
       });
       
